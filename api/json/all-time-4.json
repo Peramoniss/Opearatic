@@ -1,0 +1,602 @@
+{
+    "Lizzo": {
+        "points": 3,
+        "awards": [
+            [
+                "Special",
+                "2nd place in Best Pop Album of the Year in 2022",
+                3
+            ]
+        ],
+        "best_pos": 102
+    },
+    "beabadoobee": {
+        "points": 3,
+        "awards": [
+            [
+                "Beatopia",
+                "3rd place in Best Pop Album of the Year in 2022",
+                3
+            ],
+            [
+                "Beatopia",
+                "4th place in Best Foreign Album of the Year (Asia) in 2022",
+                0
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Weatherday": {
+        "points": 3,
+        "awards": [
+            [
+                "Weatherglow",
+                "2nd place in Best EP of the Year in 2022",
+                3
+            ]
+        ],
+        "best_pos": 102
+    },
+    "Osees": {
+        "points": 3,
+        "awards": [
+            [
+                "Intercepted Message",
+                "2nd place in Best Electronic Album of the Year in 2023",
+                3
+            ]
+        ],
+        "best_pos": 102
+    },
+    "FBC": {
+        "points": 3,
+        "awards": [
+            [
+                "O Amor, o perdão e a tecnologia irão nos levar para outro planeta",
+                "3rd place in Best Electronic Album of the Year in 2023",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Yeule": {
+        "points": 3,
+        "awards": [
+            [
+                "Softscars",
+                "2nd place in Best Experimental Album of the Year in 2023",
+                3
+            ]
+        ],
+        "best_pos": 102
+    },
+    "Arthur Russell": {
+        "points": 3,
+        "awards": [
+            [
+                "Picture of Bunny Rabbit",
+                "3rd place in Best Experimental Album of the Year in 2023",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
+    "André 3000": {
+        "points": 3,
+        "awards": [
+            [
+                "New Blue Sun",
+                "2nd place in Best Jazz Album of the Year in 2023",
+                3
+            ]
+        ],
+        "best_pos": 102
+    },
+    "Cicada": {
+        "points": 3,
+        "awards": [
+            [
+                "Seeking the Sources of Streams",
+                "3rd place in Best Jazz Album of the Year in 2023",
+                3
+            ],
+            [
+                "Seeking the Sources of Streams",
+                "3rd place in Best Foreign Album of the Year (Asia) in 2023",
+                0
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Nourished by Time": {
+        "points": 3,
+        "awards": [
+            [
+                "Erotic Probiotic 2",
+                "3rd place in Best R&B Album of the Year in 2023",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Turnstile": {
+        "points": 3,
+        "awards": [
+            [
+                "New Heart Designs",
+                "2nd place in Best EP of the Year in 2023",
+                3
+            ]
+        ],
+        "best_pos": 102
+    },
+    "Four Tet": {
+        "points": 3,
+        "awards": [
+            [
+                "Three",
+                "3rd place in Best Electronic Album of the Year in 2024",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Mabe Fratti": {
+        "points": 3,
+        "awards": [
+            [
+                "Sentir que no sabes",
+                "3rd place in Best Experimental Album of the Year in 2024",
+                3
+            ],
+            [
+                "Sentir que no sabes",
+                "4th place in Best Foreign Album of the Year (North America) in 2024",
+                0
+            ]
+        ],
+        "best_pos": 103
+    },
+    "The Messthetics and James Brandon Lewis": {
+        "points": 3,
+        "awards": [
+            [
+                "The Messthetics and James Brandon Lewis",
+                "3rd place in Best Jazz Album of the Year in 2024",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Grande Mahogany": {
+        "points": 3,
+        "awards": [
+            [
+                "As Grande As",
+                "2nd place in Best R&B Album of the Year in 2024",
+                3
+            ],
+            [
+                "As Grande As",
+                "2nd place in Best Foreign Album of the Year (Europe) in 2024",
+                0
+            ]
+        ],
+        "best_pos": 102
+    },
+    "Michael Kiwanuka": {
+        "points": 3,
+        "awards": [
+            [
+                "Small Changes",
+                "3rd place in Best R&B Album of the Year in 2024",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Faerybabyy": {
+        "points": 3,
+        "awards": [
+            [
+                "Lucky Star EP",
+                "2nd place in Best EP of the Year in 2024",
+                3
+            ]
+        ],
+        "best_pos": 102
+    },
+    "Hinds": {
+        "points": 2,
+        "awards": [
+            [
+                "Viva Hinds",
+                "2nd place in Best Surprise of the year in 2024",
+                2
+            ]
+        ],
+        "best_pos": 102
+    },
+    "Suki Waterhouse": {
+        "points": 2,
+        "awards": [
+            [
+                "Memoir of a Sparklemuffin",
+                "3rd place in Best Surprise of the year in 2024",
+                2
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Lost Girls": {
+        "points": 1,
+        "awards": [
+            [
+                "Menneskekollektivet",
+                "4th place in Best Electronic Album of the Year in 2021",
+                1
+            ],
+            [
+                "Menneskekollektivet",
+                "5th place in Best Foreign Album of the Year (Europe) in 2021",
+                0
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Underscores": {
+        "points": 1,
+        "awards": [
+            [
+                "Fishmonger",
+                "5th place in Best Electronic Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Lana Del Rey": {
+        "points": 1,
+        "awards": [
+            [
+                "Chemtrails Over The Country Club",
+                "6th place in Best Folk Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 106
+    },
+    "Tyler, The Creator": {
+        "points": 1,
+        "awards": [
+            [
+                "Call Me If You Get Lost",
+                "5th place in Best Hip Hop Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "The London Symphony Orchestra": {
+        "points": 1,
+        "awards": [
+            [
+                "Promises",
+                "4th place in Best Jazz Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Japanese Breakfast": {
+        "points": 1,
+        "awards": [
+            [
+                "Jubilee",
+                "5th place in Best Pop Album of the Year in 2021",
+                1
+            ],
+            [
+                "Jubilee",
+                "5th place in Best Foreign Album of the Year (Asia) in 2021",
+                0
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Remi Wolf": {
+        "points": 1,
+        "awards": [
+            [
+                "Juno",
+                "4th place in Best R&B Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Yola": {
+        "points": 1,
+        "awards": [
+            [
+                "Stand For Myself",
+                "5th place in Best R&B Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Shame": {
+        "points": 1,
+        "awards": [
+            [
+                "Drunk Tank Pink",
+                "5th place in Best Rock Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Adele": {
+        "points": 1,
+        "awards": [
+            [
+                "30",
+                "5th place in Best Surprise of the year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "PinkPantheress": {
+        "points": 1,
+        "awards": [
+            [
+                "To Hell With It",
+                "4th place in Best EP of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Beach Bunny": {
+        "points": 1,
+        "awards": [
+            [
+                "Blame Game",
+                "5th place in Best EP of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Charli XCX": {
+        "points": 1,
+        "awards": [
+            [
+                "Crash",
+                "4th place in Best Electronic Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Grace Ives": {
+        "points": 1,
+        "awards": [
+            [
+                "Janky Star",
+                "5th place in Best Electronic Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Hatchie": {
+        "points": 1,
+        "awards": [
+            [
+                "Giving the World Away",
+                "6th place in Best Electronic Album of the Year in 2022",
+                1
+            ],
+            [
+                "Giving the World Away",
+                "5th place in Best Foreign Album of the Year (Oceania) in 2022",
+                0
+            ]
+        ],
+        "best_pos": 106
+    },
+    "Perfume Genius": {
+        "points": 1,
+        "awards": [
+            [
+                "Ugly Season",
+                "4th place in Best Experimental Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "billy woods x Messiah Musik": {
+        "points": 1,
+        "awards": [
+            [
+                "Church",
+                "5th place in Best Experimental Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Vauruvã": {
+        "points": 1,
+        "awards": [
+            [
+                "Por nós da ventania",
+                "4th place in Best Extreme Album of the Year in 2022",
+                1
+            ],
+            [
+                "Por nós da ventania",
+                "5th place in Best Foreign Album of the Year (South America) in 2022",
+                0
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Dream Widow": {
+        "points": 1,
+        "awards": [
+            [
+                "Dream Widow",
+                "5th place in Best Extreme Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Aldous Harding": {
+        "points": 1,
+        "awards": [
+            [
+                "Warm Chris",
+                "4th place in Best Folk Album of the Year in 2022",
+                1
+            ],
+            [
+                "Warm Chris",
+                "3rd place in Best Foreign Album of the Year (Oceania) in 2022",
+                0
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Tim Bernardes": {
+        "points": 1,
+        "awards": [
+            [
+                "Mil coisas invisíveis",
+                "5th place in Best Folk Album of the Year in 2022",
+                1
+            ],
+            [
+                "Mil coisas invisíveis",
+                "4th place in Best Foreign Album of the Year (South America) in 2022",
+                0
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Clair Clair": {
+        "points": 1,
+        "awards": [
+            [
+                "Sexy",
+                "4th place in Best Hip Hop Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "J.I.D.": {
+        "points": 1,
+        "awards": [
+            [
+                "The Forever Story",
+                "6th place in Best Hip Hop Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 106
+    },
+    "DOMi": {
+        "points": 1,
+        "awards": [
+            [
+                "Not Tight",
+                "4th place in Best Jazz Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "JD Beck": {
+        "points": 1,
+        "awards": [
+            [
+                "Not Tight",
+                "5th place in Best Jazz Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Binker and the Moses": {
+        "points": 1,
+        "awards": [
+            [
+                "Feeding the Machine",
+                "6th place in Best Jazz Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 106
+    },
+    "Luna Li": {
+        "points": 1,
+        "awards": [
+            [
+                "Duality",
+                "4th place in Best Pop Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Harry Styles": {
+        "points": 1,
+        "awards": [
+            [
+                "Harry's House",
+                "5th place in Best Pop Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Tim Soulman": {
+        "points": 1,
+        "awards": [
+            [
+                "Black Tupi",
+                "4th place in Best R&B Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Sudan Archives": {
+        "points": 1,
+        "awards": [
+            [
+                "Natural Brown Prom Queen",
+                "5th place in Best R&B Album of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "The 1975": {
+        "points": 1,
+        "awards": [
+            [
+                "Being Funny In A Foreign Language",
+                "5th place in Best Surprise of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 105
+    }
+}

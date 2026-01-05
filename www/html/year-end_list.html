@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Album Reviews</title>
+		<link rel="icon" href="../img/icon.ico" type="image/x-icon">
+		<!-- Fonts used in Shuffle (Inter + DM Sans) -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+		<!-- Bootstrap CSS -->
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+		<!-- Bootstrap JS (opcional, mas necessário para navbar mobile) -->
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" defer></script>
+		<!-- Fonts used in Shuffle (Inter + DM Sans) -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+		<link rel="stylesheet" href="../css/styles.css"> 
+	</head>
+	<body>
+		
+		<script src="../js/year-end_list.js"></script>
+		<section class="pb-24 bg-page overflow-hidden">
+			<div class="position-relative">
+			<nav class="navbar navbar-expand-lg py-5 py-lg-1">
+				<div class="container-fluid">
+					<img class="img-fluid logo" src="../img/icon-light.png" alt="vinyl-logo" style="max-width: 50px">
+					<!-- BURGER -->
+					<button
+						class="navbar-toggler"
+						type="button"
+						data-bs-toggle="collapse"
+						data-bs-target="#mainNavbar"
+						aria-controls="mainNavbar"
+						aria-expanded="false"
+						aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+					</button>
+					<!-- COLLAPSIBLE CONTENT -->
+					<div class="collapse navbar-collapse justify-content-center" id="mainNavbar">
+						<ul class="navbar-nav">
+							<li class="nav-item p-6">
+								<a class="nav-link link-secondary p-0" href="years.html">Home</a>
+							</li>
+							<!-- YEAR DROPDOWN -->
+							<li class="nav-item dropdown p-6">
+								<a
+									class="nav-link link-secondary p-0 dropdown-toggle"
+									href="#"
+									id="yearEndDropdown"
+									role="button"
+									data-bs-toggle="dropdown"
+									aria-expanded="false">
+								Year-end List
+								</a>
+								<ul id="dropdown-lists" class="dropdown-menu shadow-sm rounded-4" aria-labelledby="yearEndDropdown">
+									<li>
+										<hr class="dropdown-divider">
+									</li>
+									<li><a class="dropdown-item fw-semibold text-muted" href="years.html">All years →</a></li>
+								</ul>
+							</li>
+							<li class="nav-item p-6">
+								<a class="nav-link link-secondary p-0" href="all-time.html">All-time List</a>
+							</li>
+						</ul>
+					</div>
+					<!-- RIGHT ACTIONS -->
+					<div class="d-none d-lg-block">
+						<a id="themeToggle" class="btn btn-sm btn-success text-success-light shadow">
+						Toggle theme
+						</a>
+					</div>
+				</div>
+			</nav>
+			<div class="container" id="macro">
+			<div class="mb-5 px-6 position-relative">
+				<div class="text-center mb-5">
+					<span class="mb-4 badge bg-success text-white text-uppercase shadow">Reviews</span>
+					<h1 class="mb-6 font-heading fs-4" style="letter-spacing: -1px;" id="title"></h1>
+					<p class="fs-9 fw-medium text-secondary mw-xl mx-auto">In my humble and idiotic opinion. Hopefully it contains some of your favorites, as well as some great albums you didn't know about.</p>
+					<div class="d-flex justify-content-center mt-4">
+						<div  class="px-3 py-2 rounded-pill border bg-white text-secondary fs-11 shadow-sm">
+							<span id="modified" class="fw-semibold"></span>
+						</div>
+					</div>
+					<div class="d-flex justify-content-between align-items-center mt-4 mx-auto" style="max-width: 480px;" id="year-nav">
+						<!-- NAV between years -->
+					</div>
+				</div>
+				<div id="reviews" class="row g-8 mb-5">
+					<!-- REVIEWS WILL BE INSERTED IN HERE -->
+				</div>
+				<div class="border-top text-center mb-16" style="padding-top: 2rem;">
+					<span class="mb-4 badge bg-success text-white text-uppercase shadow">Awards</span>
+					<h1 class="mb-6 font-heading fs-4" style="letter-spacing: -1px;" id="awards"></h1>
+					<p class="fs-9 fw-medium text-secondary mw-xl mx-auto">The least respected music awards in the world. A chance for <s>me</s> you to get to know good album from niches outside of your usual scope.</p>
+					<div id="awardsGrid" class="row g-8 mb-5">
+						<!-- AWARDS WILL BE INSERTED IN HERE -->
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="bg-light-light" style="padding-bottom: 0 !important; padding-top: 2rem !important">
+			<div class="container">
+				<div class="text-center mb-16">
+					<h2 class="mb-6 font-heading fs-5" style="letter-spacing: -1px;">About</h2>
+					<p class="fs-9 fw-medium text-secondary mw-xl mx-auto">This site is a personal project of mine (Eduardo Pereira) to susbtitute the manual list-making process I had in <a href="rateyourmusic.com/~Peramon">RYM</a>, since I am constantly updating it and it's a drag to keep consistency like that. The tone is informal and the idea is just to gather my taste in music in a nice environment and rank my favorite artists based on how good they were compared to their contemporaries. Front-end is my biggest enemy so everything good about it is AI and everything bad is my fault. I'm sorry for that.</p>
+				</div>
+				<div class="row">
+					<div class="col-12 col-md-4">
+						<div class="text-center p-6">
+							<div class="mb-6 mx-auto d-flex align-items-center justify-content-center bg-success rounded-circle" style="width: 80px; height: 80px;">
+								<svg width="40" height="40" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="white"></path>
+								</svg>
+							</div>
+							<h4 class="mb-4 font-heading fs-7">Constantly Expanding</h4>
+							<p class="mb-0 text-secondary">Lists are always revisited and improved.</p>
+						</div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-center p-6">
+							<div class="mb-6 mx-auto d-flex align-items-center justify-content-center bg-success rounded-circle" style="width: 80px; height: 80px;">
+								<svg width="40" height="40" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="white" stroke-width="2"></path>
+									<path d="M12 6V12L16 14" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+								</svg>
+							</div>
+							<h4 class="mb-4 font-heading fs-7">All-Time Goal</h4>
+							<p class="mb-0 text-secondary">Lists will be added for future and past years.</p>
+						</div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-center p-6">
+							<div class="mb-6 mx-auto d-flex align-items-center justify-content-center bg-success rounded-circle" style="width: 80px; height: 80px;">
+								<svg width="40" height="40" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M20 21V19C20 17.9391 19.5786 16.9217 18.8284 16.1716C18.0783 15.4214 17.0609 15 16 15H8C6.93913 15 5.92172 15.4214 5.17157 16.1716C4.42143 16.9217 4 17.9391 4 19V21" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+									<path d="M12 11C14.2091 11 16 9.20914 16 7C16 4.79086 14.2091 3 12 3C9.79086 3 8 4.79086 8 7C8 9.20914 9.79086 11 12 11Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+								</svg>
+							</div>
+							<h4 class="mb-4 font-heading fs-7">One-Man Stupidity</h4>
+							<p class="mb-0 text-secondary">No reason to share your hatred between several members of an academy - there's just one idiot here.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<footer class="bg-secondary-dark" style="padding-top: 1rem !important; padding-bottom:2rem !important;">
+			<div class="container">
+				<div class="pt-8 border-top border-secondary">
+					<div class="row align-items-center">
+						<div class="col-12 col-md-6 text-center text-md-start mb-4 mb-md-0">
+							<p class="mb-0 text-secondary-light fs-11">© 2024 Opearatic. 🧿🍐atic. No rights reserved.</p>
+						</div>
+						<div class="col-12 col-md-6">
+							<div class="d-flex justify-content-center justify-content-md-end gap-4">
+								<a class="text-secondary-light fs-4" href="https://github.com/Peramoniss">
+								<i class="bi bi-github"></i>
+								</a>
+								<a class="text-secondary-light fs-4" title="All media" href="https://linktr.ee/Peramon">
+								<i class="bi bi-box-arrow-up-right"></i>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>
