@@ -111,10 +111,12 @@ The frontend:
 
 ### Front-end architecture
 
-- `www/index.html` redirects to the html folder (needed because of GitHub pages structure)
-- All HTML files have a div with `navbar-nav` class that has the upper navigation bar and a footer with aditional social media linking  
-- `www/html/years.html` is the true home. 
--
+- `www/index.html` redirects to the html folder (needed because of GitHub pages structure).
+- All HTML files have a div with `navbar-nav` class that has the upper navigation bar and a footer with aditional social media linking.
+- Decade-end lists, All-Time, or Genre-based lists could be added as new dropdown lists in the navbar, being logically separated from the Year-End lists. These lists would be in `api/json` and would be added in `analyzer.py` as name exceptions in `get_available_years()`. New functions to get all decades, or all genres could be added as well to support those new features. 
+- `www/html/years.html` is the true home. It has an about section and a list with all available Year-End lists.
+- `www/html/year-end_list.html` renders dynamically the year-end lists based on query parameters that define the year (`?year=2022`) and the API result.
+- `www/html/all-time.html` renders dynamically 50 of the best artists in the ranking, based on which page is being loaded. The page is defined using query parameters as well (`?page=2`), and shows the artists from rank $1 + (page-1) * 50$ to rank $page * 50$.
 
 ---
 
