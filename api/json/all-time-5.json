@@ -1,70 +1,4 @@
 {
-    "Jo Yuri": {
-        "points": 1,
-        "awards": [
-            [
-                "Op.22 Y-Waltz : in Major",
-                "6th place in Best EP of the Year in 2022",
-                1
-            ]
-        ],
-        "best_pos": 106
-    },
-    "Liturgy": {
-        "points": 1,
-        "awards": [
-            [
-                "93696",
-                "5th place in Best Extreme Album of the Year in 2023",
-                1
-            ]
-        ],
-        "best_pos": 105
-    },
-    "Maria Luiza Jobim": {
-        "points": 1,
-        "awards": [
-            [
-                "Azul",
-                "5th place in Best Pop Album of the Year in 2023",
-                1
-            ]
-        ],
-        "best_pos": 105
-    },
-    "Yves Tumor": {
-        "points": 1,
-        "awards": [
-            [
-                "Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds)",
-                "5th place in Best Surprise of the year in 2023",
-                1
-            ]
-        ],
-        "best_pos": 105
-    },
-    "Jonabug": {
-        "points": 1,
-        "awards": [
-            [
-                "Big Ego, No Self Esteem",
-                "5th place in Best EP of the Year in 2023",
-                1
-            ]
-        ],
-        "best_pos": 105
-    },
-    "hemlocke springs": {
-        "points": 1,
-        "awards": [
-            [
-                "going…going…GONE!",
-                "6th place in Best EP of the Year in 2023",
-                1
-            ]
-        ],
-        "best_pos": 106
-    },
     "Songs of a Lost World": {
         "points": 1,
         "awards": [
@@ -234,5 +168,60 @@
             ]
         ],
         "best_pos": 105
+    },
+    "Liturgy": {
+        "points": 1,
+        "awards": [
+            [
+                "93696",
+                "5th place in Best Extreme Album of the Year in 2023",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Maria Luiza Jobim": {
+        "points": 1,
+        "awards": [
+            [
+                "Azul",
+                "5th place in Best Pop Album of the Year in 2023",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Yves Tumor": {
+        "points": 1,
+        "awards": [
+            [
+                "Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds)",
+                "5th place in Best Surprise of the year in 2023",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Jonabug": {
+        "points": 1,
+        "awards": [
+            [
+                "Big Ego, No Self Esteem",
+                "5th place in Best EP of the Year in 2023",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "hemlocke springs": {
+        "points": 1,
+        "awards": [
+            [
+                "going…going…GONE!",
+                "6th place in Best EP of the Year in 2023",
+                1
+            ]
+        ],
+        "best_pos": 106
     }
 }

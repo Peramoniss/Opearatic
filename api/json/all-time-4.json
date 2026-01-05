@@ -1,37 +1,107 @@
 {
-    "Lizzo": {
+    "Nala Sinephro": {
         "points": 3,
         "awards": [
             [
-                "Special",
-                "2nd place in Best Pop Album of the Year in 2022",
-                3
-            ]
-        ],
-        "best_pos": 102
-    },
-    "beabadoobee": {
-        "points": 3,
-        "awards": [
+                "Space 1.8",
+                "4th place in Best Foreign Album of the Year (Europe) in 2021",
+                0
+            ],
             [
-                "Beatopia",
-                "3rd place in Best Pop Album of the Year in 2022",
+                "Endlessness",
+                "2nd place in Best Electronic Album of the Year in 2024",
                 3
             ],
             [
-                "Beatopia",
-                "4th place in Best Foreign Album of the Year (Asia) in 2022",
+                "Endlessness",
+                "3rd place in Best Foreign Album of the Year (Europe) in 2024",
+                0
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Claire Rosinkranz": {
+        "points": 3,
+        "awards": [
+            [
+                "6 Of A Billion",
+                "3rd place in Best EP of the Year in 2021",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Four Tet": {
+        "points": 3,
+        "awards": [
+            [
+                "Three",
+                "3rd place in Best Electronic Album of the Year in 2024",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Mabe Fratti": {
+        "points": 3,
+        "awards": [
+            [
+                "Sentir que no sabes",
+                "3rd place in Best Experimental Album of the Year in 2024",
+                3
+            ],
+            [
+                "Sentir que no sabes",
+                "4th place in Best Foreign Album of the Year (North America) in 2024",
                 0
             ]
         ],
         "best_pos": 103
     },
-    "Weatherday": {
+    "The Messthetics and James Brandon Lewis": {
         "points": 3,
         "awards": [
             [
-                "Weatherglow",
-                "2nd place in Best EP of the Year in 2022",
+                "The Messthetics and James Brandon Lewis",
+                "3rd place in Best Jazz Album of the Year in 2024",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Grande Mahogany": {
+        "points": 3,
+        "awards": [
+            [
+                "As Grande As",
+                "2nd place in Best R&B Album of the Year in 2024",
+                3
+            ],
+            [
+                "As Grande As",
+                "2nd place in Best Foreign Album of the Year (Europe) in 2024",
+                0
+            ]
+        ],
+        "best_pos": 102
+    },
+    "Michael Kiwanuka": {
+        "points": 3,
+        "awards": [
+            [
+                "Small Changes",
+                "3rd place in Best R&B Album of the Year in 2024",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Faerybabyy": {
+        "points": 3,
+        "awards": [
+            [
+                "Lucky Star EP",
+                "2nd place in Best EP of the Year in 2024",
                 3
             ]
         ],
@@ -130,82 +200,6 @@
         ],
         "best_pos": 102
     },
-    "Four Tet": {
-        "points": 3,
-        "awards": [
-            [
-                "Three",
-                "3rd place in Best Electronic Album of the Year in 2024",
-                3
-            ]
-        ],
-        "best_pos": 103
-    },
-    "Mabe Fratti": {
-        "points": 3,
-        "awards": [
-            [
-                "Sentir que no sabes",
-                "3rd place in Best Experimental Album of the Year in 2024",
-                3
-            ],
-            [
-                "Sentir que no sabes",
-                "4th place in Best Foreign Album of the Year (North America) in 2024",
-                0
-            ]
-        ],
-        "best_pos": 103
-    },
-    "The Messthetics and James Brandon Lewis": {
-        "points": 3,
-        "awards": [
-            [
-                "The Messthetics and James Brandon Lewis",
-                "3rd place in Best Jazz Album of the Year in 2024",
-                3
-            ]
-        ],
-        "best_pos": 103
-    },
-    "Grande Mahogany": {
-        "points": 3,
-        "awards": [
-            [
-                "As Grande As",
-                "2nd place in Best R&B Album of the Year in 2024",
-                3
-            ],
-            [
-                "As Grande As",
-                "2nd place in Best Foreign Album of the Year (Europe) in 2024",
-                0
-            ]
-        ],
-        "best_pos": 102
-    },
-    "Michael Kiwanuka": {
-        "points": 3,
-        "awards": [
-            [
-                "Small Changes",
-                "3rd place in Best R&B Album of the Year in 2024",
-                3
-            ]
-        ],
-        "best_pos": 103
-    },
-    "Faerybabyy": {
-        "points": 3,
-        "awards": [
-            [
-                "Lucky Star EP",
-                "2nd place in Best EP of the Year in 2024",
-                3
-            ]
-        ],
-        "best_pos": 102
-    },
     "Hinds": {
         "points": 2,
         "awards": [
@@ -227,148 +221,6 @@
             ]
         ],
         "best_pos": 103
-    },
-    "Lost Girls": {
-        "points": 1,
-        "awards": [
-            [
-                "Menneskekollektivet",
-                "4th place in Best Electronic Album of the Year in 2021",
-                1
-            ],
-            [
-                "Menneskekollektivet",
-                "5th place in Best Foreign Album of the Year (Europe) in 2021",
-                0
-            ]
-        ],
-        "best_pos": 104
-    },
-    "Underscores": {
-        "points": 1,
-        "awards": [
-            [
-                "Fishmonger",
-                "5th place in Best Electronic Album of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 105
-    },
-    "Lana Del Rey": {
-        "points": 1,
-        "awards": [
-            [
-                "Chemtrails Over The Country Club",
-                "6th place in Best Folk Album of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 106
-    },
-    "Tyler, The Creator": {
-        "points": 1,
-        "awards": [
-            [
-                "Call Me If You Get Lost",
-                "5th place in Best Hip Hop Album of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 105
-    },
-    "The London Symphony Orchestra": {
-        "points": 1,
-        "awards": [
-            [
-                "Promises",
-                "4th place in Best Jazz Album of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 104
-    },
-    "Japanese Breakfast": {
-        "points": 1,
-        "awards": [
-            [
-                "Jubilee",
-                "5th place in Best Pop Album of the Year in 2021",
-                1
-            ],
-            [
-                "Jubilee",
-                "5th place in Best Foreign Album of the Year (Asia) in 2021",
-                0
-            ]
-        ],
-        "best_pos": 105
-    },
-    "Remi Wolf": {
-        "points": 1,
-        "awards": [
-            [
-                "Juno",
-                "4th place in Best R&B Album of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 104
-    },
-    "Yola": {
-        "points": 1,
-        "awards": [
-            [
-                "Stand For Myself",
-                "5th place in Best R&B Album of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 105
-    },
-    "Shame": {
-        "points": 1,
-        "awards": [
-            [
-                "Drunk Tank Pink",
-                "5th place in Best Rock Album of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 105
-    },
-    "Adele": {
-        "points": 1,
-        "awards": [
-            [
-                "30",
-                "5th place in Best Surprise of the year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 105
-    },
-    "PinkPantheress": {
-        "points": 1,
-        "awards": [
-            [
-                "To Hell With It",
-                "4th place in Best EP of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 104
-    },
-    "Beach Bunny": {
-        "points": 1,
-        "awards": [
-            [
-                "Blame Game",
-                "5th place in Best EP of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 105
     },
     "Charli XCX": {
         "points": 1,
@@ -594,6 +446,159 @@
             [
                 "Being Funny In A Foreign Language",
                 "5th place in Best Surprise of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Jo Yuri": {
+        "points": 1,
+        "awards": [
+            [
+                "Op.22 Y-Waltz : in Major",
+                "6th place in Best EP of the Year in 2022",
+                1
+            ]
+        ],
+        "best_pos": 106
+    },
+    "Lost Girls": {
+        "points": 1,
+        "awards": [
+            [
+                "Menneskekollektivet",
+                "4th place in Best Electronic Album of the Year in 2021",
+                1
+            ],
+            [
+                "Menneskekollektivet",
+                "5th place in Best Foreign Album of the Year (Europe) in 2021",
+                0
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Underscores": {
+        "points": 1,
+        "awards": [
+            [
+                "Fishmonger",
+                "5th place in Best Electronic Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Lana Del Rey": {
+        "points": 1,
+        "awards": [
+            [
+                "Chemtrails Over The Country Club",
+                "6th place in Best Folk Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 106
+    },
+    "Tyler, The Creator": {
+        "points": 1,
+        "awards": [
+            [
+                "Call Me If You Get Lost",
+                "5th place in Best Hip Hop Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "The London Symphony Orchestra": {
+        "points": 1,
+        "awards": [
+            [
+                "Promises",
+                "4th place in Best Jazz Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Japanese Breakfast": {
+        "points": 1,
+        "awards": [
+            [
+                "Jubilee",
+                "5th place in Best Pop Album of the Year in 2021",
+                1
+            ],
+            [
+                "Jubilee",
+                "5th place in Best Foreign Album of the Year (Asia) in 2021",
+                0
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Remi Wolf": {
+        "points": 1,
+        "awards": [
+            [
+                "Juno",
+                "4th place in Best R&B Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Yola": {
+        "points": 1,
+        "awards": [
+            [
+                "Stand For Myself",
+                "5th place in Best R&B Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Shame": {
+        "points": 1,
+        "awards": [
+            [
+                "Drunk Tank Pink",
+                "5th place in Best Rock Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "Adele": {
+        "points": 1,
+        "awards": [
+            [
+                "30",
+                "5th place in Best Surprise of the year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "PinkPantheress": {
+        "points": 1,
+        "awards": [
+            [
+                "To Hell With It",
+                "4th place in Best EP of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Beach Bunny": {
+        "points": 1,
+        "awards": [
+            [
+                "Blame Game",
+                "5th place in Best EP of the Year in 2021",
                 1
             ]
         ],
