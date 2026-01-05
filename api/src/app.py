@@ -44,4 +44,5 @@ def available_pages():
 
 @app.get("/")
 def health():
+    print("Healthy")
     return {"status": "ok"}
