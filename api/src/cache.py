@@ -1,5 +1,5 @@
-from src.analyzer import generate_all_time_list
-from src.config import JSON_DIR
+from .analyzer import generate_all_time_list
+from .config import JSON_DIR
 import json
 
 ITEMS_PER_PAGE = 50

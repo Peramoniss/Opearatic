@@ -1,9 +1,7 @@
 import json
 from pathlib import Path
 from datetime import datetime
-from src.config import JSON_DIR
-import requests
-
+from .config import JSON_DIR
 
 def get_available_years():
     folder = Path("./json")

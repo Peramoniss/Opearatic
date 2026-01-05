@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from src.analyzer import get_list, get_all_time_page, get_available_years, get_available_pages
+from .analyzer import get_list, get_all_time_page, get_available_years, get_available_pages
 
 app = FastAPI(
     title="Music Lists API",
