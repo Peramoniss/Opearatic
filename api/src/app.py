@@ -9,7 +9,7 @@ app = FastAPI(
 )
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # só para testes locais
+    allow_origins=["*"], 
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -41,3 +41,7 @@ def available_years():
 def available_pages():
     data = get_available_pages()
     return data
+
+@app.get("/")
+def health():
+    return {"status": "ok"}
