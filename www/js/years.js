@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', async () => {
     async function fetchAvailableYears() {
-    const response = await fetch(`http://127.0.0.1:8000/years`);
+    const response = await fetch(`https://opearatic.onrender.com/years`);
     if (!response.ok) throw new Error("Failed to fetch years");
     return await response.json();
     }

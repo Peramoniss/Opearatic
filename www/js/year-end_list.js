@@ -26,12 +26,12 @@ document.addEventListener('DOMContentLoaded', () => {
 	mq.addEventListener ? mq.addEventListener('change', handle) : mq.addListener(handle);
 
 	async function fetchAvailableYears() {
-		const response = await fetch(`http://127.0.0.1:8000/years`);
+		const response = await fetch(`https://opearatic.onrender.com/years`);
 		return await response.json();
 	}
 
 	async function fetchYear(year) {
-		const response = await fetch(`http://127.0.0.1:8000/year/${year}`);
+		const response = await fetch(`https://opearatic.onrender.com/year/${year}`);
 		console.log(response);
 
 		if (!response.ok) {
