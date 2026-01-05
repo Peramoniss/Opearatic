@@ -9,7 +9,7 @@ The project is split into:
 ---
 
 ## 📁 Project Structure
-
+```
 Opearatic/
 │
 ├── api/ # Python API
@@ -28,7 +28,7 @@ Opearatic/
 │ └── img/
 │
 └── README.md
-
+```
 ---
 
 ## 🧠 Architecture Overview
