@@ -4,7 +4,7 @@ from datetime import datetime
 from .config import JSON_DIR
 
 def get_available_years():
-    folder = Path(f"{JSON_DIR}/json")
+    folder = Path(JSON_DIR)
     years = []
     for f in folder.iterdir():
         if "all" not in f.name:
@@ -81,7 +81,7 @@ def position_format(pos: str):
 
 
 def generate_all_time_list():
-    pasta = Path(f"{JSON_DIR}/json")
+    pasta = Path(JSON_DIR)
     lists = []
     for f in pasta.iterdir():
         if "all" not in f.name:
@@ -159,7 +159,7 @@ def get_all_time_page(page: int):
         return json.load(json_file)
 
 def get_available_pages():
-    folder = Path(f"{JSON_DIR}/json")
+    folder = Path(JSON_DIR)
     pages = []
     for f in folder.iterdir():
         if "all" in f.name:
