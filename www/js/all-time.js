@@ -58,6 +58,28 @@ document.addEventListener('DOMContentLoaded', () => {
 		return await response.json();
 	}
 
+	/* ===========================================
+		THEME TOGGLE
+	=========================================== */
+	const toggleBtn = document.getElementById("themeToggle");
+	const root = document.documentElement;
+
+	const savedTheme = localStorage.getItem("theme");
+	if (savedTheme) {
+		root.dataset.theme = savedTheme;
+		toggleBtn.textContent = savedTheme === "dark" ? "☀️" : "🌙";
+	}
+
+	toggleBtn.addEventListener("click", () => {
+		const isDark = root.dataset.theme === "dark";
+		const nextTheme = isDark ? "light" : "dark";
+
+		root.dataset.theme = nextTheme;
+		localStorage.setItem("theme", nextTheme);
+
+		toggleBtn.textContent = nextTheme === "dark" ? "☀️" : "🌙";
+	});
+
 	function renderPagination(currentPage, totalPages) {
 		const pagContainer = document.getElementById("pagination");
 		pagContainer.innerHTML = "";
@@ -162,27 +184,5 @@ document.addEventListener('DOMContentLoaded', () => {
 				i++;
 			}
 		});
-	});
-
-	/* ===========================================
-		THEME TOGGLE
-	=========================================== */
-	const toggleBtn = document.getElementById("themeToggle");
-	const root = document.documentElement;
-
-	const savedTheme = localStorage.getItem("theme");
-	if (savedTheme) {
-		root.dataset.theme = savedTheme;
-		toggleBtn.textContent = savedTheme === "dark" ? "☀️" : "🌙";
-	}
-
-	toggleBtn.addEventListener("click", () => {
-		const isDark = root.dataset.theme === "dark";
-		const nextTheme = isDark ? "light" : "dark";
-
-		root.dataset.theme = nextTheme;
-		localStorage.setItem("theme", nextTheme);
-
-		toggleBtn.textContent = nextTheme === "dark" ? "☀️" : "🌙";
 	});
 });

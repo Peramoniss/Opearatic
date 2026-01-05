@@ -59,6 +59,28 @@ document.addEventListener('DOMContentLoaded', () => {
 		return await response.json();
 	}
 
+		/* ===========================================
+		THEME TOGGLE
+	=========================================== */
+	const toggleBtn = document.getElementById("themeToggle");
+	const root = document.documentElement;
+
+	const savedTheme = localStorage.getItem("theme");
+	if (savedTheme) {
+		root.dataset.theme = savedTheme;
+		toggleBtn.textContent = savedTheme === "dark" ? "☀️" : "🌙";
+	}
+
+	toggleBtn.addEventListener("click", () => {
+		const isDark = root.dataset.theme === "dark";
+		const nextTheme = isDark ? "light" : "dark";
+
+		root.dataset.theme = nextTheme;
+		localStorage.setItem("theme", nextTheme);
+
+		toggleBtn.textContent = nextTheme === "dark" ? "☀️" : "🌙";
+	});
+
 	const hon_html = `
 		<div class="col-12 my-8">
 			<div class="honorable-divider d-flex align-items-center justify-content-center">
@@ -262,27 +284,5 @@ document.addEventListener('DOMContentLoaded', () => {
 				awards_container.insertAdjacentHTML("beforeend", awardCard);
 			});
 		});
-	});
-
-	/* ===========================================
-		THEME TOGGLE
-	=========================================== */
-	const toggleBtn = document.getElementById("themeToggle");
-	const root = document.documentElement;
-
-	const savedTheme = localStorage.getItem("theme");
-	if (savedTheme) {
-		root.dataset.theme = savedTheme;
-		toggleBtn.textContent = savedTheme === "dark" ? "☀️" : "🌙";
-	}
-
-	toggleBtn.addEventListener("click", () => {
-		const isDark = root.dataset.theme === "dark";
-		const nextTheme = isDark ? "light" : "dark";
-
-		root.dataset.theme = nextTheme;
-		localStorage.setItem("theme", nextTheme);
-
-		toggleBtn.textContent = nextTheme === "dark" ? "☀️" : "🌙";
 	});
 });
