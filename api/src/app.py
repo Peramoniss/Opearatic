@@ -9,7 +9,7 @@ app = FastAPI(
 )
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], 
+    allow_origins=["https://peramoniss.github.io/Opearatic/"], 
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -35,12 +35,12 @@ def all_time(page: int):
 @app.get("/years")
 def available_years():
     data = get_available_years()
-    return data
+    return sorted(data, key=int)
 
 @app.get("/pages")
 def available_pages():
     data = get_available_pages()
-    return data
+    return sorted(data, key=int)
 
 @app.get("/")
 def health():

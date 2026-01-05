@@ -71,20 +71,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	const container = document.getElementById("reviews");
 	const awards_container = document.getElementById("awardsGrid");
-	container.insertAdjacentHTML("beforeend", hon_html);
 
-	const params = new URLSearchParams(window.location.search);
-	const temp_year = parseInt(params.get("year"), 10);
-
+    
 	fetchAvailableYears().then(available_years => {
-		const nav = document.getElementById("dropdown-lists");
+        const nav = document.getElementById("dropdown-lists");
 		year_nav = `
-			<li><a class="dropdown-item" href="?year=${available_years.at(-1)}">${available_years.at(-1)}</a></li>
-			<li><a class="dropdown-item" href="?year=${available_years.at(-2)}">${available_years.at(-2)}</a></li>
-			<li><a class="dropdown-item" href="?year=${available_years.at(-3)}">${available_years.at(-3)}</a></li>
+        <li><a class="dropdown-item" href="?year=${available_years.at(-1)}">${available_years.at(-1)}</a></li>
+        <li><a class="dropdown-item" href="?year=${available_years.at(-2)}">${available_years.at(-2)}</a></li>
+        <li><a class="dropdown-item" href="?year=${available_years.at(-3)}">${available_years.at(-3)}</a></li>
 		`;
 		nav.insertAdjacentHTML("afterbegin", year_nav);
-
+        
+        const params = new URLSearchParams(window.location.search);
+        const temp_year = parseInt(params.get("year"), 10);
 		year = Number.isInteger(temp_year) ? temp_year : available_years.at(-1);
 
 		const title = document.getElementById("title");
@@ -98,8 +97,12 @@ document.addEventListener('DOMContentLoaded', () => {
 		const currentYear = Number(year);
 		const index = years.indexOf(currentYear);
 
+        console.log(years)
+        console.log(currentYear)
+        console.log(index)
 		if (index > 0) {
 			const prevYear = years[index - 1];
+        console.log(prevYear)
 			yearNav.insertAdjacentHTML(
 				"beforeend",
 				`
@@ -117,6 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 		if (index < years.length - 1) {
 			const nextYear = years[index + 1];
+        console.log(nextYear)
 			yearNav.insertAdjacentHTML(
 				"beforeend",
 				`
@@ -138,6 +142,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 			let honorable = true;
 			let i = data.list.length;
+            container.textContent = ""
+        	container.insertAdjacentHTML("beforeend", hon_html);
 
 			data.list.forEach(item => {
 				if (item.honorable == 0 && honorable === true) {

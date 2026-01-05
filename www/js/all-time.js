@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 		fetchAllTime(page).then(async data => {
 			let i = 1 + 50 * (page - 1);
-
+            container.textContent = ""
 			for (const [artistName, artistData] of Object.entries(data)) {
 				const cover = await getCover(artistData);
 
@@ -158,7 +158,6 @@ document.addEventListener('DOMContentLoaded', () => {
 						</div>
 					</div>
 				`;
-
 				container.insertAdjacentHTML("beforeend", template);
 				i++;
 			}
