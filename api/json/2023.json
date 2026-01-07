@@ -601,18 +601,6 @@
       "prize-picture": "https://npr.brightspotcdn.com/dims4/default/c9eef5d/2147483647/strip/true/crop/700x700+0+0/resize/880x880!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3b%2F9f%2Fc3eb957c44dca7c1a948e0c6776f%2Flonnie-003-1620924420.jpeg"
     },
     {
-      "title": "Best Extreme Album of the Year",
-      "nominees": [
-        "Divine Inner Tension - Hail The Sun",
-        "Super Snõõper - Snooper",
-        "Ontological Mysterium - Horrendous",
-        "PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation - King Gizzard and The Lizard Wizard",
-        "93696 - Liturgy"
-      ],
-      "winner-sentence": "This year had many returns to form. This is another one, and it happened to one of the bands I wanted the most. One of the best Post-Harcore / Emo bands I know.",
-      "prize-picture": "https://f4.bcbits.com/img/0013968358_25.jpg"
-    },
-    {
       "title": "Best Folk Album of the Year",
       "nominees": [
         "Javelin - Sufjan Stevens",
@@ -623,6 +611,18 @@
       ],
       "winner-sentence": "It's Sufjan. If you want to cry to beautiful music, you know where to go.",
       "prize-picture": "https://rollingstone.com.br/wp-content/uploads/2023/10/sufjan-stevens-photo-by-kevin-winter-getty-images.jpg"
+    },
+    {
+      "title": "Best Heavy Album of the Year",
+      "nominees": [
+        "Divine Inner Tension - Hail The Sun",
+        "Super Snõõper - Snooper",
+        "Ontological Mysterium - Horrendous",
+        "PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation - King Gizzard and The Lizard Wizard",
+        "93696 - Liturgy"
+      ],
+      "winner-sentence": "This year had many returns to form. This is another one, and it happened to one of the bands I wanted the most. One of the best Post-Harcore / Emo bands I know.",
+      "prize-picture": "https://f4.bcbits.com/img/0013968358_25.jpg"
     },
     {
       "title": "Best Hip Hop Album of the Year",
@@ -725,7 +725,7 @@
       "prize-picture": "https://substackcdn.com/image/fetch/$s_!m8r-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0eac25bb-b046-4b06-ae5e-578dfbf9161a_2400x1600.jpeg"
     },
     {
-      "title": "Best Foreign Album of the Year (North America)",
+      "title": "Best Foreign Album of the Year (North or Central America)",
       "nominees": [
         "Nico Paulo - Nico Paulo [Canada]",
         "The Loveliest Time - Carly Rae Jepsen [Canada]",

@@ -543,16 +543,6 @@
       "prize-picture": "https://i.scdn.co/image/ab67616100005174f8b444be27df300ff67bde10"
     },
     {
-      "title": "Best Extreme Album",
-      "nominees": [
-        "Holoceno - Papangu",
-        "Ultrapop - The Armed",
-        "I Became Birds - Home Is Where"
-      ],
-      "winner-sentence": "LET'S GO BRAZIL.",
-      "prize-picture": "https://bassdoom.home.blog/wp-content/uploads/2021/09/papangu-holoceno-paraiba-rym-rateyourmusic-metal-sludge-zeuhl-bandcamp.jpg"
-    },
-    {
       "title": "Best Folk Album of the Year",
       "nominees": [
         "A Beginner's Mind - Sufjan Stevens & Angelo De Augustine",
@@ -563,6 +553,16 @@
       ],
       "winner-sentence": "Bet you didn't see that coming.",
       "prize-picture": "https://siterg.uol.com.br/wp-content/uploads/2021/08/SUFJAN-STEVENS-E-ANGELO-DE-AUGUSTINE-divulgacao.jpeg"
+    },
+    {
+      "title": "Best Heavy Album of the Year",
+      "nominees": [
+        "Holoceno - Papangu",
+        "Ultrapop - The Armed",
+        "I Became Birds - Home Is Where"
+      ],
+      "winner-sentence": "LET'S GO BRAZIL.",
+      "prize-picture": "https://bassdoom.home.blog/wp-content/uploads/2021/09/papangu-holoceno-paraiba-rym-rateyourmusic-metal-sludge-zeuhl-bandcamp.jpg"
     },
     {
       "title": "Best Hip Hop Album of the Year",
@@ -668,7 +668,7 @@
       "prize-picture": "https://images.mubicdn.net/images/cast_member/454114/cache-335408-1525390908/image-w856.jpg"
     },
     {
-      "title": "Best Foreign Album of the Year (North America)",
+      "title": "Best Foreign Album of the Year (North or Central America)",
       "nominees": [
         "Talk Memory - BADBADNOTGOOD [Canada]",
         "Un canto por México vol. 2 - Natalia Lafourcade [Mexico]",

@@ -659,18 +659,6 @@
       "prize-picture": "https://m.media-amazon.com/images/M/MV5BMDBhZjQwZmQtYjVlMC00NmMxLWI4MzAtNWQxZmY5NTJhZTRmXkEyXkFqcGc@._V1_QL75_UX388_.jpg"
     },
     {
-      "title": "Best Extreme Album of the Year",
-      "nominees": [
-        "Cutting the Throat of God - Ulcerate",
-        "Invincible Shield - Judas Priest",
-        "Squee - Squee",
-        "Absolute Elsewhere - Blood Incantation",
-        "Artificial Bouquet - Frail Body"
-      ],
-      "winner-sentence": "Edgy me likes it.",
-      "prize-picture": "https://www.rollingstone.com/wp-content/uploads/2020/03/Ulcerate.jpg"
-    },
-    {
       "title": "Best Folk Album of the Year",
       "nominees": [
         "The Pilgrim, Their God and the King of My Decrepit Mountain - Tapir!",
@@ -681,6 +669,18 @@
       ],
       "winner-sentence": "Black Country, New Road gone folk. I'm all in.",
       "prize-picture": "https://bootlegsocial.co.uk/wp-content/uploads/2024/11/382467743_298922436216361_1818918889863851105_n.jpg"
+    },
+    {
+      "title": "Best Heavy Album of the Year",
+      "nominees": [
+        "Cutting the Throat of God - Ulcerate",
+        "Invincible Shield - Judas Priest",
+        "Squee - Squee",
+        "Absolute Elsewhere - Blood Incantation",
+        "Artificial Bouquet - Frail Body"
+      ],
+      "winner-sentence": "Edgy me likes it.",
+      "prize-picture": "https://www.rollingstone.com/wp-content/uploads/2020/03/Ulcerate.jpg"
     },
     {
       "title": "Best Hip Hop Album of the Year",
@@ -777,7 +777,7 @@
       "prize-picture": "https://i.guim.co.uk/img/media/62157437af170c42a8afb21bd1164f39fb332871/0_2134_2740_1644/master/2740.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=de77f29b7ff12b6ea552ca656b774b74"
     },
     {
-      "title": "Best Foreign Album of the Year (North America)",
+      "title": "Best Foreign Album of the Year (North or Central America)",
       "nominees": [
         "Mid Spiral - BADBADNOTGOOD [Canada]",
         "Diamond Jubilee - Cindy Lee [Canada]",

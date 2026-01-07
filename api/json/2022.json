@@ -13,6 +13,18 @@
         "honorable": 1
         },
         {
+        "id": "asunojokei-island",
+        "cover": "https://e.snmc.io/i/600/w/14a87bf41fd814735ff8b775d1492695/10138620/%E6%98%8E%E6%97%A5%E3%81%AE%E5%8F%99%E6%99%AF-asunojokei-%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89-Cover-Art.jpg",
+        "score": "7.7",
+        "artist": "明日の叙景 [Asunojokei]",
+        "album": "アイランド [Island]",
+        "year": 2022,
+        "title": "What more do you wish for in this sinking paradise?",
+        "review": "Blackgaze with J-Rock. An unusual combination, but that works really well. It has some gorgeous melodies, and the weight adds some more depth and body to the music, which is great. I do despise Black Metal guttural vocals and the double pedal drum patterns, but the album has great guitars, both in terms of riffs and textures, and the whole works really well. There are some very japanese choices in the song structures that result in some gorgeous, transcendental moments.",
+        "highlights": ["Heavenward"],
+        "honorable": 1
+        },
+        {
         "id": "horsegirl-versions-of-modern-performance",
         "cover": "https://e.snmc.io/i/600/w/001849b144c7522aa0c3a2419def3eff/9777497/horsegirl-versions-of-modern-performance-Cover-Art.jpg",
         "score": "7.7",
@@ -334,7 +346,14 @@
         "year": 2022,
         "title": "I'm scared too, that every time I try to make lunch for anyone else in my head, I end up dreaming of you",
         "review": "February 4th and the discussions of the album of the year were over. This album is just majestic. Its mystic started 4 days prior to its release when frontman, singer, and guitarist Isaac Wood departed from the band to take care of his mental health. That statement was unfortunate, but what I didn't realize at the time was how much of a spoiler it was: Isaac's mind state led to one of the most powerful, emotionally charged albums of modern history. <br><br> In the first few notes of Intro it was already obvious how great this album would be. It was also visible that the band had drastically changed its sound, and I'm very happy they did it because this album sounds less like a collection of songs and more like a big piece of art, in which everything is connected and only achieves its full potential with the rest of the album. Instead of the Experimental Post-Punk of For the First Time, here they have an Indie-ish Post-Rock approach, rich in chamber arrangements, which led to a much more immersive and heartful record. And the tracklist is one gorgeous track after another. My favorites here are Chaos Space Marine, Concorde, Good Will Hunting, The Place Where He Inserted the Blade (probably my favorite songs of the year), and Basketball Shoes (which was the first written song and the ignition point of the album). I also want to note that, though Snow Globes is in its majority a pretty standard Post-Rock track (of course, boosted by all its sentiment), the chaotic drum session followed by the insane, intense, heartbreaking vocals in this song made it something spectacular and exploded all the confusion and desperation the album was building up until that point. <br><br> This album is truly one of a kind, that kind that takes a long time for something to achieve that greatness again. I wish Isaac the best and hope he gets better, and I'm also craving to see the next steps of the group without him. Georgia Ellery already proved to us that she can make good things on her own in I Love You Jennifer B, so let's just wait for what's to come for the band as whole.",
-        "highlights": ["TLC Cage Match", "Toontown", "Under Control", "You Are Every Girl to Me"],
+        "highlights": [
+            "Chaos Space Marine", 
+            "Concorde", 
+            "Good Will Hunting", 
+            "Mark's Theme",
+            "The Place Where He Inserted the Blade",
+            "Basketball Shoes"
+        ],
         "honorable": 0
         }
     ],
@@ -377,18 +396,6 @@
             "prize-picture": "https://gerenciador.popload.com.br/wp-content/uploads/2024/08/120824_blackmidi.jpg"
         },
         {
-            "title": "Best Extreme Album of the Year",
-            "nominees": [
-                "Hiss - Wormrot",
-                "Baby - Petrol Girls",
-                "Close - Messa",
-                "Por nós da ventania - Vauruvã",
-                "Dream Widow - Dream Widow"
-            ],
-            "winner-sentence": "I admittedly know nothing about Grindcore as a genre, but this is probably the most dynamic record I know, with fantastic Thrash Metal riffs.",
-            "prize-picture": "https://lh3.googleusercontent.com/MEuofLfjeICmqKyAQ2qXgofYouCmPc5DI5SWJlaLGR1uyzc80yCWeQoTrxrPv71n70rykiK29eadSw=w2880-h1200-p-l90-rj"
-        },
-        {
             "title": "Best Folk Album of the Year",
             "nominees": [
                 "Mister Antigravity - Gumshoes",
@@ -399,6 +406,18 @@
             ],
             "winner-sentence": "You don't find peace, you make it. You make it by listening to this record.",
             "prize-picture": "https://f4.bcbits.com/img/a0737182357_16.jpg"
+        },
+        {
+            "title": "Best Heavy Album of the Year",
+            "nominees": [
+                "アイランド [Island] - 明日の叙景 [Asunojokei]",
+                "Hiss - Wormrot",
+                "Baby - Petrol Girls",
+                "Close - Messa",
+                "Por nós da ventania - Vauruvã"
+            ],
+            "winner-sentence": "A metal album I like the least when being full-blown metal, but still a great metal album.",
+            "prize-picture": "https://musicainstantanea.com.br/wp-content/uploads/2024/08/Asunojokei.jpeg"
         },
         {
             "title": "Best Hip Hop Album of the Year",
@@ -506,7 +525,7 @@
             "prize-picture": "https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2020/08/fontaines-dc-ellius-grace.jpg"
         },
         {
-            "title": "Best Foreign Album of the Year (North America)",
+            "title": "Best Foreign Album of the Year (North or Central America)",
             "nominees": [
             "Blue Rev - Alvvays [Canada]",
             "LABYRINTHITIS - Destroyer [Canada]",
@@ -545,10 +564,10 @@
             "title": "Best Debut of the Year",
             "nominees": [
             "Mister Antigravity - Gumshoes",
+            "Everything I Know About Love - Laufey",
             "Wet Leg - Wet Leg",
             "Some Nights I Dream of Doors - Obongjayar",
-            "Everything I Know About Love - Laufey",
-            "Guitar Music - Courting"
+            "Where the Heart Is - Sweet Pill"
             ],
             "winner-sentence": "Frenetic dude yelling above beautiful layers of instrumentation for frenetic recluses.",
             "prize-picture": "https://f4.bcbits.com/img/a0737182357_16.jpg"
