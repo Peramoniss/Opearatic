@@ -1,26 +1,4 @@
 {
-    "Ulcerate": {
-        "points": 12,
-        "awards": [
-            [
-                "Cutting the Throat of God",
-                "17th place in year-end list in 2024",
-                7
-            ],
-            [
-                "Cutting the Throat of God",
-                "1st place in Best Heavy Album of the Year in 2024",
-                5
-            ],
-            [
-                "Cutting the Throat of God",
-                "1st place in Best Foreign Album of the Year (Oceania) in 2024",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/5b0c2df32172e2784afbb4e21c160435/12546934/ulcerate-cutting-the-throat-of-god-Cover-Art.jpg",
-        "best_pos": 17
-    },
     "3776": {
         "points": 12,
         "awards": [
@@ -77,7 +55,7 @@
         "awards": [
             [
                 "The Loneliest Time",
-                "28th place in year-end list in 2022",
+                "29th place in year-end list in 2022",
                 5
             ],
             [
@@ -102,7 +80,34 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/bd16531425d24f1d3a5bd242141a92c9/10321717/carly-rae-jepsen-the-loneliest-time-Cover-Art.jpg",
-        "best_pos": 28
+        "best_pos": 29
+    },
+    "Obongjayar": {
+        "points": 11,
+        "awards": [
+            [
+                "Some Nights I Dream of Doors",
+                "23rd place in year-end list in 2022",
+                7
+            ],
+            [
+                "Some Nights I Dream of Doors",
+                "3rd place in Best R&B Album of the Year in 2022",
+                3
+            ],
+            [
+                "Some Nights I Dream of Doors",
+                "1st place in Best Foreign Album of the Year (Africa) in 2022",
+                0
+            ],
+            [
+                "Some Nights I Dream of Doors",
+                "4th place in Best Debut of the Year in 2022",
+                1
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/a3778187b74e6127c01b3ab66cc268bd/9831153/obongjayar-some-nights-i-dream-of-doors-Cover-Art.jpg",
+        "best_pos": 23
     },
     "Wet Leg": {
         "points": 11,
@@ -119,7 +124,7 @@
             ],
             [
                 "Wet Leg",
-                "2nd place in Best Debut of the Year in 2022",
+                "3rd place in Best Debut of the Year in 2022",
                 3
             ]
         ],
@@ -298,6 +303,23 @@
         ],
         "image": "https://e.snmc.io/i/600/w/b115611b40f094ca27713495c90b1d00/11646854/willy-rodriguez-wetdream-Cover-Art.jpg",
         "best_pos": 8
+    },
+    "明日の叙景 [Asunojokei]": {
+        "points": 10,
+        "awards": [
+            [
+                "アイランド [Island]",
+                "28th place in year-end list in 2022",
+                5
+            ],
+            [
+                "アイランド [Island]",
+                "1st place in Best Heavy Album of the Year in 2022",
+                5
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/14a87bf41fd814735ff8b775d1492695/10138620/%E6%98%8E%E6%97%A5%E3%81%AE%E5%8F%99%E6%99%AF-asunojokei-%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89-Cover-Art.jpg",
+        "best_pos": 28
     },
     "Tulipa Ruiz": {
         "points": 10,
@@ -522,6 +544,23 @@
         ],
         "image": "https://e.snmc.io/i/600/w/3590c11e9b5d1056229a2f8f7a41055c/13814960/cameron-winter-heavy-metal-Cover-Art.jpg",
         "best_pos": 18
+    },
+    "Sweet Pill": {
+        "points": 8,
+        "awards": [
+            [
+                "Where the Heart Is",
+                "24th place in year-end list in 2022",
+                7
+            ],
+            [
+                "Where the Heart Is",
+                "5th place in Best Debut of the Year in 2022",
+                1
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/1da8cf2ed6f569fff85947eb2b450391/9779452/sweet-pill-where-the-heart-is-Cover-Art.jpg",
+        "best_pos": 24
     },
     "Silk Sonic": {
         "points": 8,
@@ -757,18 +796,6 @@
         "image": "https://e.snmc.io/i/600/w/b0f0e7c0dc7c37b6c2c4b9f6732801b4/10694043/jessie-ware-that-feels-good-Cover-Art.jpg",
         "best_pos": 27
     },
-    "Sweet Pill": {
-        "points": 7,
-        "awards": [
-            [
-                "Where the Heart Is",
-                "24th place in year-end list in 2022",
-                7
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/1da8cf2ed6f569fff85947eb2b450391/9779452/sweet-pill-where-the-heart-is-Cover-Art.jpg",
-        "best_pos": 24
-    },
     "Niños del Cerro": {
         "points": 7,
         "awards": [
@@ -920,27 +947,5 @@
         ],
         "image": "https://e.snmc.io/i/600/w/ccb77e4f7da2712ae451c60cb0317921/11625671/hurricanes-hurricanes-Cover-Art.jpg",
         "best_pos": 30
-    },
-    "Samia": {
-        "points": 7,
-        "awards": [
-            [
-                "Honey",
-                "29th place in year-end list in 2023",
-                5
-            ],
-            [
-                "Honey",
-                "4th place in Best Pop Album of the Year in 2023",
-                1
-            ],
-            [
-                "Honey",
-                "4th place in Best Surprise of the year in 2023",
-                1
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/b2a53b7248c21c21235d29f859d5d315/10294843/samia-honey-Cover-Art.jpg",
-        "best_pos": 29
     }
 }
