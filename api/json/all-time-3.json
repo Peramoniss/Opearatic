@@ -1,50 +1,4 @@
 {
-    "Samia": {
-        "points": 7,
-        "awards": [
-            [
-                "Honey",
-                "29th place in year-end list in 2023",
-                5
-            ],
-            [
-                "Honey",
-                "4th place in Best Pop Album of the Year in 2023",
-                1
-            ],
-            [
-                "Honey",
-                "4th place in Best Surprise of the year in 2023",
-                1
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/b2a53b7248c21c21235d29f859d5d315/10294843/samia-honey-Cover-Art.jpg",
-        "best_pos": 29
-    },
-    "Fruit Bats": {
-        "points": 7,
-        "awards": [
-            [
-                "A River Running to Your Heart",
-                "24th place in year-end list in 2023",
-                7
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/97704b14c1c0299bab8f797908989db1/10894599/fruit-bats-a-river-running-to-your-heart-Cover-Art.jpg",
-        "best_pos": 24
-    },
-    "Frog": {
-        "points": 7,
-        "awards": [
-            [
-                "Grog",
-                "20th place in year-end list in 2023",
-                7
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/aae7ac8fbd152ced0fb90037ad15ec7e/11454007/frog-grog-Cover-Art.png",
-        "best_pos": 20
-    },
     "Candelabro": {
         "points": 7,
         "awards": [
@@ -208,41 +162,17 @@
         ],
         "best_pos": 103
     },
-    "Wolf Alice": {
+    "Sweet Trip": {
         "points": 5,
         "awards": [
             [
-                "Blue Weekend",
-                "30th place in year-end list in 2021",
+                "A Tiny House, in Secret Speeches, Polar Equals",
+                "1st place in Best Electronic Album of the Year in 2021",
                 5
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/c4216dea978bd3492b54b49cdbda7b89/8817275/wolf-alice-blue-weekend-Cover-Art.jpg",
-        "best_pos": 30
-    },
-    "ネクライトーキー [Necry Talkie]": {
-        "points": 5,
-        "awards": [
-            [
-                "TORCH",
-                "39th place in year-end list in 2024",
-                5
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/ae9fbfb9ff6c659b584e0de834b3e95c/11664933/%E3%83%8D%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88%E3%83%BC%E3%82%AD%E3%83%BC-necry-talkie-torch-Cover-Art.jpg",
-        "best_pos": 39
-    },
-    "Sierra Ferrell": {
-        "points": 5,
-        "awards": [
-            [
-                "Trail of Flowers",
-                "38th place in year-end list in 2024",
-                5
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/8e3e42683afc5d3ef4a92ba14e642187/11713955/sierra-ferrell-trail-of-flowers-Cover-Art.jpg",
-        "best_pos": 38
+        "best_pos": 101,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sweet_Trip_Roby_Valy.jpg"
     },
     "twikipedia": {
         "points": 5,
@@ -683,6 +613,28 @@
         ],
         "best_pos": 103
     },
+    "Arlo Parks": {
+        "points": 3,
+        "awards": [
+            [
+                "Collapsed In Sunbeams",
+                "3rd place in Best Pop Album of the Year in 2021",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Silk Sonic": {
+        "points": 3,
+        "awards": [
+            [
+                "An Evening With Silk Sonic",
+                "3rd place in Best R&B Album of the Year in 2021",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
     "Nala Sinephro": {
         "points": 3,
         "awards": [
@@ -703,5 +655,38 @@
             ]
         ],
         "best_pos": 104
+    },
+    "Courting": {
+        "points": 3,
+        "awards": [
+            [
+                "Grand National",
+                "2nd place in Best EP of the Year in 2021",
+                3
+            ]
+        ],
+        "best_pos": 102
+    },
+    "Claire Rosinkranz": {
+        "points": 3,
+        "awards": [
+            [
+                "6 Of A Billion",
+                "3rd place in Best EP of the Year in 2021",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Four Tet": {
+        "points": 3,
+        "awards": [
+            [
+                "Three",
+                "3rd place in Best Electronic Album of the Year in 2024",
+                3
+            ]
+        ],
+        "best_pos": 103
     }
 }

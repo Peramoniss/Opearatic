@@ -370,23 +370,6 @@
         "best_pos": 28,
         "image": "https://e.snmc.io/i/600/w/78a1b15bb9b22f1d8511f6ac6cb8b108/9418065/asian-glow-cull-ficle-Cover-Art.png"
     },
-    "Sweet Trip": {
-        "points": 10,
-        "awards": [
-            [
-                "A Tiny House, in Secret Speeches, Polar Equals",
-                "32nd place in year-end list in 2021",
-                5
-            ],
-            [
-                "A Tiny House, in Secret Speeches, Polar Equals",
-                "1st place in Best Electronic Album of the Year in 2021",
-                5
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/93db4489cee8d30fbcd949a753693cf6/8991155/sweet-trip-a-tiny-house-in-secret-speeches-polar-equals-Cover-Art.jpg",
-        "best_pos": 32
-    },
     "Armand Hammer": {
         "points": 10,
         "awards": [
@@ -562,40 +545,6 @@
         "image": "https://e.snmc.io/i/600/w/1da8cf2ed6f569fff85947eb2b450391/9779452/sweet-pill-where-the-heart-is-Cover-Art.jpg",
         "best_pos": 24
     },
-    "Silk Sonic": {
-        "points": 8,
-        "awards": [
-            [
-                "An Evening With Silk Sonic",
-                "31st place in year-end list in 2021",
-                5
-            ],
-            [
-                "An Evening With Silk Sonic",
-                "3rd place in Best R&B Album of the Year in 2021",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/f60703c4e60be5e6024dcd62ccd4c26a/9382297/silk-sonic-an-evening-with-silk-sonic-Cover-Art.jpg",
-        "best_pos": 31
-    },
-    "Arlo Parks": {
-        "points": 8,
-        "awards": [
-            [
-                "Collapsed in Sunbeams",
-                "29th place in year-end list in 2021",
-                5
-            ],
-            [
-                "Collapsed In Sunbeams",
-                "3rd place in Best Pop Album of the Year in 2021",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/3d7d0273a0e24846e7b62c11007daaa3/8522274/arlo-parks-collapsed-in-sunbeams-Cover-Art.jpg",
-        "best_pos": 29
-    },
     "Nanasai": {
         "points": 8,
         "awards": [
@@ -665,7 +614,7 @@
             ]
         ],
         "best_pos": 101,
-        "image": "https://www.nautiljon.com/images/people/02/35/meaningful_stone_162653.webp"
+        "image": "https://www.gethucinema.com/wp-content/uploads/2024/07/Meaningful-Stone-7-5QQBnK6910-768x958.jpg"
     },
     "Squee": {
         "points": 8,
@@ -947,5 +896,51 @@
         ],
         "image": "https://e.snmc.io/i/600/w/ccb77e4f7da2712ae451c60cb0317921/11625671/hurricanes-hurricanes-Cover-Art.jpg",
         "best_pos": 30
+    },
+    "Samia": {
+        "points": 7,
+        "awards": [
+            [
+                "Honey",
+                "29th place in year-end list in 2023",
+                5
+            ],
+            [
+                "Honey",
+                "4th place in Best Pop Album of the Year in 2023",
+                1
+            ],
+            [
+                "Honey",
+                "4th place in Best Surprise of the year in 2023",
+                1
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/b2a53b7248c21c21235d29f859d5d315/10294843/samia-honey-Cover-Art.jpg",
+        "best_pos": 29
+    },
+    "Fruit Bats": {
+        "points": 7,
+        "awards": [
+            [
+                "A River Running to Your Heart",
+                "24th place in year-end list in 2023",
+                7
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/97704b14c1c0299bab8f797908989db1/10894599/fruit-bats-a-river-running-to-your-heart-Cover-Art.jpg",
+        "best_pos": 24
+    },
+    "Frog": {
+        "points": 7,
+        "awards": [
+            [
+                "Grog",
+                "20th place in year-end list in 2023",
+                7
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/aae7ac8fbd152ced0fb90037ad15ec7e/11454007/frog-grog-Cover-Art.png",
+        "best_pos": 20
     }
 }
