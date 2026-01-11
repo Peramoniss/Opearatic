@@ -1,7 +1,7 @@
 {
     "list": [ 
         {
-        "id": "carly-rae-jepsen-the-loneliest-time",
+        
         "cover": "https://e.snmc.io/i/600/w/bd16531425d24f1d3a5bd242141a92c9/10321717/carly-rae-jepsen-the-loneliest-time-Cover-Art.jpg",
         "score": "7.7",
         "artist": "Carly Rae Jepsen",
@@ -13,7 +13,7 @@
         "honorable": 1
         },
         {
-        "id": "asunojokei-island",
+        
         "cover": "https://e.snmc.io/i/600/w/14a87bf41fd814735ff8b775d1492695/10138620/%E6%98%8E%E6%97%A5%E3%81%AE%E5%8F%99%E6%99%AF-asunojokei-%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89-Cover-Art.jpg",
         "score": "7.7",
         "artist": "明日の叙景 [Asunojokei]",
@@ -25,7 +25,7 @@
         "honorable": 1
         },
         {
-        "id": "horsegirl-versions-of-modern-performance",
+        
         "cover": "https://e.snmc.io/i/600/w/001849b144c7522aa0c3a2419def3eff/9777497/horsegirl-versions-of-modern-performance-Cover-Art.jpg",
         "score": "7.7",
         "artist": "Horsegirl",
@@ -37,7 +37,7 @@
         "honorable": 1
         },
         {
-        "id": "robyn-hitchcock-shufflemania",
+        
         "cover": "https://e.snmc.io/i/600/w/82f024c0db1632b17a7c8aed23ff214c/10114057/robyn-hitchcock-shufflemania-Cover-Art.jpg",
         "score": "7.7",
         "artist": "Robyn Hitchcock",
@@ -50,7 +50,7 @@
         },
 
         {
-        "id": "mike-beware-of-the-monkey",
+        
         "cover": "https://e.snmc.io/i/600/w/dcdca8d70ddc47aba9a506710c0ce956/10468331/mike-beware-of-the-monkey-Cover-Art.jpg",
         "score": "7.7",
         "artist": "MIKE",
@@ -62,7 +62,7 @@
         "honorable": 0
         },
         {
-        "id": "sweet-pill-where-the-heart-is",
+        
         "cover": "https://e.snmc.io/i/600/w/1da8cf2ed6f569fff85947eb2b450391/9779452/sweet-pill-where-the-heart-is-Cover-Art.jpg",
         "score": "7.7",
         "artist": "Sweet Pill",
@@ -74,7 +74,7 @@
         "honorable": 0
         },
         {
-        "id": "obongjayar-some-nights-i-dream-of-doors",
+        
         "cover": "https://e.snmc.io/i/600/w/a3778187b74e6127c01b3ab66cc268bd/9831153/obongjayar-some-nights-i-dream-of-doors-Cover-Art.jpg",
         "score": "7.7",
         "artist": "Obongjayar",
@@ -86,7 +86,7 @@
         "honorable": 0
         },
         {
-        "id": "carly-cosgrove-see-you-in-chemistry",
+        
         "cover": "https://e.snmc.io/i/600/w/adbd71b6c2668adbe0ae16cfbecf299c/9666811/carly-cosgrove-see-you-in-chemistry-Cover-Art.jpg",
         "score": "7.7",
         "artist": "Carly Cosgrove",
@@ -98,7 +98,7 @@
         "honorable": 0
         },
         {
-        "id": "fievel-is-glauque-flaming-swords",
+        
         "cover": "https://e.snmc.io/i/600/w/a28f25f418e6428e2f13badae3ba5f34/10442690/fievel-is-glauque-flaming-swords-Cover-Art.jpg",
         "score": "7.8",
         "artist": "Fievel Is Glauque",
@@ -110,7 +110,7 @@
         "honorable": 0
         },
         {
-        "id": "ninos-del-cerro-suave-pendiente",
+        
         "cover": "https://e.snmc.io/i/600/w/be21b311f20dbcf7585e9d1a190f7e4c/10357271/ninos-del-cerro-suave-pendiente-Cover-Art.jpg",
         "score": "7.8",
         "artist": "Niños del Cerro",
@@ -122,7 +122,7 @@
         "honorable": 0
         },
         {
-        "id": "tulipa-ruiz-habilidades-extraordinarias",
+        
         "cover": "https://e.snmc.io/i/600/w/dfa81865079d8419ec259c7011adbd4d/10282019/tulipa-ruiz-habilidades-extraordinarias-Cover-Art.jpg",
         "score": "7.8",
         "artist": "Tulipa Ruiz",
@@ -134,7 +134,7 @@
         "honorable": 0
         },
         {
-        "id": "king-gizzard-and-the-lizard-wizard-ice-death-planets-lungs-mushrooms-and-lava",
+        
         "cover": "https://e.snmc.io/i/600/w/4dee1aacbf8974afd10eac97068389e1/10242067/king-gizzard-and-the-lizard-wizard-ice-death-planets-lungs-mushrooms-and-lava-Cover-Art.jpg",
         "score": "7.9",
         "artist": "King Gizzard and The Lizard Wizard",
@@ -146,7 +146,7 @@
         "honorable": 0
         },
         {
-        "id": "steve-lacy-gemini-rights",
+        
         "cover": "https://e.snmc.io/i/600/w/309590815c28eed833a97798f53459b2/10081058/steve-lacy-gemini-rights-Cover-Art.jpg",
         "score": "7.9",
         "artist": "Steve Lacy",
@@ -158,7 +158,7 @@
         "honorable": 0
         },
         {
-        "id": "wet-leg-wet-leg",
+        
         "cover": "https://e.snmc.io/i/600/w/915ffa4998ca1c4fd18cdfa2da808f03/9516273/wet-leg-wet-leg-Cover-Art.jpg",
         "score": "7.9",
         "artist": "Wet Leg",
@@ -170,7 +170,7 @@
         "honorable": 0
         },
             {
-        "id": "wallows-singles-collection-2017-2020",
+        
         "cover": "https://e.snmc.io/i/600/w/b39093bfada9aa98f80c4cc8dc7ee353/9723382/wallows-singles-collection-2017-2020-Cover-Art.jpg",
         "score": "8.0",
         "artist": "Wallows",
@@ -182,7 +182,7 @@
         "honorable": 0
         },
         {
-        "id": "laufey-everything-i-know-about-love",
+        
         "cover": "https://e.snmc.io/i/600/w/d02981371dfdd00230358fd6d756d48c/9990382/laufey-everything-i-know-about-love-Cover-Art.jpg",
         "score": "8.0",
         "artist": "Laufey",
@@ -194,7 +194,7 @@
         "honorable": 0
         },
         {
-        "id": "destroyer-labyrinthitis",
+        
         "cover": "https://e.snmc.io/i/600/w/d86cede261cf73ce82541e4cdaed6cef/9626266/destroyer-labyrinthitis-Cover-Art.jpg",
         "score": "8.0",
         "artist": "Destroyer",
@@ -206,7 +206,7 @@
         "honorable": 0
         },
         {
-        "id": "julia-jacklin-pre-pleasure",
+        
         "cover": "https://e.snmc.io/i/600/w/5cc7889396cf7bbf99b619a9d060282e/9934659/julia-jacklin-pre-pleasure-Cover-Art.jpg",
         "score": "8.0",
         "artist": "Julia Jacklin",
@@ -218,7 +218,7 @@
         "honorable": 0
         },
         {
-        "id": "yung-lixo-validation",
+        
         "cover": "https://e.snmc.io/i/600/w/fe1aedd7b248a6544ef9278b50d59f18/10564635/yung-lixo-validation-Cover-Art.jpg",
         "score": "8.0",
         "artist": "Yun Li",
@@ -230,7 +230,7 @@
         "honorable": 0
         },
         {
-        "id": "fontaines-dc-skinty-fia",
+        
         "cover": "https://e.snmc.io/i/600/w/e6efcf346b01e2ea746452a6f043c0f3/9627267/fontaines-d_c-skinty-fia-Cover-Art.jpg",
         "score": "8.1",
         "artist": "Fontaines D.C.",
@@ -242,7 +242,7 @@
         "honorable": 0
         },
         {
-            "id": "kevin-morby-this-is-a-photograph",
+            
             "cover": "https://e.snmc.io/i/600/w/3a44fe92856542e8a92b1cb386a38ded/10115807/kevin-morby-this-is-a-photograph-Cover-Art.png",
             "score": "8.1",
             "artist": "Kevin Morby",
@@ -254,7 +254,7 @@
             "honorable": 0
         },
         {
-        "id": "spiritualized-everything-was-beautiful",
+        
         "cover": "https://e.snmc.io/i/600/w/f4b1cfbc98c10522bbf04051fb7b6e93/9446922/spiritualized-everything-was-beautiful%E2%84%A2-Cover-Art.jpg",
         "score": "8.2",
         "artist": "Spiritualized",
@@ -266,7 +266,7 @@
         "honorable": 0
         },
         {
-        "id": "wallows-tell-me-that-its-over",
+        
         "cover": "https://e.snmc.io/i/600/w/b41cd2f527f69e937005114c7a615022/9714949/wallows-tell-me-that-it%E2%80%99s-over-Cover-Art.jpg",
         "score": "8.2",
         "artist": "Wallows",
@@ -278,7 +278,7 @@
         "honorable": 0
         },
         {
-        "id": "black-midi-hellfire",
+        
         "cover": "https://e.snmc.io/i/600/w/8810e0cdb30d7bf8b69b23d9462b5c53/9932087/black-midi-hellfire-Cover-Art.jpg",
         "score": "8.3",
         "artist": "black midi",
@@ -290,7 +290,7 @@
         "honorable": 0
         },
         {
-        "id": "gumshoes-mister-antigravity",
+        
         "cover": "https://e.snmc.io/i/600/w/cdd9e66218c0ad103b44e05a2afb3004/9937079/gumshoes-mister-antigravity-Cover-Art.png",
         "score": "8.4",
         "artist": "Gumshoes",
@@ -302,7 +302,7 @@
         "honorable": 0
         },
         {
-        "id": "alvvays-blue-rev",
+        
         "cover": "https://e.snmc.io/i/600/w/4f648a996a16992718dbfdad45c91b5d/10128558/alvvays-blue-rev-Cover-Art.jpg",
         "score": "8.4",
         "artist": "Alvvays",
@@ -314,7 +314,7 @@
         "honorable": 0
         },
         {
-        "id": "sobs-air-guitar",
+        
         "cover": "https://e.snmc.io/i/600/w/05d09bfad018301751bc0b2502df3b56/10442177/sobs-air-guitar-Cover-Art.jpg",
         "score": "8.5",
         "artist": "Sobs",
@@ -326,7 +326,7 @@
         "honorable": 0
         },
         {
-        "id": "mj-lenderman-boat-songs",
+        
         "cover": "https://e.snmc.io/i/600/w/2674eba635f88c76c7266b473166df44/10090968/mj-lenderman-boat-songs-Cover-Art.png",
         "score": "8.6",
         "artist": "MJ Lenderman",
@@ -338,7 +338,7 @@
         "honorable": 0
         },
         {
-        "id": "bcnr-ants",
+        
         "cover": "https://e.snmc.io/i/600/w/d41fd89a34689afe2a3c392958a5d40e/9391518/black-country-new-road-ants-from-up-there-Cover-Art.jpg",
         "score": "9.4",
         "artist": "Black Country, New Road",

@@ -3,17 +3,16 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Album Reviews</title>
+		<title>Opearatic</title>
 		<link rel="icon" href="../img/icon.ico" type="image/x-icon">
-		<!-- Fonts used in Shuffle (Inter + DM Sans) -->
+
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-		<!-- Bootstrap CSS -->
+
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-		<!-- Bootstrap JS (opcional, mas necessário para navbar mobile) -->
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" defer></script>
-		<!-- Fonts used in Shuffle (Inter + DM Sans) -->
+
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
@@ -93,9 +92,17 @@
 				</div>
 				<div id="reviews" class="row g-8 mb-5">
 					<!-- REVIEWS WILL BE INSERTED IN HERE -->
-					<p fs-9 fw-medium text-secondary mw-xl mx-auto>
-						Loading... Please wait at least a minute, the API server is free of charge and therefore can take a while to boot
-					</p>
+					<div class="d-flex justify-content-center mt-4">
+						<div class="px-3 py-2 rounded-pill border bg-white text-secondary fs-11 shadow-sm">
+							<span id="yearsMeta" class="fw-semibold">
+								<div class="text-center">
+								<p fs-9 fw-medium text-secondary mw-xl mx-auto>
+									Loading... Please wait at least a minute, the API server is free of charge and therefore can take a while to boot
+								</p>
+								</div>
+							</span>
+						</div>
+					</div>
 				</div>
 				<div class="border-top text-center mb-16" style="padding-top: 2rem;">
 					<span class="mb-4 badge bg-success text-white text-uppercase shadow">Awards</span>

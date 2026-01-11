@@ -55,10 +55,10 @@ This allows:
 
 ### Main endpoints
 
-GET /years
-GET /pages
-GET /year/{year}
-GET /all-time?page=N
+- GET /years
+- GET /pages
+- GET /year/{year}
+- GET /all-time?page=N
 
 All endpoints return already-ordered data.
 

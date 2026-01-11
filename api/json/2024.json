@@ -1,36 +1,6 @@
 {
   "list": [
     {
-      "id": "necry-talkie-bloom",
-      "cover": "https://e.snmc.io/i/600/w/ae9fbfb9ff6c659b584e0de834b3e95c/11664933/%E3%83%8D%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88%E3%83%BC%E3%82%AD%E3%83%BC-necry-talkie-torch-Cover-Art.jpg",
-      "score": "7.7",
-      "artist": "ネクライトーキー [Necry Talkie]",
-      "album": "TORCH",
-      "year": 2024,
-      "title": "BLOOM",
-      "review": "While much less consistent and nostalgic than Zoo!!, TORCH is a great album, with that Japanese charm that is indescribable and unbeatable. bloom is one of the best songs of the year. Thank you for that, Scott Pilgrim.",
-      "highlights": [
-        "bloom"
-      ],
-      "honorable": 1
-    },
-    {
-      "id": "sierra-ferrel",
-      "cover": "https://e.snmc.io/i/600/w/8e3e42683afc5d3ef4a92ba14e642187/11713955/sierra-ferrell-trail-of-flowers-Cover-Art.jpg",
-      "score": "7.7",
-      "artist": "Sierra Ferrell",
-      "album": "Trail of Flowers",
-      "year": 2024,
-      "title": "You surely can sting",
-      "review": "Sierra Ferrel's latest album caught my attention basically only because of the cover. This is a perfect example that you should, sometimes, judge the book by the cover. The music here is your classic country, going through pretty much all the variations we know: the country rock, the americana, the folk-ish traditionalist, and it goes on. It is a simple album but with very good songwriting and a lot of attention to detail in production. I love the rockier Dollar Bill Bar and the almost Twee I'll Come Off the Mountain.",
-      "highlights": [
-        "Dollar Bill Bar",
-        "I'll Come Off the Mountain"
-      ],
-      "honorable": 1
-    },
-    {
-      "id": "britanny-howard-what-now",
       "cover": "https://e.snmc.io/i/600/w/e0913955db2084ad7a6e0b56e3ddab7f/11511397/brittany-howard-what-now-Cover-Art.jpg",
       "score": "7.7",
       "artist": "Brittany Howard",
@@ -45,7 +15,6 @@
       "honorable": 1
     },
     {
-      "id": "twikipedia-for-the-rest",
       "cover": "https://e.snmc.io/i/600/w/cb72c8a1da839cfa72618259c365eebc/12101108/twikipedia-for-the-rest-of-your-life-Cover-Art.jpg",
       "score": "7.7",
       "artist": "twikipedia",
@@ -61,7 +30,6 @@
       "honorable": 1
     },
     {
-      "id": "squee-squee",
       "cover": "https://e.snmc.io/i/600/w/5cc6c665577593fed4eaceec0061abec/12669807/squee-squee-Cover-Art.png",
       "score": "7.7",
       "artist": "Squee",
@@ -76,7 +44,6 @@
       "honorable": 0
     },
     {
-      "id": "jesus-molina-selah",
       "cover": "https://e.snmc.io/i/600/w/1d0805dd015c8bcc792e5388817d88c2/12176936/jesus-molina-selah-Cover-Art.jpg",
       "score": "7.7",
       "artist": "Jesús Molina",
@@ -88,7 +55,6 @@
       "honorable": 0
     },
     {
-      "id": "nubya-garcia-odyssey",
       "cover": "https://e.snmc.io/i/600/w/6134ca33cc142f6efbc09b2bfc34545d/12533242/nubya-garcia-odyssey-Cover-Art.jpg",
       "score": "7.7",
       "artist": "Nubya Garcia",
@@ -103,7 +69,7 @@
       "honorable": 0
     },
     {
-      "id": "caxtrinho-queda-livre",
+      
       "cover": "https://e.snmc.io/i/600/w/0cec16b246f0f237de23d490bc9040c4/12436037/caxtrinho-queda-livre-Cover-Art.png",
       "score": "7.7",
       "artist": "Caxtrinho",
@@ -118,7 +84,7 @@
       "honorable": 0
     },
     {
-      "id": "this-is-the-glasshouse-867",
+      
       "cover": "https://e.snmc.io/i/600/w/1c7d550e03de4e1b992407ff15ad301d/12700997/this-is-the-glasshouse-867-Cover-Art.jpg",
       "score": "7.7",
       "artist": "This Is the Glasshouse",
@@ -134,7 +100,7 @@
       "honorable": 0
     },
     {
-      "id": "hannah-frances-keeper-of-the-shepherd",
+      
       "cover": "https://e.snmc.io/i/600/w/bbf8d8afcf334d73f4d518b8070b7229/11824637/hannah-frances-keeper-of-the-shepherd-Cover-Art.jpg",
       "score": "7.7",
       "artist": "Hannah Frances",
@@ -148,7 +114,7 @@
       "honorable": 0
     },
     {
-      "id": "kelly-moran-moves-in-the-field",
+      
       "cover": "https://e.snmc.io/i/600/w/2a247271ab40b06852a6a9f2e34494d2/13820443/kelly-moran-moves-in-the-field-Cover-Art.png",
       "score": "7.7",
       "artist": "Kelly Moran",
@@ -163,7 +129,7 @@
       "honorable": 0
     },
     {
-      "id": "kamasi-washington-fearless-movement",
+      
       "cover": "https://e.snmc.io/i/600/w/150e3bdaa803c8bd0c775d084065e633/12078889/kamasi-washington-fearless-movement-Cover-Art.jpg",
       "score": "7.8",
       "artist": "Kamasi Washington",
@@ -178,7 +144,7 @@
       "honorable": 0
     },
     {
-      "id": "magdalena-bay-imaginal-disk",
+      
       "cover": "https://e.snmc.io/i/600/w/ab9a537d52c29e69bba3e339bab69632/12301754/magdalena-bay-imaginal-disk-Cover-Art.jpg",
       "score": "7.8",
       "artist": "Magdalena Bay",
@@ -194,7 +160,7 @@
       "honorable": 0
     },
     {
-      "id": "hoovaranas-tres",
+      
       "cover": "https://e.snmc.io/i/600/w/f2bdd56c043171daacc4c83d29325a12/12307628/hoovaranas-tres-Cover-Art.jpg",
       "score": "7.8",
       "artist": "Hoovaranas",
@@ -209,7 +175,7 @@
       "honorable": 0
     },
     {
-      "id": "king-gizzard-and-the-lizard-wizard-flight-b741",
+      
       "cover": "https://e.snmc.io/i/600/w/6ff407611eb1b3992c3e39a8fe9462f3/12297646/king-gizzard-and-the-lizard-wizard-flight-b741-Cover-Art.jpg",
       "score": "7.8",
       "artist": "King Gizzard and The Lizard Wizard",
@@ -224,7 +190,7 @@
       "honorable": 0
     },
     {
-      "id": "friko-where-we-ve-been-where-we-go-from-here",
+      
       "cover": "https://e.snmc.io/i/600/w/d118b42997e4a4a0844ea267ef249d0e/11502016/friko-where-weve-been-where-we-go-from-here-Cover-Art.jpg",
       "score": "7.8",
       "artist": "Friko",
@@ -240,7 +206,7 @@
       "honorable": 0
     },
     {
-      "id": "adrianne-lenker-bright-future",
+      
       "cover": "https://e.snmc.io/i/600/w/b8c64b1206092d14f202e04d6edd4044/11709561/adrianne-lenker-bright-future-Cover-Art.jpg",
       "score": "7.9",
       "artist": "Adrianne Lenker",
@@ -255,7 +221,7 @@
       "honorable": 0
     },
     {
-      "id": "judas-priest-invincible-shield",
+      
       "cover": "https://e.snmc.io/i/600/w/2103f5a4d28c1ea0ddddbc2695a133df/11390766/judas-priest-invincible-shield-Cover-Art.jpg",
       "score": "7.9",
       "artist": "Judas Priest",
@@ -271,7 +237,7 @@
       "honorable": 0
     },
     {
-      "id": "cindy-lee-diamond-jubilee",
+      
       "cover": "https://e.snmc.io/i/600/w/87732579b73484413cd660583f585f30/11951069/cindy-lee-diamond-jubilee-Cover-Art.png",
       "score": "7.9",
       "artist": "Cindy Lee",
@@ -290,7 +256,7 @@
       "honorable": 0
     },
     {
-      "id": "papangu-lampiao-rei",
+      
       "cover": "https://e.snmc.io/i/600/w/43d51b590d133ef424efc4be973a63ec/12580470/papangu-lampiao-rei-Cover-Art.jpg",
       "score": "8.0",
       "artist": "Papangu",
@@ -305,7 +271,7 @@
       "honorable": 0
     },
     {
-      "id": "the-messthetics-and-james-brandon-lewis-the-messthetics-and-james-brandon-lewis",
+      
       "cover": "https://e.snmc.io/i/600/w/3a158528e4102d787978cc4fc14a4b9a/11737870/the-messthetics-and-james-brandon-lewis-the-messthetics-and-james-brandon-lewis-Cover-Art.jpg",
       "score": "8.0",
       "artist": "The Messthetics & James Brandon Lewis",
@@ -320,7 +286,7 @@
       "honorable": 0
     },
     {
-      "id": "cameron-winter-heavy-metal",
+      
       "cover": "https://e.snmc.io/i/600/w/3590c11e9b5d1056229a2f8f7a41055c/13814960/cameron-winter-heavy-metal-Cover-Art.jpg",
       "score": "8.0",
       "artist": "Cameron Winter",
@@ -335,7 +301,7 @@
       "honorable": 0
     },
     {
-      "id": "ulcerate-cutting-the-throat-of-god",
+      
       "cover": "https://e.snmc.io/i/600/w/5b0c2df32172e2784afbb4e21c160435/12546934/ulcerate-cutting-the-throat-of-god-Cover-Art.jpg",
       "score": "8.0",
       "artist": "Ulcerate",
@@ -350,7 +316,7 @@
       "honorable": 0
     },
     {
-      "id": "3776-the-birth-and-death-of-the-universe-through-mount-fuji",
+      
       "cover": "https://e.snmc.io/i/600/w/f682e422c556370e308a9a3e5935450c/12790452/3776-the-birth-and-death-of-the-universe-through-mount-fuji-Cover-Art.jpg",
       "score": "8.0",
       "artist": "3776",
@@ -366,7 +332,7 @@
       "honorable": 0
     },
     {
-      "id": "mj-lenderman-manning-fireworks",
+      
       "cover": "https://e.snmc.io/i/600/w/b53d56191d929a426183ba55bff1f4c5/12250474/mj-lenderman-manning-fireworks-Cover-Art.jpg",
       "score": "8.0",
       "artist": "MJ Lenderman",
@@ -382,7 +348,7 @@
       "honorable": 0
     },
     {
-      "id": "the-lemon-twigs-a-dream-is-all-we-know",
+      
       "cover": "https://e.snmc.io/i/600/w/7ea6c01c53d35c35d7d4270b5c0c8437/11780602/the-lemon-twigs-a-dream-is-all-we-know-Cover-Art.jpg",
       "score": "8.1",
       "artist": "The Lemon Twigs",
@@ -398,7 +364,7 @@
       "honorable": 0
     },
     {
-      "id": "haley-heynderickx-seed-of-a-seed",
+      
       "cover": "https://e.snmc.io/i/600/w/b7e3c0f09df47b96430a8cc32c580deb/12522337/haley-heynderickx-seed-of-a-seed-Cover-Art.jpg",
       "score": "8.1",
       "artist": "Haley Heynderickx",
@@ -414,7 +380,7 @@
       "honorable": 0
     },
     {
-      "id": "faye-webster-underdressed-at-the-symphony",
+      
       "cover": "https://e.snmc.io/i/600/w/d7ef708ab7482fd30581537a7f7fcf2b/11689457/faye-webster-underdressed-at-the-symphony-Cover-Art.jpg",
       "score": "8.1",
       "artist": "Faye Webster",
@@ -431,7 +397,7 @@
       "honorable": 0
     },
     {
-      "id": "clairo-charm",
+      
       "cover": "https://e.snmc.io/i/600/w/a6f3e0507b50f0954572394f334ad11a/12312967/clairo-charm-Cover-Art.jpg",
       "score": "8.2",
       "artist": "Clairo",
@@ -448,7 +414,7 @@
       "honorable": 0
     },
     {
-      "id": "cuni-prescribed-burn",
+      
       "cover": "https://e.snmc.io/i/600/w/0e165e6f84677bead72f7cab0ed7642b/12580846/cuni-prescribed-burn-Cover-Art.jpg",
       "score": "8.2",
       "artist": "cuni",
@@ -464,7 +430,7 @@
       "honorable": 0
     },
     {
-      "id": "badbadnotgood-mid-spiral-2024-compilation",
+      
       "cover": "https://e.snmc.io/i/600/w/528dae81ced84ab44a956a86b539e577/12169975/badbadnotgood-mid-spiral-Cover-Art.jpg",
       "score": "8.2",
       "artist": "BADBADNOTGOOD",
@@ -482,7 +448,7 @@
       "honorable": 0
     },
     {
-      "id": "gumshoes-cacophony",
+      
       "cover": "https://e.snmc.io/i/600/w/52a794bab0637858aafd77a1f8eabf9f/11705776/gumshoes-cacophony-Cover-Art.jpg",
       "score": "8.3",
       "artist": "Gumshoes",
@@ -499,7 +465,7 @@
       "honorable": 0
     },
     {
-      "id": "the-cure-songs-of-a-lost-world",
+      
       "cover": "https://e.snmc.io/i/600/w/61e97739f030f4cd23e53d9514e8a99e/12550970/the-cure-songs-of-a-lost-world-Cover-Art.jpg",
       "score": "8.3",
       "artist": "The Cure",
@@ -515,7 +481,7 @@
       "honorable": 0
     },
     {
-      "id": "jack-white-no-name",
+      
       "cover": "https://e.snmc.io/i/600/w/f1baab366544662edc57a5146d6a9ede/13024704/jack-white-no-name-Cover-Art.jpg",
       "score": "8.3",
       "artist": "Jack White",
@@ -531,7 +497,7 @@
       "honorable": 0
     },
     {
-      "id": "meaningful-stone-angel-interview",
+      
       "cover": "https://e.snmc.io/i/600/w/63ad7ca33aeb34e56ceb8ee63c547e3f/12764796/%EA%B9%80%EB%9C%BB%EB%8F%8C-meaningful-stone-%EC%B2%9C%EC%82%AC-%EC%9D%B8%ED%84%B0%EB%B7%B0-Cover-Art.jpg",
       "score": "8.3",
       "artist": "김뜻돌 [Meaningful Stone]",
@@ -549,7 +515,7 @@
       "honorable": 0
     },
     {
-      "id": "tapir-the-pilgrim-their-god-and-the-king-of-my-decrepit-mountain",
+      
       "cover": "https://e.snmc.io/i/600/w/fb45451d46949083b24f29d6a490fac7/11440905/tapir-the-pilgrim-their-god-and-the-king-of-my-decrepit-mountain-Cover-Art.jpg",
       "score": "8.4",
       "artist": "Tapir!",
@@ -567,7 +533,7 @@
       "honorable": 0
     },
     {
-      "id": "carly-cosgrove-the-cleanest-of-houses-are-empty",
+      
       "cover": "https://e.snmc.io/i/600/w/971269503dadbe30e229c2e37d3525f5/12071604/carly-cosgrove-the-cleanest-of-houses-are-empty-Cover-Art.jpg",
       "score": "8.5",
       "artist": "Carly Cosgrove",
@@ -585,7 +551,7 @@
       "honorable": 0
     },
     {
-      "id": "origami-angel-feeling-not-found",
+      
       "cover": "https://e.snmc.io/i/600/w/a2c4b1974b7771c43736167975805561/12339509/origami-angel-feeling-not-found-Cover-Art.jpg",
       "score": "8.5",
       "artist": "Origami Angel",
@@ -603,14 +569,14 @@
       "honorable": 0
     },
     {
-      "id": "geordie-greep-the-new-sound",
+      
       "cover": "https://e.snmc.io/i/600/w/de2943c71f952620d5e9504cf3c5a08e/12430773/geordie-greep-the-new-sound-Cover-Art.jpg",
       "score": "9.1",
       "artist": "Geordie Greep",
       "album": "The New Sound",
       "year": 2024,
       "title": "And I want you to look at me as if I'm attractive",
-      "review": "The first two black midi albums never really spoke with me. With Hellfire and its brutal prog sound, Black Midi started to sound like a spawning decade-defining group. So when I discovered the group ended just when I started liking them, I felt disappointed. That's when Geordie Greep appeared with a new solo record, which I cautiously approached. <br><br> Blues starts playing with its Pixies-inspired surrealistic lyrics full of emotional depth and its frenetic, insane riff. The song ends, and the tropical, Latin-style Tera Tera starts, only to show how diverse this album will be. After that, Holy, Holy comes as a mix of the maniac opener with the tropicalisms of the second track. The album progresses that way, blending Rock, Prog, Jazz, Fusion, and Latin Rhythms, sounding like an alternative reality in which Santana and Zappa teamed up with Black Midi. <br><br> The instrumentation is great and shows how many great studio musicians are hidden behind the big names on the album covers. Recorded between London and São Paulo, the tracks recorded in Brazil show the Jazzier and tropical elements of the sound, while the ones recorded in England show the British essence we came to expect from him. <br><br> The lyrics, which seem to be a negative topic for several people, are extremely well-written and profound. In fact, they were so well-structured that Geordie dedicates sections of songs entirely to recite them, putting some experimentation in the background but not letting the music distract you from what he's saying. They talk about living in an imaginary world, about traveling in a delusion you create of life to feel safe in a world that makes you insecure about everything. It uses fake confidence, intellectualism, and masculinity as facades for the insecure frightened characters. It's about people pretending to have perfect lives, but also about people who get thrown down because they don't have a perfect life and end up isolated, frightened, daydreaming, locked in their rooms building up plans, and imagining the lives they want to get while fearing never getting. It is also about prostitutes and STDs... well, at least in parts. <br> The entire concept of the album seems to have come from the song If You Are But a Dream, which is covered here and closes the album, and we also have a remake of the Black Midi concert-only song Lumps, which became Walk Up. My favorites are the already mentioned Blues and Holy, Holy, as well as the Black Country, New Road-esque The Magician, which is monumental and gorgeous. Through a War and Bongo Season are fantastic as well. <br> The title, The New Sound, is no exaggeration. This album is unlike anything else, delivering a bold, genre-spanning masterpiece that cements Geordie Greep as one of the most inventive and definitive artists of our time.",
+      "review": "The first two black midi albums never really spoke with me. With Hellfire and its brutal prog sound, Black Midi started to sound like a spawning decade-defining group. So when I discovered the group ended just when I started liking them, I felt disappointed. That's when Geordie Greep appeared with a new solo record, which I cautiously approached. <br><br> Blues starts playing with its Pixies-inspired surrealistic lyrics full of emotional depth and its frenetic, insane riff. The song ends, and the tropical, Latin-style Tera Tera starts, only to show how diverse this album will be. After that, Holy, Holy comes as a mix of the maniac opener with the tropicalisms of the second track. The album progresses that way, blending Rock, Prog, Jazz, Fusion, and Latin Rhythms, sounding like an alternative reality in which Santana and Zappa teamed up with Black Midi. <br><br> The instrumentation is great and shows how many great studio musicians are hidden behind the big names on the album covers. Recorded between London and São Paulo, the tracks recorded in Brazil show the Jazzier and tropical elements of the sound, while the ones recorded in England show the British essence we came to expect from him. <br><br> The lyrics, which seem to be a negative topic for several people, are extremely well-written and profound. In fact, they were so well-structured that Geordie dedicates sections of songs entirely to recite them, putting some experimentation in the background but not letting the music distract you from what he's saying. They talk about living in an imaginary world, about traveling in a delusion you create of life to feel safe in a world that makes you insecure about everything. It uses fake confidence, intellectualism, and masculinity as facades for the insecure frightened characters. It's about people pretending to have perfect lives, but also about people who get thrown down because they don't have a perfect life and end up isolated, frightened, daydreaming, locked in their rooms building up plans, and imagining the lives they want to get while fearing never getting. It is also about prostitutes and STDs... well, at least in parts. <br><br> The entire concept of the album seems to have come from the song If You Are But a Dream, which is covered here and closes the album, and we also have a remake of the Black Midi concert-only song Lumps, which became Walk Up. My favorites are the already mentioned Blues and Holy, Holy, as well as the Black Country, New Road-esque The Magician, which is monumental and gorgeous. Through a War and Bongo Season are fantastic as well. <br> The title, The New Sound, is no exaggeration. This album is unlike anything else, delivering a bold, genre-spanning masterpiece that cements Geordie Greep as one of the most inventive and definitive artists of our time.",
       "highlights": [
         "Blues",
         "Holy, Holy",
@@ -762,7 +728,7 @@
         "Paramainomeni - Hoplites [China]"
       ],
       "winner-sentence": "One of the few Korean alternative acts I truly praise. Also, this is one of the few years in which Japan doesn't win here.",
-      "prize-picture": "https://www.nautiljon.com/images/people/02/35/meaningful_stone_162653.webp"
+      "prize-picture": "https://www.gethucinema.com/wp-content/uploads/2024/07/Meaningful-Stone-7-5QQBnK6910-768x958.jpg"
     },
     {
       "title": "Best Foreign Album of the Year (Europe)",
