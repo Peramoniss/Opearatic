@@ -48,6 +48,17 @@
         ],
         "best_pos": 105
     },
+    "Manning Fireworks": {
+        "points": 1,
+        "awards": [
+            [
+                "MJ Lenderman",
+                "5th place in Best Folk Album of the Year in 2024",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
     "Blood Incantation": {
         "points": 1,
         "awards": [
@@ -65,17 +76,6 @@
             [
                 "Artificial Bouquet",
                 "5th place in Best Heavy Album of the Year in 2024",
-                1
-            ]
-        ],
-        "best_pos": 105
-    },
-    "Manning Fireworks": {
-        "points": 1,
-        "awards": [
-            [
-                "MJ Lenderman",
-                "5th place in Best Folk Album of the Year in 2024",
                 1
             ]
         ],

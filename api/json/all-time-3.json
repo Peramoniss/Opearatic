@@ -1,4 +1,26 @@
 {
+    "Samia": {
+        "points": 7,
+        "awards": [
+            [
+                "Honey",
+                "29th place in year-end list in 2023",
+                5
+            ],
+            [
+                "Honey",
+                "4th place in Best Pop Album of the Year in 2023",
+                1
+            ],
+            [
+                "Honey",
+                "4th place in Best Surprise of the year in 2023",
+                1
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/b2a53b7248c21c21235d29f859d5d315/10294843/samia-honey-Cover-Art.jpg",
+        "best_pos": 29
+    },
     "Fruit Bats": {
         "points": 7,
         "awards": [
@@ -169,23 +191,6 @@
         ],
         "best_pos": 101,
         "image": "https://i1.sndcdn.com/artworks-000464973009-d53j5z-t500x500.jpg"
-    },
-    "Wormrot": {
-        "points": 5,
-        "awards": [
-            [
-                "Hiss",
-                "1st place in Best Heavy Album of the Year in 2022",
-                5
-            ],
-            [
-                "Hiss",
-                "2nd place in Best Foreign Album of the Year (Asia) in 2022",
-                0
-            ]
-        ],
-        "best_pos": 101,
-        "image": "https://lh3.googleusercontent.com/MEuofLfjeICmqKyAQ2qXgofYouCmPc5DI5SWJlaLGR1uyzc80yCWeQoTrxrPv71n70rykiK29eadSw=w2880-h1200-p-l90-rj"
     },
     "AJR": {
         "points": 5,
@@ -477,22 +482,6 @@
         ],
         "best_pos": 105
     },
-    "Courting": {
-        "points": 4,
-        "awards": [
-            [
-                "Guitar Music",
-                "5th place in Best Debut of the Year in 2022",
-                1
-            ],
-            [
-                "Grand National",
-                "2nd place in Best EP of the Year in 2021",
-                3
-            ]
-        ],
-        "best_pos": 105
-    },
     "Helado Negro": {
         "points": 4,
         "awards": [
@@ -563,39 +552,39 @@
         ],
         "best_pos": 103
     },
-    "Petrol Girls": {
-        "points": 3,
-        "awards": [
-            [
-                "Baby",
-                "2nd place in Best Heavy Album of the Year in 2022",
-                3
-            ]
-        ],
-        "best_pos": 102
-    },
-    "Messa": {
-        "points": 3,
-        "awards": [
-            [
-                "Close",
-                "3rd place in Best Heavy Album of the Year in 2022",
-                3
-            ],
-            [
-                "Close",
-                "6th place in Best Foreign Album of the Year (Europe) in 2022",
-                0
-            ]
-        ],
-        "best_pos": 103
-    },
     "Big Thief": {
         "points": 3,
         "awards": [
             [
                 "Dragon New Warm Mountain I Believe in You",
                 "3rd place in Best Folk Album of the Year in 2022",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
+    "Wormrot": {
+        "points": 3,
+        "awards": [
+            [
+                "Hiss",
+                "2nd place in Best Heavy Album of the Year in 2022",
+                3
+            ],
+            [
+                "Hiss",
+                "2nd place in Best Foreign Album of the Year (Asia) in 2022",
+                0
+            ]
+        ],
+        "best_pos": 102
+    },
+    "Petrol Girls": {
+        "points": 3,
+        "awards": [
+            [
+                "Baby",
+                "3rd place in Best Heavy Album of the Year in 2022",
                 3
             ]
         ],
@@ -666,7 +655,7 @@
         "awards": [
             [
                 "Ultrapop",
-                "2nd place in Best Extreme Album in 2021",
+                "2nd place in Best Heavy Album of the Year in 2021",
                 3
             ]
         ],
@@ -677,7 +666,7 @@
         "awards": [
             [
                 "I Became Birds",
-                "3rd place in Best Extreme Album in 2021",
+                "3rd place in Best Heavy Album of the Year in 2021",
                 3
             ]
         ],
@@ -693,5 +682,26 @@
             ]
         ],
         "best_pos": 103
+    },
+    "Nala Sinephro": {
+        "points": 3,
+        "awards": [
+            [
+                "Space 1.8",
+                "4th place in Best Foreign Album of the Year (Europe) in 2021",
+                0
+            ],
+            [
+                "Endlessness",
+                "2nd place in Best Electronic Album of the Year in 2024",
+                3
+            ],
+            [
+                "Endlessness",
+                "3rd place in Best Foreign Album of the Year (Europe) in 2024",
+                0
+            ]
+        ],
+        "best_pos": 104
     }
 }
