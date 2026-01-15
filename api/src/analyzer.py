@@ -84,10 +84,9 @@ def position_format(pos: str):
 def generate_all_time_list():
     pasta = Path(JSON_DIR)
     lists = []
-    for f in pasta.iterdir():
+    for f in sorted(pasta.iterdir()):
         if "all" not in f.name:
             lists.append(get_list(f.name.split('.')[0]))
-    lists.sort()
 
     best_artists = dict()
     for l in lists:
