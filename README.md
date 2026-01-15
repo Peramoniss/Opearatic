@@ -127,7 +127,7 @@ The API only allows requests from:
 `https://peramoniss.github.io`
 
 
-This prevents unauthorized usage while keeping the frontend functional.
+This prevents unauthorized usage while keeping the frontend functional. For that to work, the Render environment has the variable `ENV: PROD`. Changing to `DEV` allows requests from localhosts.  
 
 ---
 
@@ -154,6 +154,7 @@ The API may take a around 50 seconds to wake up after inactivity.
 cd api
 uvicorn src.app:app --reload
 ```
+And then changing every reference to `https://opearatic.onrender.com` on the `www/js/` files to `http://127.0.0.1:8000`, keeping the subdomains intact.  
 
 
 ---

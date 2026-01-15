@@ -17,13 +17,14 @@ def get_list(year): #2020, 2021,...
         file = open(f"{JSON_DIR}/{year}.json", "r", encoding="utf-8")
         data = json.load(file) #json funciona como dicionário
 
-        file_path = Path(f"{JSON_DIR}/{year}.json")
-        if not file_path.exists():
-            return None
-        mtime = file_path.stat().st_mtime
-        last_modified = datetime.fromtimestamp(mtime).strftime("%B %d, %Y at %H:%M")
+        #Used to get from the file the last update, but unfortunately, on deploy, this stops working. Now I change the last update manually
+        # file_path = Path(f"{JSON_DIR}/{year}.json")
+        # if not file_path.exists():
+        #     return None
+        # mtime = file_path.stat().st_mtime
+        # last_modified = datetime.fromtimestamp(mtime).strftime("%B %d, %Y at %H:%M")
         
-        data["last_modified"] = last_modified
+        # data["last_modified"] = last_modified
         return data
     except Exception as e:
         return None
@@ -86,6 +87,7 @@ def generate_all_time_list():
     for f in pasta.iterdir():
         if "all" not in f.name:
             lists.append(get_list(f.name.split('.')[0]))
+    lists.sort()
 
     best_artists = dict()
     for l in lists:

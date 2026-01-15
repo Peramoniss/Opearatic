@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
 	mq.addEventListener ? mq.addEventListener('change', handle) : mq.addListener(handle);
 
 	async function fetchAvailableYears() {
-		const response = await fetch(`https://opearatic.onrender.com/years`);
+		const response = await fetch(`https://opearatic.onrender.com/years`); //Change to http://localhost:8000 for local tests
 		return await response.json();
 	}
 
@@ -81,11 +81,21 @@ document.addEventListener('DOMContentLoaded', () => {
 		toggleBtn.textContent = nextTheme === "dark" ? "☀️" : "🌙";
 	});
 
-	const hon_html = `
+	const hon_start = `
 		<div class="col-12 my-8">
 			<div class="honorable-divider d-flex align-items-center justify-content-center">
 				<span class="badge bg-success px-4 py-2 fs-9 shadow-sm">
-					Honorable Mentions
+					↓Honorable Mentions↓
+				</span>
+			</div>
+		</div>
+	`;
+
+	const hon_end = `
+		<div class="col-12 my-8">
+			<div class="honorable-divider d-flex align-items-center justify-content-center">
+				<span class="badge bg-success px-4 py-2 fs-9 shadow-sm">
+					↑Honorable Mentions↑
 				</span>
 			</div>
 		</div>
@@ -165,11 +175,11 @@ document.addEventListener('DOMContentLoaded', () => {
 			let honorable = true;
 			let i = data.list.length;
             container.textContent = ""
-        	container.insertAdjacentHTML("beforeend", hon_html);
+        	container.insertAdjacentHTML("beforeend", hon_start);
 
 			data.list.forEach(item => {
 				if (item.honorable == 0 && honorable === true) {
-					container.insertAdjacentHTML("beforeend", hon_html);
+					container.insertAdjacentHTML("beforeend", hon_end);
 					honorable = false;
 				}
 

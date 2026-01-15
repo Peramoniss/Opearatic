@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
 		: mq.addListener(handle);
 
 	async function fetchAvailableYears() {
-		const response = await fetch(`https://opearatic.onrender.com/years`);
+		const response = await fetch(`https://opearatic.onrender.com/years`); //Change to http://localhost:8000 for local tests
 		return await response.json();
 	}
 
