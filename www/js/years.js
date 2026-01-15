@@ -6,20 +6,19 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     /* ===========================================
-        THEME TOGGLE (same behavior as your main page)
+        THEME TOGGLE 
         =========================================== */
     const toggleBtn = document.getElementById("themeToggle");
     const root = document.documentElement;
 
     const savedTheme = localStorage.getItem("theme");
     if (savedTheme) {
-    root.dataset.theme = savedTheme;
-    if (toggleBtn) toggleBtn.textContent = savedTheme === "dark" ? "☀️" : "🌙";
+        root.dataset.theme = savedTheme;
+        toggleBtn.textContent = savedTheme === "dark" ? "☀️" : "🌙";
     } else {
-    if (toggleBtn) toggleBtn.textContent = "🌙";
+        toggleBtn.textContent = "🌙";
     }
 
-    if (toggleBtn) {
     toggleBtn.addEventListener("click", (e) => {
         e.preventDefault();
         const isDark = root.dataset.theme === "dark";
@@ -28,11 +27,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         localStorage.setItem("theme", nextTheme);
         toggleBtn.textContent = nextTheme === "dark" ? "☀️" : "🌙";
     });
-    }
 
     /* ===========================================
         YEARS RENDER
-        =========================================== */
+    =========================================== */
     const yearsMeta = document.getElementById("yearsMeta");
     const yearsGrid = document.getElementById("yearsGrid");
     const yearsRail = document.getElementById("yearsRail");

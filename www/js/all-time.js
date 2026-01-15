@@ -68,6 +68,8 @@ document.addEventListener('DOMContentLoaded', () => {
 	if (savedTheme) {
 		root.dataset.theme = savedTheme;
 		toggleBtn.textContent = savedTheme === "dark" ? "☀️" : "🌙";
+	}else{
+		toggleBtn.textContent = "🌙";
 	}
 
 	toggleBtn.addEventListener("click", () => {
