@@ -58,7 +58,7 @@ This allows:
 - GET /years
 - GET /pages
 - GET /year/{year}
-- GET /all-time?page=N
+- GET /all-time?page={pageNumber}
 
 All endpoints return already-ordered data.
 

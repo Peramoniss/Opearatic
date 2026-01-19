@@ -68,10 +68,13 @@ document.addEventListener('DOMContentLoaded', () => {
 	const savedTheme = localStorage.getItem("theme");
 	if (savedTheme) {
 		root.dataset.theme = savedTheme;
-		toggleBtn.textContent = savedTheme === "dark" ? "☀️" : "🌙";
 	}else{
-		toggleBtn.textContent = "🌙";
+		const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+		root.dataset.theme = prefersDark ? "dark" : "light";
+		//Does not save in local storage. If the browser preference is kept, the browser preference could change and the theme would change too
 	}
+
+	toggleBtn.textContent = root.dataset.theme === "dark" ? "☀️" : "🌙";
 
 	toggleBtn.addEventListener("click", () => {
 		const isDark = root.dataset.theme === "dark";
