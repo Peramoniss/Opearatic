@@ -317,3 +317,21 @@ color .25s ease,
 border-color .25s ease,
 box-shadow .25s ease;
 }
+
+.year-filters {
+	opacity: 1;
+	transform: translateY(0);
+	max-height: 500px;
+	overflow: hidden;
+	transition: 
+		opacity 0.25s ease,
+		transform 0.25s ease,
+		max-height 0.25s ease;
+}
+
+.year-filters.is-hidden {
+	opacity: 0;
+	transform: translateY(-6px);
+	max-height: 0;
+	pointer-events: none;
+}

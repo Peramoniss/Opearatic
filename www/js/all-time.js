@@ -43,18 +43,42 @@ document.addEventListener('DOMContentLoaded', () => {
 		? mq.addEventListener('change', handle)
 		: mq.addListener(handle);
 
+	const toggleFilterBtn = document.getElementById("toggleFilters");
+	const filterBox = document.getElementById("yearFilters");
+
+	toggleFilterBtn.addEventListener("click", () => {
+		const isHidden = filterBox.classList.contains("is-hidden");
+
+		filterBox.classList.toggle("is-hidden");
+
+		toggleFilterBtn.innerHTML = isHidden
+			? `<i class="bi bi-x-lg"></i> Close`
+			: `<i class="bi bi-funnel"></i> Filter`;
+	});
+
 	async function fetchAvailableYears() {
 		const response = await fetch(`https://opearatic.onrender.com/years`); //Change to http://localhost:8000 for local tests
 		return await response.json();
 	}
 
-	async function fetchAvailablePages() {
-		const response = await fetch(`https://opearatic.onrender.com/pages`);
+	async function fetchAvailablePages(min_year, max_year, hasYearFilter) {
+		let response
+		if (hasYearFilter) {
+			response = await fetch(`https://opearatic.onrender.com/pages/?min_year=${min_year}&max_year=${max_year}`);
+		}else{
+			response = await fetch(`https://opearatic.onrender.com/pages`);
+		}
 		return await response.json();
 	}
 
-	async function fetchAllTime(page) {
-		const response = await fetch(`https://opearatic.onrender.com/all-time/?page=${page}`);
+	async function fetchAllTime(page, min_year, max_year, hasYearFilter) {
+		let response
+		if (hasYearFilter) {
+			response = await fetch(`https://opearatic.onrender.com/all-time/?page=${page}&min_year=${min_year}&max_year=${max_year}`);
+		}else {
+			response = await fetch(`https://opearatic.onrender.com/all-time/?page=${page}`);
+		}
+		
 		return await response.json();
 	}
 
@@ -85,17 +109,28 @@ document.addEventListener('DOMContentLoaded', () => {
 		toggleBtn.textContent = nextTheme === "dark" ? "☀️" : "🌙";
 	});
 
-	function renderPagination(currentPage, totalPages) {
+
+	function renderPagination(currentPage, totalPages, hasYearFilter, min_year, max_year) {
 		const pagContainer = document.getElementById("pagination");
 		pagContainer.innerHTML = "";
-
-		const makeItem = (label, page, disabled = false, active = false) => `
-			<li class="page-item ${disabled ? "disabled" : ""} ${active ? "active" : ""}">
-				<a class="page-link rounded-pill px-3" href="?page=${page}">
-					${label}
-				</a>
-			</li>
-		`;
+		let makeItem
+		if (hasYearFilter){
+			makeItem = (label, page, disabled = false, active = false) => `
+				<li class="page-item ${disabled ? "disabled" : ""} ${active ? "active" : ""}">
+					<a class="page-link rounded-pill px-3" href="?page=${page}&min_year=${min_year}&max_year=${max_year}">
+						${label}
+					</a>
+				</li>
+			`;
+		}else{
+			makeItem = (label, page, disabled = false, active = false) => `
+				<li class="page-item ${disabled ? "disabled" : ""} ${active ? "active" : ""}">
+					<a class="page-link rounded-pill px-3" href="?page=${page}">
+						${label}
+					</a>
+				</li>
+			`;
+		}
 
 		// Anterior
 		pagContainer.insertAdjacentHTML(
@@ -127,9 +162,53 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	const container = document.getElementById("reviews");
 
+	const normalizeYear = v =>
+	v !== null && v !== "" && !Number.isNaN(Number(v))
+		? parseInt(v, 10)
+		: null;
 	const params = new URLSearchParams(window.location.search);
+	let minYearParam = normalizeYear(params.get("min_year"), 10);
+	let maxYearParam = normalizeYear(params.get("max_year"), 10);
+
+	if (params.has("min_year") || params.has("max_year")) {
+		filterBox.classList.remove("is-hidden");
+		toggleFilterBtn.innerHTML = `<i class="bi bi-x-lg"></i> Close`;
+	}
 
 	fetchAvailableYears().then(available_years => {
+		const hasYearFilter = minYearParam !== null || maxYearParam !== null;
+
+		const minAvailable = normalizeYear(available_years[0]);
+		const maxAvailable = normalizeYear(available_years.at(-1));
+
+		const min_year = Number.isInteger(minYearParam) ? minYearParam : minAvailable;
+		const max_year = Number.isInteger(maxYearParam) ? maxYearParam : maxAvailable;
+
+		const minSelect = document.getElementById("minYearSelect");
+		const maxSelect = document.getElementById("maxYearSelect");
+
+		document.getElementById("applyYearFilter").addEventListener("click", () => {
+			const newMin = minSelect.value;
+			const newMax = maxSelect.value;
+
+			const newParams = new URLSearchParams(window.location.search);
+			newParams.set("page", 1); // reset page
+			newParams.set("min_year", newMin);
+			newParams.set("max_year", newMax);
+
+			window.location.search = newParams.toString();
+		});
+
+		available_years.forEach(year => {
+			minSelect.insertAdjacentHTML(
+				"beforeend",
+				`<option value="${year}" ${parseInt(year,10) === min_year ? "selected" : ""}>${year}</option>`
+			);
+			maxSelect.insertAdjacentHTML(
+				"beforeend",
+				`<option value="${year}" ${parseInt(year,10) === max_year ? "selected" : ""}>${year}</option>`
+			);
+		});
 		const nav = document.getElementById("dropdown-lists");
 
 		const year_nav = `
@@ -146,12 +225,12 @@ document.addEventListener('DOMContentLoaded', () => {
 		const temp_page = parseInt(params.get("page"), 10);
 		const page = Number.isInteger(temp_page) ? temp_page : 1;
 
-		fetchAvailablePages().then(pages => {
+		fetchAvailablePages(min_year, max_year, hasYearFilter).then(pages => {
 			const totalPages = pages.length;
-			renderPagination(page, totalPages);
+			renderPagination(page, totalPages, hasYearFilter, min_year, max_year);
 		});
 
-		fetchAllTime(page).then(async data => {
+		fetchAllTime(page, min_year, max_year, hasYearFilter).then(async data => {
 			let i = 1 + 50 * (page - 1);
             container.textContent = ""
 			for (const [artistName, artistData] of Object.entries(data)) {

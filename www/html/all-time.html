@@ -64,7 +64,7 @@
 								</ul>
 							</li>
 							<li class="nav-item p-6">
-								<a class="nav-link link-secondary p-0" href="all-time.html">All-time List</a>
+								<a class="nav-link link-secondary p-0" href="all-time.html">All-time Artists List</a>
 							</li>
 						</ul>
 					</div>
@@ -79,10 +79,35 @@
 			<div class="container">
 			<div class="mb-5 px-6 position-relative">
 				<div class="text-center mb-5">
-					<span class="mb-4 badge bg-success text-white text-uppercase shadow">Reviews</span>
+					<span class="mb-4 badge bg-success text-white text-uppercase shadow">Best Artists</span>
 					<h1 class="mb-6 font-heading fs-4" style="letter-spacing: -1px;" id="title"></h1>
-					<p class="fs-9 fw-medium text-secondary mw-xl mx-auto">A scoring system that gathers all the year-end lists and make a SUPREME ranking of best artists of all-time. Even I don't agree with the point system, so don't take it too seriously. I just like numbers.</p>
+					<p class="fs-9 fw-medium text-secondary mw-xl mx-auto">A scoring system that gathers all the year-end lists and make a SUPREME ranking of best artists of all-time. Even I don't agree with the point system, so don't take it too seriously. I just like numbers. There's also a filtering system so you can see the best artists in every point in time.</p>
 					<div class="d-flex justify-content-center mt-4">
+					</div>
+					<div class="d-flex justify-content-center mb-4">
+						<button id="toggleFilters" class="btn btn-sm btn-outline-secondary">
+							<i class="bi bi-funnel"></i> Filter
+						</button>
+					</div>
+
+					<div id="yearFilters" class="year-filters is-hidden">
+						<div class="d-flex flex-wrap justify-content-center gap-3 mb-5">
+							<div>
+								<label class="form-label fs-11 text-secondary">From</label>
+								<select id="minYearSelect" class="form-select form-select-sm"></select>
+							</div>
+
+							<div>
+								<label class="form-label fs-11 text-secondary">To</label>
+								<select id="maxYearSelect" class="form-select form-select-sm"></select>
+							</div>
+
+							<div class="align-self-end">
+								<button id="applyYearFilter" class="btn btn-sm btn-success">
+									Apply
+								</button>
+							</div>
+						</div>
 					</div>
 				</div>
 				<div class="d-flex justify-content-center mt-16">
@@ -102,13 +127,13 @@
 								</span>
 							</div>
 						</div>
+					</div>
+					<div class="d-flex justify-content-center mt-16">
+						<nav>
+							<ul class="pagination pagination-sm gap-2" id="pagination"></ul>
+						</nav>
+					</div>
 				</div>
-				<div class="d-flex justify-content-center mt-16">
-					<nav>
-						<ul class="pagination pagination-sm gap-2" id="pagination"></ul>
-					</nav>
-				</div>
-			</div>
 		</section>
 		<footer class="bg-secondary-dark" style="padding-top: 1rem !important; padding-bottom:2rem !important;">
 			<div class="container">

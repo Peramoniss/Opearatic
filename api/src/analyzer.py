@@ -2,6 +2,7 @@ import json
 from pathlib import Path
 from datetime import datetime
 from .config import JSON_DIR
+ITEMS_PER_PAGE = 50
 
 def get_available_years():
     folder = Path(JSON_DIR)
@@ -81,13 +82,19 @@ def position_format(pos: str):
         return f"{pos}th place"
 
 
-def generate_all_time_list():
+def generate_all_time_list(min_year : int | None = None, max_year : int | None = None):        
     pasta = Path(JSON_DIR)
     lists = []
-    for f in sorted(pasta.iterdir()):
-        if "all" not in f.name:
-            lists.append(get_list(f.name.split('.')[0]))
-
+    
+    if min_year is None or max_year is None:
+        for f in sorted(pasta.iterdir()):
+            if "all" not in f.name:
+                lists.append(get_list(f.name.split('.')[0]))
+    else:
+        for f in sorted(pasta.iterdir()):
+            if "all" not in f.name and int(f.name.split('.')[0]) <= max_year and int(f.name.split('.')[0]) >= min_year:
+                lists.append(get_list(f.name.split('.')[0]))
+        
     best_artists = dict()
     for l in lists:
         pos = len(l["list"])
@@ -139,7 +146,7 @@ def generate_all_time_list():
                         if pos == 1 and int((best_artists[artist])["best_pos"]) >= 100:
                             (best_artists[artist])["best_pos"] = 100 + pos
                             (best_artists[artist])["image"] = a["prize-picture"]
-                        pos += 1
+                    pos += 1
     
     filtered = {}
     for artist, data in best_artists.items():
@@ -154,18 +161,42 @@ def generate_all_time_list():
     }
     """
     return filtered
+    
 
 def get_all_time_page(page: int):
     with open(f"{JSON_DIR}/all-time-{page}.json", "r", encoding="utf-8") as json_file:
         return json.load(json_file)
-
-def get_available_pages():
-    folder = Path(JSON_DIR)
-    pages = []
-    for f in folder.iterdir():
-        if "all" in f.name:
-            pages.append(f.name.split('.')[0].split("-")[2])
     
+def get_all_time_page_filtered(page: int, min_year: int, max_year: int):
+    data = generate_all_time_list(min_year=min_year, max_year=max_year)
+    
+    return_data = dict(
+        sorted(
+            data.items(),
+            key=lambda x: x[1]["points"],
+            reverse=True
+        )
+    )
+
+    start = ITEMS_PER_PAGE * (page-1)
+    working_items = dict(list(return_data.items())[start:start+ITEMS_PER_PAGE])
+
+    return working_items
+
+def get_available_pages(min_year: int | None = None, max_year: int | None = None):
+    pages = []
+    if min_year is None or max_year is None:        
+        folder = Path(JSON_DIR)
+        for f in folder.iterdir():
+            if "all" in f.name:
+                pages.append(f.name.split('.')[0].split("-")[2])
+    else:
+        data = generate_all_time_list(min_year=min_year, max_year=max_year)
+        total_items = len(data)
+        total_pages = -(total_items // -ITEMS_PER_PAGE) #Ceiling. If there's 180 items and 50 per page, result is 3.6, and the returned value is 4 
+        for i in range(1, total_pages+1):
+            pages.append(str(i))
+
     return pages
 
 if __name__ == "__main__":

@@ -41,7 +41,7 @@
         "Wasted",
         "Solanin"
       ],
-      "honorable": 0
+      "honorable": 1
     },
     {
       "cover": "https://e.snmc.io/i/600/w/1d0805dd015c8bcc792e5388817d88c2/12176936/jesus-molina-selah-Cover-Art.jpg",
@@ -171,6 +171,21 @@
       "highlights": [
         "Frenesi",
         "Refazendo"
+      ],
+      "honorable": 0
+    },
+    {
+      
+      "cover": "https://e.snmc.io/i/600/w/f2bdd56c043171daacc4c83d29325a12/12307628/hoovaranas-tres-Cover-Art.jpg",
+      "score": "7.8",
+      "artist": "Castle Rat",
+      "album": "Into the Realm",
+      "year": 2024,
+      "title": "Thrust your blade into the dark mass",
+      "review": "Castle Rat is one of the bands that best capture Black Sabbath's sound. They have the Doomy riffs, but the songwriting is not simply based on Iommi's riffs. They also work with great vocal melodies and interesting structure. It's not just atmosphere, it's actually songwriting. That's the reason Doom Metal has never clicked with me, even with Black Sabbath being my favorite band. Still, Castle Rat feels like they understood better the sound, more in the vein of Ape Machine or a doomier Orange Sunshine than the likes of Pentagram or Candlemass. Still, I think they missed some of the most important parts, which are the solos. I mean, Ressurector is an amazing bass solo track, in the vein of N.I.B.'s intro, connecting to the next song. But the guitar solos are a bit lacking here. Red Sands, for example, when about to explode into the best guitar part in it, the guitar volume is lowered in the mix to give prominence to the voice. So it's not as if the great guitar work is not there, it's just that it works as background for something else, when it could be a central thing. The instrumentation is strong, even more so in modern standards. The guitars are great, and the bass sounds perfect, with very Geezer-y lines as well. Even so, it is also nowhere near Sabbath's. Of course, that's an unfair comparison, but one that needs to be made. The drums, particularly, don't really stand out. Also, I'm not the fondest of the Queen's voice. She's a good singer, but didn't really do much with me. The production is also weak, with everything muddled together in a poor amalgam, as well as several unnecessary effects in Pinkerton's voice.",
+      "highlights": [
+        "Dagger Dragger",
+        "Ressurector"
       ],
       "honorable": 0
     },
@@ -434,7 +449,7 @@
       "cover": "https://e.snmc.io/i/600/w/528dae81ced84ab44a956a86b539e577/12169975/badbadnotgood-mid-spiral-Cover-Art.jpg",
       "score": "8.2",
       "artist": "BADBADNOTGOOD",
-      "album": "Mid Spiral [Compilation]",
+      "album": "Mid Spiral",
       "year": 2024,
       "title": "I've made the GOODGOODNOTBAD joke already, so I'm out of things to say here",
       "review": "BADBADNOTGOOD released a series of three EP's, which ended up in this compilation that is, basically, their latest album. And well, they continue their ascension here. Every EP follows a more dense, vibey approach, different from the more intense songs we heard in their last few albums. Alex's drums are a bit contained here, which is a shame knowing what he can do, but the songwriting is brilliant and every song is beautiful. The record is 80 minutes long and I really didn't bother the length at all, which is something that almost no album that is 50 minutes long or more can do. It keeps the rockier and jazzier approach, distancing the band's sound even more from their early Hip Hop influences, and includes some tropical feel to several of the songs. Chaos EP is consistent and beautiful, while the middle EP, Order, drags a bit and just keeps the aesthetic of the first one with less enthusiasm and creativity. But it's the third EP, Growth, that really shines. Pretty much every song in it is fantastic and a highlight. The bonus track is also very good but outshined by plenty of the others. My favorites here are Mid Spiral, First Love, Audacia, Ways of Seeing, and White Light.",
@@ -805,5 +820,5 @@
       "prize-picture": "https://i.guim.co.uk/img/media/2438b65afab9f482ab96f19d2daa3acc4ab298b2/308_2285_3594_2156/master/3594.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1c73e345e11eaec4a679e0fe901a0f01"
     }
   ],
-  "last_modified":"January 14, 2026 at 15:54"
+  "last_modified":"January 20, 2026 at 14:53"
 }

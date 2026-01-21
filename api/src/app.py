@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from .analyzer import get_list, get_all_time_page, get_available_years, get_available_pages
+from .analyzer import get_list, get_all_time_page, get_all_time_page_filtered, get_available_years, get_available_pages
 from .config import ENV
 
 app = FastAPI(
@@ -41,8 +41,11 @@ def year_list(year: int):
     return data
 
 @app.get("/all-time/")
-def all_time(page: int):
-    data = get_all_time_page(page)
+def all_time(page: int, min_year: int | None = None, max_year: int | None = None):
+    if min_year is None and max_year is None:
+        data = get_all_time_page(page)
+    else:
+        data = get_all_time_page_filtered(page, min_year, max_year)
     return data
 
 @app.get("/years")
@@ -51,8 +54,8 @@ def available_years():
     return sorted(data, key=int)
 
 @app.get("/pages")
-def available_pages():
-    data = get_available_pages()
+def available_pages(min_year: int | None = None, max_year: int | None = None):
+    data = get_available_pages(min_year, max_year)
     return sorted(data, key=int)
 
 @app.get("/")
