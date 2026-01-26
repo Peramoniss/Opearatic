@@ -294,22 +294,6 @@
         ],
         "best_pos": 102
     },
-    "Cicada": {
-        "points": 3,
-        "awards": [
-            [
-                "Seeking the Sources of Streams",
-                "3rd place in Best Jazz Album of the Year in 2023",
-                3
-            ],
-            [
-                "Seeking the Sources of Streams",
-                "3rd place in Best Foreign Album of the Year (Asia) in 2023",
-                0
-            ]
-        ],
-        "best_pos": 103
-    },
     "Nourished by Time": {
         "points": 3,
         "awards": [
@@ -440,7 +424,7 @@
         "awards": [
             [
                 "OUT THERE",
-                "2nd place in Best Jazz Album of the Year in 2025",
+                "3rd place in Best Jazz Album of the Year in 2025",
                 3
             ],
             [
@@ -449,20 +433,37 @@
                 0
             ]
         ],
-        "best_pos": 102
+        "best_pos": 103
     },
-    "César y su Jardín": {
+    "Durand Jones": {
         "points": 3,
         "awards": [
             [
-                "CORRE Y SUELTA A LOS PERROS",
-                "3rd place in Best Jazz Album of the Year in 2025",
+                "Flowers",
+                "2nd place in Best R&B Album of the Year in 2025",
                 3
-            ],
+            ]
+        ],
+        "best_pos": 102
+    },
+    "The Indications": {
+        "points": 3,
+        "awards": [
             [
-                "CORRE Y SUELTA A LOS PERROS",
-                "3rd place in Best Foreign Album of the Year (North or Central America) in 2025",
-                0
+                "Flowers",
+                "2nd place in Best R&B Album of the Year in 2025",
+                3
+            ]
+        ],
+        "best_pos": 102
+    },
+    "Luedji Luna": {
+        "points": 3,
+        "awards": [
+            [
+                "Um Mar Pra Cada Um,",
+                "3rd place in Best R&B Album of the Year in 2025",
+                3
             ]
         ],
         "best_pos": 103
@@ -612,16 +613,5 @@
             ]
         ],
         "best_pos": 104
-    },
-    "Beach Bunny": {
-        "points": 1,
-        "awards": [
-            [
-                "Blame Game",
-                "5th place in Best EP of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 105
     }
 }

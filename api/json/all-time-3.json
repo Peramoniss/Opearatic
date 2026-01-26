@@ -1,4 +1,21 @@
 {
+    "Squee": {
+        "points": 8,
+        "awards": [
+            [
+                "Squee",
+                "36th place in year-end list in 2024",
+                5
+            ],
+            [
+                "Squee",
+                "3rd place in Best Heavy Album of the Year in 2024",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/5cc6c665577593fed4eaceec0061abec/12669807/squee-squee-Cover-Art.png",
+        "best_pos": 36
+    },
     "Caxtrinho": {
         "points": 8,
         "awards": [
@@ -733,22 +750,6 @@
             ]
         ],
         "best_pos": 103
-    },
-    "Luedji Luna": {
-        "points": 4,
-        "awards": [
-            [
-                "Um Mar Pra Cada Um,",
-                "2nd place in Best R&B Album of the Year in 2025",
-                3
-            ],
-            [
-                "Antes que a Terra acabe",
-                "5th place in Best R&B Album of the Year in 2025",
-                1
-            ]
-        ],
-        "best_pos": 102
     },
     "AJR": {
         "points": 3,
