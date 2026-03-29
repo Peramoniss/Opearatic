@@ -1,4 +1,26 @@
 {
+    "cuni": {
+        "points": 14,
+        "awards": [
+            [
+                "Prescribed Burn",
+                "10th place in year-end list in 2024",
+                10
+            ],
+            [
+                "Prescribed Burn",
+                "5th place in Best Alternative Album of the Year in 2024",
+                1
+            ],
+            [
+                "Prescribed Burn",
+                "3rd place in Best Debut of the Year in 2024",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/0e165e6f84677bead72f7cab0ed7642b/12580846/cuni-prescribed-burn-Cover-Art.jpg",
+        "best_pos": 10
+    },
     "Bruno Pernadas": {
         "points": 13,
         "awards": [
@@ -65,7 +87,7 @@
         "awards": [
             [
                 "Validation",
-                "11st place in year-end list in 2022",
+                "12nd place in year-end list in 2022",
                 8
             ],
             [
@@ -80,41 +102,14 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/fe1aedd7b248a6544ef9278b50d59f18/10564635/yung-lixo-validation-Cover-Art.jpg",
-        "best_pos": 11
-    },
-    "Fontaines D.C.": {
-        "points": 13,
-        "awards": [
-            [
-                "Skinty Fia",
-                "10th place in year-end list in 2022",
-                10
-            ],
-            [
-                "Skinty Fia",
-                "3rd place in Best Rock Album of the Year in 2022",
-                3
-            ],
-            [
-                "Skinty Fia",
-                "1st place in Best Foreign Album of the Year (Europe) in 2022",
-                0
-            ],
-            [
-                "Romance",
-                "1st place in Best Foreign Album of the Year (Europe) in 2024",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/e6efcf346b01e2ea746452a6f043c0f3/9627267/fontaines-d_c-skinty-fia-Cover-Art.jpg",
-        "best_pos": 10
+        "best_pos": 12
     },
     "Kevin Morby": {
         "points": 13,
         "awards": [
             [
                 "This Is a Photograph",
-                "9th place in year-end list in 2022",
+                "10th place in year-end list in 2022",
                 10
             ],
             [
@@ -124,7 +119,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/3a44fe92856542e8a92b1cb386a38ded/10115807/kevin-morby-this-is-a-photograph-Cover-Art.png",
-        "best_pos": 9
+        "best_pos": 10
     },
     "Spiritualized": {
         "points": 13,
@@ -268,7 +263,7 @@
         "awards": [
             [
                 "Some Nights I Dream of Doors",
-                "23rd place in year-end list in 2022",
+                "24th place in year-end list in 2022",
                 7
             ],
             [
@@ -283,7 +278,7 @@
             ],
             [
                 "Some Nights I Dream of Doors",
-                "4th place in Best Debut of the Year in 2022",
+                "5th place in Best Debut of the Year in 2022",
                 1
             ],
             [
@@ -293,14 +288,14 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/a3778187b74e6127c01b3ab66cc268bd/9831153/obongjayar-some-nights-i-dream-of-doors-Cover-Art.jpg",
-        "best_pos": 23
+        "best_pos": 24
     },
     "Steve Lacy": {
         "points": 12,
         "awards": [
             [
                 "Gemini Rights",
-                "17th place in year-end list in 2022",
+                "18th place in year-end list in 2022",
                 7
             ],
             [
@@ -310,34 +305,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/309590815c28eed833a97798f53459b2/10081058/steve-lacy-gemini-rights-Cover-Art.jpg",
-        "best_pos": 17
-    },
-    "Wet Leg": {
-        "points": 12,
-        "awards": [
-            [
-                "Wet Leg",
-                "16th place in year-end list in 2022",
-                7
-            ],
-            [
-                "Wet Leg",
-                "5th place in Best Rock Album of the Year in 2022",
-                1
-            ],
-            [
-                "Wet Leg",
-                "3rd place in Best Debut of the Year in 2022",
-                3
-            ],
-            [
-                "moisturizer",
-                "4th place in Best Rock Album of the Year in 2025",
-                1
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/915ffa4998ca1c4fd18cdfa2da808f03/9516273/wet-leg-wet-leg-Cover-Art.jpg",
-        "best_pos": 16
+        "best_pos": 18
     },
     "Sampha": {
         "points": 12,
@@ -514,6 +482,33 @@
         ],
         "image": "https://e.snmc.io/i/600/w/459f6c34cf9511ecf42967d6c3d0cf07/9448562/courtney-barnett-things-take-time-take-time-Cover-Art.jpg",
         "best_pos": 10
+    },
+    "Fontaines D.C.": {
+        "points": 11,
+        "awards": [
+            [
+                "Skinty Fia",
+                "11st place in year-end list in 2022",
+                8
+            ],
+            [
+                "Skinty Fia",
+                "3rd place in Best Rock Album of the Year in 2022",
+                3
+            ],
+            [
+                "Skinty Fia",
+                "1st place in Best Foreign Album of the Year (Europe) in 2022",
+                0
+            ],
+            [
+                "Romance",
+                "1st place in Best Foreign Album of the Year (Europe) in 2024",
+                0
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/e6efcf346b01e2ea746452a6f043c0f3/9627267/fontaines-d_c-skinty-fia-Cover-Art.jpg",
+        "best_pos": 11
     },
     "Kara Jackson": {
         "points": 11,
@@ -754,7 +749,7 @@
         "awards": [
             [
                 "Habilidades extraordinárias",
-                "19th place in year-end list in 2022",
+                "20th place in year-end list in 2022",
                 7
             ],
             [
@@ -769,7 +764,34 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/dfa81865079d8419ec259c7011adbd4d/10282019/tulipa-ruiz-habilidades-extraordinarias-Cover-Art.jpg",
-        "best_pos": 19
+        "best_pos": 20
+    },
+    "Wet Leg": {
+        "points": 10,
+        "awards": [
+            [
+                "Wet Leg",
+                "17th place in year-end list in 2022",
+                7
+            ],
+            [
+                "Wet Leg",
+                "5th place in Best Rock Album of the Year in 2022",
+                1
+            ],
+            [
+                "Wet Leg",
+                "4th place in Best Debut of the Year in 2022",
+                1
+            ],
+            [
+                "moisturizer",
+                "4th place in Best Rock Album of the Year in 2025",
+                1
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/915ffa4998ca1c4fd18cdfa2da808f03/9516273/wet-leg-wet-leg-Cover-Art.jpg",
+        "best_pos": 17
     },
     "Earl Sweatshirt": {
         "points": 10,
@@ -856,28 +878,6 @@
         "image": "https://e.snmc.io/i/600/w/bca8022abd0a73d71f4a94276506ebcf/13101077/honningbarna-soft-spot-Cover-Art.png",
         "best_pos": 17
     },
-    "Julia Jacklin": {
-        "points": 9,
-        "awards": [
-            [
-                "PRE PLEASURE",
-                "12nd place in year-end list in 2022",
-                8
-            ],
-            [
-                "PRE PLEASURE",
-                "5th place in Best Alternative Album of the Year in 2022",
-                1
-            ],
-            [
-                "PRE PLEASURE",
-                "1st place in Best Foreign Album of the Year (Oceania) in 2022",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/5cc7889396cf7bbf99b619a9d060282e/9934659/julia-jacklin-pre-pleasure-Cover-Art.jpg",
-        "best_pos": 12
-    },
     "Cameron Winter": {
         "points": 9,
         "awards": [
@@ -934,22 +934,22 @@
         "image": "https://e.snmc.io/i/600/w/49bcb5cbba1e8aca49ac64eb064c97ee/9180879/brandi-carlile-in-these-silent-days-Cover-Art.jpg",
         "best_pos": 27
     },
-    "Sweet Pill": {
+    "Julia Jacklin": {
         "points": 8,
         "awards": [
             [
-                "Where the Heart Is",
-                "24th place in year-end list in 2022",
-                7
+                "PRE PLEASURE",
+                "13rd place in year-end list in 2022",
+                8
             ],
             [
-                "Where the Heart Is",
-                "5th place in Best Debut of the Year in 2022",
-                1
+                "PRE PLEASURE",
+                "1st place in Best Foreign Album of the Year (Oceania) in 2022",
+                0
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/1da8cf2ed6f569fff85947eb2b450391/9779452/sweet-pill-where-the-heart-is-Cover-Art.jpg",
-        "best_pos": 24
+        "image": "https://e.snmc.io/i/600/w/5cc7889396cf7bbf99b619a9d060282e/9934659/julia-jacklin-pre-pleasure-Cover-Art.jpg",
+        "best_pos": 13
     },
     "Horrendous": {
         "points": 8,
