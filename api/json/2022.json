@@ -63,18 +63,6 @@
         },
         {
         
-        "cover": "https://e.snmc.io/i/600/w/1da8cf2ed6f569fff85947eb2b450391/9779452/sweet-pill-where-the-heart-is-Cover-Art.jpg",
-        "score": "7.7",
-        "artist": "Sweet Pill",
-        "album": "Where the Heart Is",
-        "year": 2022,
-        "title": "I am trying to be someone else",
-        "review": "I've always had a soft spot for introspective Indie music and everything that comes with that bag. Sweet Pill shows a lot in that regard, with great instrumentation, ranging from Math Rock riffs to anthemic Paramore-like choruses, and the essentials of emo music. The album gets a tad repetitive at times, but it is mostly one good song after another. I think the lyrics could be much more intimate, but the performances from everyone make up for it. A very promising debut to a very interesting emo scene coming to form. Listen to High Hopes and Dog Song to have a taste of them.",
-        "highlights": ["High Hopes", "Dog Song"],
-        "honorable": 0
-        },
-        {
-        
         "cover": "https://e.snmc.io/i/600/w/a3778187b74e6127c01b3ab66cc268bd/9831153/obongjayar-some-nights-i-dream-of-doors-Cover-Art.jpg",
         "score": "7.7",
         "artist": "Obongjayar",
@@ -253,8 +241,18 @@
             "highlights": ["Rock Bottom", "A Coat of Butterflies", "Stop Before I Cry", "It's Over"],
             "honorable": 0
         },
+                {
+        "cover": "https://e.snmc.io/i/600/w/1da8cf2ed6f569fff85947eb2b450391/9779452/sweet-pill-where-the-heart-is-Cover-Art.jpg",
+        "score": "8.2",
+        "artist": "Sweet Pill",
+        "album": "Where the Heart Is",
+        "year": 2022,
+        "title": "I haven't changed a single thing to feel differently",
+        "review": "I've always had a soft spot for introspective Indie music and everything that comes with that bag. Sweet Pill enters that field, ranging from Math Rock riffs to anthemic Paramore-like choruses, as well as all the emo music essentials. Despite a few repetitive songs, it is one great song after another, with very impressive arrangements. The performances by every member are also impressive. The lyrics are not simple one-liners, but they tend to build up and amount to beautiful emotional findings. One of the strongest emo records in a long time, and a very promising debut.",
+        "highlights": ["Where the Heart Is","High Hopes", "Dog Song","Red String"],
+        "honorable": 0
+        },
         {
-        
         "cover": "https://e.snmc.io/i/600/w/f4b1cfbc98c10522bbf04051fb7b6e93/9446922/spiritualized-everything-was-beautiful%E2%84%A2-Cover-Art.jpg",
         "score": "8.2",
         "artist": "Spiritualized",
@@ -266,7 +264,6 @@
         "honorable": 0
         },
         {
-        
         "cover": "https://e.snmc.io/i/600/w/b41cd2f527f69e937005114c7a615022/9714949/wallows-tell-me-that-it%E2%80%99s-over-Cover-Art.jpg",
         "score": "8.2",
         "artist": "Wallows",
@@ -366,7 +363,7 @@
                 "Air Guitar - Sobs",
                 "Blue Rev - Alvvays",
                 "Tell Me That It's Over - Wallows",
-                "PRE PLEASURE - Julia Jacklin"
+                "Where the Heart Is - Sweet Pill"
             ],
             "winner-sentence": "Not a boat person, but surely a Boat Songs person",
             "prize-picture": "https://coffee-for-two.com/wp-content/uploads/2022/01/lenderman.jpeg"
@@ -552,10 +549,10 @@
             "title": "Best Debut of the Year",
             "nominees": [
             "Mister Antigravity - Gumshoes",
+            "Where the Heart Is - Sweet Pill",
             "Everything I Know About Love - Laufey",
             "Wet Leg - Wet Leg",
-            "Some Nights I Dream of Doors - Obongjayar",
-            "Where the Heart Is - Sweet Pill"
+            "Some Nights I Dream of Doors - Obongjayar"
             ],
             "winner-sentence": "Frenetic dude yelling above beautiful layers of instrumentation for frenetic recluses.",
             "prize-picture": "https://f4.bcbits.com/img/a0737182357_16.jpg"
@@ -585,5 +582,5 @@
             "prize-picture": "https://static01.nyt.com/images/2022/02/08/arts/07blackcountry-review1/merlin_201346224_3203bed0-0a63-43f4-aafc-d1a5d9ec0df9-superJumbo.jpg"
         }
     ],
-  "last_modified":"January 11, 2026 at 00:19"
+  "last_modified":"March 29, 2026 at 00:11"
 }
