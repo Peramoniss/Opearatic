@@ -59,7 +59,7 @@
         "title": "But perhaps if I sing you the tune, maybe you know the song I am talking about?",
         "review": "MIKE has been one of the most prominent and best rappers in the current scene. Drinking a lot from Earl's Abstract Jazz Rap style, he makes a name for himself by a very unique and charming usage of samples. I'm not the biggest fan of his voice, lyrics, nor flow, but his production is always very interesting, and I think this album is the one that better aligns with my taste, focusing on the jazzy and moody elements and less on rapping itself. Just exactly the kind of Hip Hop I enjoy and recommend. Nuthin I can do is Wrng and What do I do? are the best songs here.",
         "highlights": ["Nuthin I can do is Wrng", "What do I do?"],
-        "honorable": 0
+        "honorable": 1
         },
         {
         
@@ -110,7 +110,6 @@
         "honorable": 0
         },
         {
-        
         "cover": "https://e.snmc.io/i/600/w/dfa81865079d8419ec259c7011adbd4d/10282019/tulipa-ruiz-habilidades-extraordinarias-Cover-Art.jpg",
         "score": "7.8",
         "artist": "Tulipa Ruiz",
@@ -157,8 +156,7 @@
         "highlights": ["Being in Love", "Wet Dream", "Piece of Shit"],
         "honorable": 0
         },
-            {
-        
+        {
         "cover": "https://e.snmc.io/i/600/w/b39093bfada9aa98f80c4cc8dc7ee353/9723382/wallows-singles-collection-2017-2020-Cover-Art.jpg",
         "score": "8.0",
         "artist": "Wallows",
@@ -167,6 +165,17 @@
         "title": "Quite a people pleaser... If I could only please her",
         "review": "While technically a compilation, this record compiles releases that were only seen as singles (and one different version of an EP song). So, since 90% of the songs are new to album release, and the other one is a different version, I'll allow it. And what's great about this album is that it shows exactly what was good in the early days of Wallows: fantastic vocal melodies, some pretty decent guitar work, and interesting teenage maturing lyrics. The first half has a batch of their early singles, like the fantastic Pleaser and the captivating Pulling Leaves Off Trees. The second half of the album has some tracks that came after their debut EP and album, so it already shows them falling flat and directionless. Still, OK is a great track. Overall, it's not a very cohesive record, but it shows the early days of a band with a lot of potential to be developed.",
         "highlights": ["Pleaser", "Pulling Leaves Off Trees", "OK"],
+        "honorable": 0
+        },
+        {
+        "cover": "https://e.snmc.io/i/600/w/4d27eaad8906d2888cb9ccb17600a8dd/9816489/forests-get-in-losers-we%E2%80%99re-going-to-eternal-damnation-Cover-Art.jpg",
+        "score": "8.0",
+        "artist": "Forests",
+        "album": "Get in Losers, We're Going to Eternal Damnation",
+        "year": 2022,
+        "title": "Fool me thrice",
+        "review": "The Singaporean emo band is back with their best work yet. While the vocals are still not very good, they remain heartfelt, and the rest of the album is an improvement in almost every major aspect. The songs are better structured, the melodies are sweet, and the instrumentation (mainly the mathy guitar loops) is amazing. I particularly love the humor in the track titles and the GODDAMN ORIGAMI ANGEL REFERENCE in the first track. Really, it sounds like an improved version of the last album, which can be seen as either a good or a bad thing. Yes, they improved a lot, but the number of tracks, the sequencing, the penultimate track being an acoustic folky song, everything is just unnecessarily similar. But again, it's a good Emo Revival record with good songwriting, I can't complain.",
+        "highlights": ["Fool of Hell", "At Then End of the Day, It's Night", "Jazz Ruined My Life"],
         "honorable": 0
         },
         {
@@ -230,18 +239,17 @@
         "honorable": 0
         },
         {
-            
-            "cover": "https://e.snmc.io/i/600/w/3a44fe92856542e8a92b1cb386a38ded/10115807/kevin-morby-this-is-a-photograph-Cover-Art.png",
-            "score": "8.1",
-            "artist": "Kevin Morby",
-            "album": "This Is a Photograph",
-            "year": 2022,
-            "title": "Best years of my life I spent dying next to you",
-            "review": "As good as Kevin Morby's previous albums were, they felt too attached to Bob Dylan's influences. Here, Kevin makes a soft, tasteful, and cadenced album that keeps consistently interesting throughout its entire run. The lyrics are great and emotional, just like his vocals. He is not reinventing anything, but he gathers his influences and shamelessly makes it his own. His voice sounds like Alex Turner tried to sound in The Car, but with actual soul. Some songs sound too similar, but aside from that, Morby released his best work to date with one beautiful song after another.",
-            "highlights": ["Rock Bottom", "A Coat of Butterflies", "Stop Before I Cry", "It's Over"],
-            "honorable": 0
+        "cover": "https://e.snmc.io/i/600/w/3a44fe92856542e8a92b1cb386a38ded/10115807/kevin-morby-this-is-a-photograph-Cover-Art.png",
+        "score": "8.1",
+        "artist": "Kevin Morby",
+        "album": "This Is a Photograph",
+        "year": 2022,
+        "title": "Best years of my life I spent dying next to you",
+        "review": "As good as Kevin Morby's previous albums were, they felt too attached to Bob Dylan's influences. Here, Kevin makes a soft, tasteful, and cadenced album that keeps consistently interesting throughout its entire run. The lyrics are great and emotional, just like his vocals. He is not reinventing anything, but he gathers his influences and shamelessly makes it his own. His voice sounds like Alex Turner tried to sound in The Car, but with actual soul. Some songs sound too similar, but aside from that, Morby released his best work to date with one beautiful song after another.",
+        "highlights": ["Rock Bottom", "A Coat of Butterflies", "Stop Before I Cry", "It's Over"],
+        "honorable": 0
         },
-                {
+        {
         "cover": "https://e.snmc.io/i/600/w/1da8cf2ed6f569fff85947eb2b450391/9779452/sweet-pill-where-the-heart-is-Cover-Art.jpg",
         "score": "8.2",
         "artist": "Sweet Pill",
@@ -249,7 +257,7 @@
         "year": 2022,
         "title": "I haven't changed a single thing to feel differently",
         "review": "I've always had a soft spot for introspective Indie music and everything that comes with that bag. Sweet Pill enters that field, ranging from Math Rock riffs to anthemic Paramore-like choruses, as well as all the emo music essentials. Despite a few repetitive songs, it is one great song after another, with very impressive arrangements. The performances by every member are also impressive. The lyrics are not simple one-liners, but they tend to build up and amount to beautiful emotional findings. One of the strongest emo records in a long time, and a very promising debut.",
-        "highlights": ["Where the Heart Is","High Hopes", "Dog Song","Red String"],
+        "highlights": ["Where the Heart Is","High Hopes", "Dog Song","Sometimes","Red String"],
         "honorable": 0
         },
         {
@@ -489,10 +497,10 @@
             "title": "Best Foreign Album of the Year (Asia)",
             "nominees": [
             "Air Guitar - Sobs [Singapore]",
+            "Get in Losers, We’re Going to Eternal Damnation - Forests [Singapore]",
             "Hiss - Wormrot [Singapore]",
             "Tamago - betcover!! [Japan]",
-            "Beatopia - beabadoobee [Philippines]",
-            "Vitamins and Apprehension - Della Zyr [South Korea]"
+            "Beatopia - beabadoobee [Philippines]"
             ],
             "winner-sentence": "The only way it could be better is replacing all instruments here to air versions of them.",
             "prize-picture": "https://s9.limitedrun.com/images/1604679/v600_TaKXdT88.jpg"
