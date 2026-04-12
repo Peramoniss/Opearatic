@@ -166,7 +166,7 @@
         "awards": [
             [
                 "Suave pendiente",
-                "21st place in year-end list in 2022",
+                "22nd place in year-end list in 2022",
                 7
             ],
             [
@@ -176,7 +176,24 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/be21b311f20dbcf7585e9d1a190f7e4c/10357271/ninos-del-cerro-suave-pendiente-Cover-Art.jpg",
-        "best_pos": 21
+        "best_pos": 22
+    },
+    "Forests": {
+        "points": 7,
+        "awards": [
+            [
+                "Get in Losers, We're Going to Eternal Damnation",
+                "16th place in year-end list in 2022",
+                7
+            ],
+            [
+                "Get in Losers, We’re Going to Eternal Damnation",
+                "2nd place in Best Foreign Album of the Year (Asia) in 2022",
+                0
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/4d27eaad8906d2888cb9ccb17600a8dd/9816489/forests-get-in-losers-we%E2%80%99re-going-to-eternal-damnation-Cover-Art.jpg",
+        "best_pos": 16
     },
     "Hurricanes": {
         "points": 7,
@@ -343,24 +360,24 @@
         "awards": [
             [
                 "Island",
-                "28th place in year-end list in 2022",
+                "29th place in year-end list in 2022",
                 5
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/14a87bf41fd814735ff8b775d1492695/10138620/%E6%98%8E%E6%97%A5%E3%81%AE%E5%8F%99%E6%99%AF-asunojokei-%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89-Cover-Art.jpg",
-        "best_pos": 28
+        "best_pos": 29
     },
     "Robyn Hitchcock": {
         "points": 5,
         "awards": [
             [
                 "Shufflemania!",
-                "26th place in year-end list in 2022",
+                "27th place in year-end list in 2022",
                 5
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/82f024c0db1632b17a7c8aed23ff214c/10114057/robyn-hitchcock-shufflemania-Cover-Art.jpg",
-        "best_pos": 26
+        "best_pos": 27
     },
     "Bladee": {
         "points": 5,
@@ -747,17 +764,6 @@
                 "Melt",
                 "5th place in Best Debut of the Year in 2025",
                 1
-            ]
-        ],
-        "best_pos": 103
-    },
-    "AJR": {
-        "points": 3,
-        "awards": [
-            [
-                "OK ORCHESTRA",
-                "3rd place in Best Electronic Album of the Year in 2021",
-                3
             ]
         ],
         "best_pos": 103

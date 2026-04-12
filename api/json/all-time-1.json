@@ -356,7 +356,7 @@
             ],
             [
                 "Ice, Death, Planets, Lungs, Mushrooms and Lava",
-                "19th place in year-end list in 2022",
+                "20th place in year-end list in 2022",
                 7
             ],
             [
@@ -405,7 +405,7 @@
                 0
             ]
         ],
-        "best_pos": 19,
+        "best_pos": 20,
         "image": "https://e.snmc.io/i/600/w/4dee1aacbf8974afd10eac97068389e1/10242067/king-gizzard-and-the-lizard-wizard-ice-death-planets-lungs-mushrooms-and-lava-Cover-Art.jpg"
     },
     "Faye Webster": {
@@ -551,7 +551,7 @@
         "awards": [
             [
                 "See You in Chemistry",
-                "23rd place in year-end list in 2022",
+                "24th place in year-end list in 2022",
                 7
             ],
             [
@@ -792,7 +792,7 @@
             ],
             [
                 "Flaming Swords",
-                "22nd place in year-end list in 2022",
+                "23rd place in year-end list in 2022",
                 7
             ],
             [
@@ -824,7 +824,7 @@
         "awards": [
             [
                 "Singles Collection 2017-2020",
-                "16th place in year-end list in 2022",
+                "17th place in year-end list in 2022",
                 7
             ],
             [
@@ -1094,38 +1094,6 @@
         "image": "https://e.snmc.io/i/600/w/ac654ec4dbdc0e89852256fbcd4c977f/9413617/tricot-%E4%B8%8A%E5%87%BA%E6%9D%A5-Cover-Art.jpg",
         "best_pos": 5
     },
-    "MIKE": {
-        "points": 17,
-        "awards": [
-            [
-                "\"Disco\"",
-                "3rd place in Best Hip Hop Album of the Year in 2021",
-                3
-            ],
-            [
-                "Beware of the Monkey",
-                "25th place in year-end list in 2022",
-                7
-            ],
-            [
-                "Beware of the Monkey",
-                "2nd place in Best Hip Hop Album of the Year in 2022",
-                3
-            ],
-            [
-                "Burning Desire",
-                "3rd place in Best Hip Hop Album of the Year in 2023",
-                3
-            ],
-            [
-                "Showbiz!",
-                "4th place in Best Hip Hop Album of the Year in 2025",
-                1
-            ]
-        ],
-        "best_pos": 25,
-        "image": "https://e.snmc.io/i/600/w/dcdca8d70ddc47aba9a506710c0ce956/10468331/mike-beware-of-the-monkey-Cover-Art.jpg"
-    },
     "Sobs": {
         "points": 17,
         "awards": [
@@ -1252,6 +1220,38 @@
         ],
         "image": "https://e.snmc.io/i/600/w/4c98a64aa235c18effbf0cc2423e0177/13672127/racing-mount-pleasant-racing-mount-pleasant-Cover-Art.jpg",
         "best_pos": 10
+    },
+    "MIKE": {
+        "points": 15,
+        "awards": [
+            [
+                "\"Disco\"",
+                "3rd place in Best Hip Hop Album of the Year in 2021",
+                3
+            ],
+            [
+                "Beware of the Monkey",
+                "26th place in year-end list in 2022",
+                5
+            ],
+            [
+                "Beware of the Monkey",
+                "2nd place in Best Hip Hop Album of the Year in 2022",
+                3
+            ],
+            [
+                "Burning Desire",
+                "3rd place in Best Hip Hop Album of the Year in 2023",
+                3
+            ],
+            [
+                "Showbiz!",
+                "4th place in Best Hip Hop Album of the Year in 2025",
+                1
+            ]
+        ],
+        "best_pos": 26,
+        "image": "https://e.snmc.io/i/600/w/dcdca8d70ddc47aba9a506710c0ce956/10468331/mike-beware-of-the-monkey-Cover-Art.jpg"
     },
     "black midi": {
         "points": 15,

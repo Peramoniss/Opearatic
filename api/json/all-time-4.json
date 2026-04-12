@@ -1,4 +1,15 @@
 {
+    "AJR": {
+        "points": 3,
+        "awards": [
+            [
+                "OK ORCHESTRA",
+                "3rd place in Best Electronic Album of the Year in 2021",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
     "Low": {
         "points": 3,
         "awards": [
@@ -173,7 +184,7 @@
             ],
             [
                 "Hiss",
-                "2nd place in Best Foreign Album of the Year (Asia) in 2022",
+                "3rd place in Best Foreign Album of the Year (Asia) in 2022",
                 0
             ]
         ],
@@ -233,7 +244,7 @@
             ],
             [
                 "Beatopia",
-                "4th place in Best Foreign Album of the Year (Asia) in 2022",
+                "5th place in Best Foreign Album of the Year (Asia) in 2022",
                 0
             ]
         ],
@@ -602,16 +613,5 @@
             ]
         ],
         "best_pos": 105
-    },
-    "PinkPantheress": {
-        "points": 1,
-        "awards": [
-            [
-                "To Hell With It",
-                "4th place in Best EP of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 104
     }
 }
