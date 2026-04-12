@@ -356,7 +356,7 @@
             ],
             [
                 "Ice, Death, Planets, Lungs, Mushrooms and Lava",
-                "18th place in year-end list in 2022",
+                "19th place in year-end list in 2022",
                 7
             ],
             [
@@ -405,7 +405,7 @@
                 0
             ]
         ],
-        "best_pos": 18,
+        "best_pos": 19,
         "image": "https://e.snmc.io/i/600/w/4dee1aacbf8974afd10eac97068389e1/10242067/king-gizzard-and-the-lizard-wizard-ice-death-planets-lungs-mushrooms-and-lava-Cover-Art.jpg"
     },
     "Faye Webster": {
@@ -440,7 +440,7 @@
         "awards": [
             [
                 "Everything I Know About Love",
-                "14th place in year-end list in 2022",
+                "15th place in year-end list in 2022",
                 8
             ],
             [
@@ -455,7 +455,7 @@
             ],
             [
                 "Everything I Know About Love",
-                "2nd place in Best Debut of the Year in 2022",
+                "3rd place in Best Debut of the Year in 2022",
                 3
             ],
             [
@@ -475,7 +475,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/d02981371dfdd00230358fd6d756d48c/9990382/laufey-everything-i-know-about-love-Cover-Art.jpg",
-        "best_pos": 14
+        "best_pos": 15
     },
     "Hannah Frances": {
         "points": 24,
@@ -551,7 +551,7 @@
         "awards": [
             [
                 "See You in Chemistry",
-                "22nd place in year-end list in 2022",
+                "23rd place in year-end list in 2022",
                 7
             ],
             [
@@ -691,39 +691,12 @@
         "image": "https://e.snmc.io/i/600/w/66bfb848fdfac85178e0bf5627bcad84/9033704/no-buses-no-buses-Cover-Art.jpg",
         "best_pos": 6
     },
-    "Wallows": {
-        "points": 22,
-        "awards": [
-            [
-                "Singles Collection 2017-2020",
-                "15th place in year-end list in 2022",
-                8
-            ],
-            [
-                "Tell Me That It's Over",
-                "7th place in year-end list in 2022",
-                10
-            ],
-            [
-                "Tell Me That It's Over",
-                "4th place in Best Alternative Album of the Year in 2022",
-                1
-            ],
-            [
-                "More",
-                "2nd place in Best EP of the Year in 2025",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/b41cd2f527f69e937005114c7a615022/9714949/wallows-tell-me-that-it%E2%80%99s-over-Cover-Art.jpg",
-        "best_pos": 7
-    },
     "Destroyer": {
         "points": 22,
         "awards": [
             [
                 "LABYRINTHITIS",
-                "13rd place in year-end list in 2022",
+                "14th place in year-end list in 2022",
                 8
             ],
             [
@@ -819,7 +792,7 @@
             ],
             [
                 "Flaming Swords",
-                "21st place in year-end list in 2022",
+                "22nd place in year-end list in 2022",
                 7
             ],
             [
@@ -845,6 +818,33 @@
         ],
         "image": "https://e.snmc.io/i/600/w/48c241c7b374f8e03665c07b7591e858/9203088/fievel-is-glauque-gods-trashmen-sent-to-right-the-mess-Cover-Art.jpg",
         "best_pos": 17
+    },
+    "Wallows": {
+        "points": 21,
+        "awards": [
+            [
+                "Singles Collection 2017-2020",
+                "16th place in year-end list in 2022",
+                7
+            ],
+            [
+                "Tell Me That It's Over",
+                "7th place in year-end list in 2022",
+                10
+            ],
+            [
+                "Tell Me That It's Over",
+                "4th place in Best Alternative Album of the Year in 2022",
+                1
+            ],
+            [
+                "More",
+                "2nd place in Best EP of the Year in 2025",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/b41cd2f527f69e937005114c7a615022/9714949/wallows-tell-me-that-it%E2%80%99s-over-Cover-Art.jpg",
+        "best_pos": 7
     },
     "The Alchemist": {
         "points": 20,
@@ -1348,6 +1348,28 @@
         "image": "https://e.snmc.io/i/600/w/85eb459ebabbfecc8d031aa42bf0f859/10107886/dry-cleaning-new-long-leg-Cover-Art.jpg",
         "best_pos": 13
     },
+    "Sweet Pill": {
+        "points": 14,
+        "awards": [
+            [
+                "Where the Heart Is",
+                "9th place in year-end list in 2022",
+                10
+            ],
+            [
+                "Where the Heart Is",
+                "5th place in Best Alternative Album of the Year in 2022",
+                1
+            ],
+            [
+                "Where the Heart Is",
+                "2nd place in Best Debut of the Year in 2022",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/1da8cf2ed6f569fff85947eb2b450391/9779452/sweet-pill-where-the-heart-is-Cover-Art.jpg",
+        "best_pos": 9
+    },
     "Slowspin": {
         "points": 14,
         "awards": [
@@ -1396,27 +1418,5 @@
         ],
         "image": "https://e.snmc.io/i/600/w/cf26c55cd69879fd87f9668d72230227/10775791/mckinley-dixon-beloved-paradise-jazz-Cover-Art.jpg",
         "best_pos": 11
-    },
-    "cuni": {
-        "points": 14,
-        "awards": [
-            [
-                "Prescribed Burn",
-                "10th place in year-end list in 2024",
-                10
-            ],
-            [
-                "Prescribed Burn",
-                "5th place in Best Alternative Album of the Year in 2024",
-                1
-            ],
-            [
-                "Prescribed Burn",
-                "3rd place in Best Debut of the Year in 2024",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/0e165e6f84677bead72f7cab0ed7642b/12580846/cuni-prescribed-burn-Cover-Art.jpg",
-        "best_pos": 10
     }
 }
