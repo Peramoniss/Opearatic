@@ -21,6 +21,28 @@
         "image": "https://e.snmc.io/i/600/w/0e165e6f84677bead72f7cab0ed7642b/12580846/cuni-prescribed-burn-Cover-Art.jpg",
         "best_pos": 10
     },
+    "Racing Mount Pleasant": {
+        "points": 14,
+        "awards": [
+            [
+                "Racing Mount Pleasant",
+                "11st place in year-end list in 2025",
+                8
+            ],
+            [
+                "Racing Mount Pleasant",
+                "3rd place in Best Folk Album of the Year in 2025",
+                3
+            ],
+            [
+                "Racing Mount Pleasant",
+                "2nd place in Best Debut of the Year in 2025",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/4c98a64aa235c18effbf0cc2423e0177/13672127/racing-mount-pleasant-racing-mount-pleasant-Cover-Art.jpg",
+        "best_pos": 11
+    },
     "Bruno Pernadas": {
         "points": 13,
         "awards": [
@@ -187,7 +209,7 @@
         "awards": [
             [
                 "Lonely People With Power",
-                "9th place in year-end list in 2025",
+                "10th place in year-end list in 2025",
                 10
             ],
             [
@@ -197,7 +219,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/1ea57826218f8c7df96d0805961e9ba6/12977744/deafheaven-lonely-people-with-power-Cover-Art.jpg",
-        "best_pos": 9
+        "best_pos": 10
     },
     "The Marías": {
         "points": 12,
@@ -634,34 +656,12 @@
         "image": "https://e.snmc.io/i/600/w/61e97739f030f4cd23e53d9514e8a99e/12550970/the-cure-songs-of-a-lost-world-Cover-Art.jpg",
         "best_pos": 7
     },
-    "Mac DeMarco": {
-        "points": 11,
-        "awards": [
-            [
-                "Guitar",
-                "14th place in year-end list in 2025",
-                8
-            ],
-            [
-                "Guitar",
-                "3rd place in Best Alternative Album of the Year in 2025",
-                3
-            ],
-            [
-                "Guitar",
-                "1st place in Best Foreign Album of the Year (North or Central America) in 2025",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/be3c6b5806a55dab73a7f8ca78624cc3/14052848/mac-demarco-guitar-Cover-Art.jpg",
-        "best_pos": 14
-    },
     "Mac Miller": {
         "points": 11,
         "awards": [
             [
                 "Baloonerism",
-                "12nd place in year-end list in 2025",
+                "13rd place in year-end list in 2025",
                 8
             ],
             [
@@ -671,7 +671,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/ef5e22a5e7c78115920395fec65a0ecf/12740749/mac-miller-balloonerism-Cover-Art.jpg",
-        "best_pos": 12
+        "best_pos": 13
     },
     "Asian Glow": {
         "points": 10,
@@ -905,7 +905,7 @@
         "awards": [
             [
                 "What of Our Nature",
-                "13rd place in year-end list in 2025",
+                "14th place in year-end list in 2025",
                 8
             ],
             [
@@ -915,7 +915,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/2b7040d4505356091f1f4ab74cf4c407/13852910/haley-heynderickx-and-max-garcia-conover-what-of-our-nature-Cover-Art.jpg",
-        "best_pos": 13
+        "best_pos": 14
     },
     "Brandi Carlile": {
         "points": 8,
