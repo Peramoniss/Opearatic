@@ -143,21 +143,6 @@
       "honorable": 0
     },
     {
-      "cover": "https://e.snmc.io/i/600/w/be3c6b5806a55dab73a7f8ca78624cc3/14052848/mac-demarco-guitar-Cover-Art.jpg",
-      "score": "7.8",
-      "artist": "Mac DeMarco",
-      "album": "Guitar",
-      "year": 2025,
-      "title": "My love must be broken",
-      "review": "A very, very chill Mac. His music always had this bittersweet meditative feel to them, but this one is just in another level. The songs might not be as catchy or well-developed as some of his other work, but the stripped-back production allows a very open, naked feeling showcase. His guitar work is also very decent, as shown in songs like Rock and Roll. The vocal performances are also a standout, very intimate and beautiful. It also has some of his most beautiful and haunting lyrics, like in Phantom. I feel like people dismissed the album for being too simple, but that was always Mac's biggest strength - he knows how to connect with you and finds beauty in the sadness and in the simplicity, in the mundane. It's just very casual, unpretentious, but still profound in its own meditative way. In Guitar, he redefines the simplicity and still lends a very good album. Just like most of his work, it's inconsistent, but the best moments are amongst his best material.",
-      "highlights": [
-        "Shining",
-        "Phantom",
-        "Nightmare"
-      ],
-      "honorable": 0
-    },
-    {
       "cover": "https://e.snmc.io/i/600/w/2b7040d4505356091f1f4ab74cf4c407/13852910/haley-heynderickx-and-max-garcia-conover-what-of-our-nature-Cover-Art.jpg",
       "score": "7.8",
       "artist": "Haley Heynderickx & Max García Conover",
@@ -317,6 +302,23 @@
       "honorable": 0
     },
     {
+      "cover": "https://e.snmc.io/i/600/w/be3c6b5806a55dab73a7f8ca78624cc3/14052848/mac-demarco-guitar-Cover-Art.jpg",
+      "score": "8.4",
+      "artist": "Mac DeMarco",
+      "album": "Guitar",
+      "year": 2025,
+      "title": "My love must be broken",
+      "review": "A very, very chill Mac. His music always had a bittersweet meditative feel to it, but this one is just on another level. The songs might not be as catchy or well-developed as some of his other work, but the stripped-back production allows a very open, naked feeling. His guitar work might not reach the levels of 2 or Salad Days, but songs like Rock and Roll show a nice emphasis on the instrument. The vocal performances are very intimate and beautiful while still very playful, traveling from very high to very low tones. It also has some of his most beautiful and haunting lyrics, like in Phantom. I feel like people dismissed the album for being too simple or too acoustic, but that was always Mac's biggest strength - he knows how to connect with you, and finds beauty in the sadness and in the simplicity, in the mundane. It's just very casual and unpretentious, but still profound in its own meditative way. On the first few listens, I thought it was just a bit inconsistent, but upon some relistens, almost every track now cleans my soul. The album is also very short, and the songs always leave me wanting more of them. The best moments are amongst his best material as well. Even if not in the same vein as his old records, it surely is on par with them in terms of quality. Just a masterful work by Mr. DeMarco.",
+      "highlights": [
+        "Shining",
+        "Phantom",
+        "Nightmare",
+        "Rock and Roll",
+        "Rooster"
+      ],
+      "honorable": 0
+    },
+    {
       "cover": "https://e.snmc.io/i/600/w/b9a9581d4476482edb8f38de2c6fe52f/12614579/lambrini-girls-who-let-the-dogs-out-Cover-Art.jpg",
       "score": "8.4",
       "artist": "Lambrini Girls",
@@ -372,13 +374,13 @@
     {
       "title": "Best Alternative Album of the Year",
       "nominees": [
+        "Guitar - Mac DeMarco",
         "1000 Variations on the Same Song - Frog",
         "Dan's Boogie - Destroyer",
-        "Guitar - Mac DeMarco",
         "NB2 - No Buses",
         "Phonetics On and On - Horsegirl"
       ],
-      "winner-sentence": "I feel like we're getting closer to the time in which Bateman will ribbit in his songs...",
+      "winner-sentence": "When I'm all alone I love you still...",
       "prize-picture": "https://thedailymusicreport.com/wp-content/uploads/2025/02/Frog-1000-Variations-on-the-Same-Song-press-1024x683.jpg"
     },
     {

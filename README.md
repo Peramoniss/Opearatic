@@ -2,13 +2,19 @@
 
 A personal music review and listing project with yearly and all-time rankings.
 
-The project is split into:
-- a **static front-end** (GitHub Pages)
-- a **Python API** (Render)
+You can currently acces the GitHub Pages deployment using the link: https://peramoniss.github.io/Opearatic/
+
+**Hope you enjoy it as much as I do! 😁**
 
 ---
 
 ## 📁 Project Structure
+The project is split into:
+- a **static front-end** (GitHub Pages)
+- a **Python API** (Render)
+
+The folder structure of the source project is as follows:
+
 ```
 Opearatic/
 │
