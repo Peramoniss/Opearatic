@@ -57,16 +57,16 @@ document.addEventListener('DOMContentLoaded', () => {
 	});
 
 	async function fetchAvailableYears() {
-		const response = await fetch(`https://opearatic.onrender.com/years`); //Change to http://localhost:8000 for local tests
+		const response = await fetch(`http://127.0.0.1:8000/years`); //Change to http://localhost:8000 for local tests
 		return await response.json();
 	}
 
 	async function fetchAvailablePages(min_year, max_year, hasYearFilter) {
 		let response
 		if (hasYearFilter) {
-			response = await fetch(`https://opearatic.onrender.com/pages/?min_year=${min_year}&max_year=${max_year}`);
+			response = await fetch(`http://127.0.0.1:8000/pages/?min_year=${min_year}&max_year=${max_year}`);
 		}else{
-			response = await fetch(`https://opearatic.onrender.com/pages`);
+			response = await fetch(`http://127.0.0.1:8000/pages`);
 		}
 		return await response.json();
 	}
@@ -74,9 +74,9 @@ document.addEventListener('DOMContentLoaded', () => {
 	async function fetchAllTime(page, min_year, max_year, hasYearFilter) {
 		let response
 		if (hasYearFilter) {
-			response = await fetch(`https://opearatic.onrender.com/all-time/?page=${page}&min_year=${min_year}&max_year=${max_year}`);
+			response = await fetch(`http://127.0.0.1:8000/all-time/?page=${page}&min_year=${min_year}&max_year=${max_year}`);
 		}else {
-			response = await fetch(`https://opearatic.onrender.com/all-time/?page=${page}`);
+			response = await fetch(`http://127.0.0.1:8000/all-time/?page=${page}`);
 		}
 		
 		return await response.json();
