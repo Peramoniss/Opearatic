@@ -1,21 +1,4 @@
 {
-    "Squee": {
-        "points": 8,
-        "awards": [
-            [
-                "Squee",
-                "36th place in year-end list in 2024",
-                5
-            ],
-            [
-                "Squee",
-                "3rd place in Best Heavy Album of the Year in 2024",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/5cc6c665577593fed4eaceec0061abec/12669807/squee-squee-Cover-Art.png",
-        "best_pos": 36
-    },
     "Caxtrinho": {
         "points": 8,
         "awards": [
@@ -54,6 +37,23 @@
         ],
         "image": "https://e.snmc.io/i/600/w/2a247271ab40b06852a6a9f2e34494d2/13820443/kelly-moran-moves-in-the-field-Cover-Art.png",
         "best_pos": 30
+    },
+    "Castle Rat": {
+        "points": 8,
+        "awards": [
+            [
+                "Into the Realm",
+                "26th place in year-end list in 2024",
+                5
+            ],
+            [
+                "Into the Realm",
+                "3rd place in Best Heavy Album of the Year in 2024",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/adb91ca07e2e89e5e4c4caff9075fcb6/11710634/castle-rat-into-the-realm-Cover-Art.jpg",
+        "best_pos": 26
     },
     "Friko": {
         "points": 8,
@@ -291,6 +291,23 @@
         ],
         "image": "https://e.snmc.io/i/600/w/b2a53b7248c21c21235d29f859d5d315/10294843/samia-honey-Cover-Art.jpg",
         "best_pos": 29
+    },
+    "Squee": {
+        "points": 6,
+        "awards": [
+            [
+                "Squee",
+                "36th place in year-end list in 2024",
+                5
+            ],
+            [
+                "Squee",
+                "4th place in Best Heavy Album of the Year in 2024",
+                1
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/5cc6c665577593fed4eaceec0061abec/12669807/squee-squee-Cover-Art.png",
+        "best_pos": 36
     },
     "Nubya Garcia": {
         "points": 6,
@@ -617,18 +634,6 @@
         ],
         "image": "https://e.snmc.io/i/600/w/f2bdd56c043171daacc4c83d29325a12/12307628/hoovaranas-tres-Cover-Art.jpg",
         "best_pos": 27
-    },
-    "Castle Rat": {
-        "points": 5,
-        "awards": [
-            [
-                "Into the Realm",
-                "26th place in year-end list in 2024",
-                5
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/f2bdd56c043171daacc4c83d29325a12/12307628/hoovaranas-tres-Cover-Art.jpg",
-        "best_pos": 26
     },
     "Hakushi Hasegawa": {
         "points": 5,
