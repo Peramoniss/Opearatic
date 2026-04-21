@@ -153,14 +153,19 @@ cd api
 uvicorn src.app:app --host 0.0.0.0 --port 10000
 ``` 
 
-The API may take a around 50 seconds to wake up after inactivity.
+The API may take around 50 seconds to wake up after inactivity.
 
 *You can run locally for testing using:
 ```
 cd api
 uvicorn src.app:app --reload
 ```
-And then changing every reference to `https://opearatic.onrender.com` on the `www/js/` files to `http://127.0.0.1:8000`, keeping the subdomains intact.  
+And then changing every reference to `https://opearatic.onrender.com` on the `www/js/` files to `http://127.0.0.1:8000`, keeping the subdomains intact. Alternatively, you can switch to the dev branch using:
+```
+git checkout dev
+```
+
+
 
 
 ---
