@@ -233,7 +233,11 @@ document.addEventListener('DOMContentLoaded', () => {
 		fetchAllTime(page, min_year, max_year, hasYearFilter).then(async data => {
 			let i = 1 + 50 * (page - 1);
             container.textContent = ""
-			for (const [artistName, artistData] of Object.entries(data)) {
+			// Precisa reordenar do lado do cliente porque JS é simplesmente BURRO e desordena o que a API trouxe. E tem quem defenda essa linguagem....
+			const artistsArray = Object.entries(data).sort((a, b) => {
+				return b[1].points - a[1].points; 
+			});
+			for (const [artistName, artistData] of artistsArray) {
 				const cover = await getCover(artistData);
 
 				const template = `

@@ -164,9 +164,7 @@ And then changing every reference to `https://opearatic.onrender.com` on the `ww
 ```
 git checkout dev
 ```
-
-
-
+After that, use "Run Live" extension or any other local webserver application to open a local server containing the html files in this project and test the project locally.
 
 ---
 
