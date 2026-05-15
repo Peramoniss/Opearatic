@@ -150,7 +150,7 @@ This prevents unauthorized usage while keeping the frontend functional. For that
 - Start command is:
 ```
 cd api
-uvicorn src.app:app --host 0.0.0.0 --port 10000
+uvicorn src.app:app --host 127.0.0.1 --port 8000
 ``` 
 
 The API may take around 50 seconds to wake up after inactivity.
@@ -163,6 +163,10 @@ uvicorn src.app:app --reload
 And then changing every reference to `https://opearatic.onrender.com` on the `www/js/` files to `http://127.0.0.1:8000`, keeping the subdomains intact. Alternatively, you can switch to the dev branch using:
 ```
 git checkout dev
+```
+Or:
+```
+git switch dev
 ```
 After that, use "Run Live" extension or any other local webserver application to open a local server containing the html files in this project and test the project locally.
 
