@@ -1,4 +1,25 @@
 {
+    "Not for Radio": {
+        "points": 4,
+        "awards": [
+            [
+                "Melt",
+                "3rd place in Best Pop Album of the Year in 2025",
+                3
+            ],
+            [
+                "Melt",
+                "2nd place in Best Foreign Album of the Year (North or Central America) in 2025",
+                0
+            ],
+            [
+                "Melt",
+                "5th place in Best Debut of the Year in 2025",
+                1
+            ]
+        ],
+        "best_pos": 103
+    },
     "AJR": {
         "points": 3,
         "awards": [
@@ -598,17 +619,6 @@
             [
                 "Stand For Myself",
                 "5th place in Best R&B Album of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 105
-    },
-    "Shame": {
-        "points": 1,
-        "awards": [
-            [
-                "Drunk Tank Pink",
-                "5th place in Best Rock Album of the Year in 2021",
                 1
             ]
         ],
