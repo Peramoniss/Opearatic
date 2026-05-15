@@ -275,6 +275,18 @@
         "image": "https://e.snmc.io/i/600/w/3a158528e4102d787978cc4fc14a4b9a/11737870/the-messthetics-and-james-brandon-lewis-the-messthetics-and-james-brandon-lewis-Cover-Art.jpg",
         "best_pos": 19
     },
+    "cootie catcher": {
+        "points": 7,
+        "awards": [
+            [
+                "Shy at First",
+                "18th place in year-end list in 2025",
+                7
+            ]
+        ],
+        "image": "https://cdn.sonemic.net/i/600/w/ce2672f0003e5207e54818eff5fdd5ca/12794952/cootie-catcher-shy-at-first-Cover-Art.jpg",
+        "best_pos": 18
+    },
     "Samia": {
         "points": 6,
         "awards": [
@@ -751,26 +763,5 @@
             ]
         ],
         "best_pos": 102
-    },
-    "Not for Radio": {
-        "points": 4,
-        "awards": [
-            [
-                "Melt",
-                "3rd place in Best Pop Album of the Year in 2025",
-                3
-            ],
-            [
-                "Melt",
-                "2nd place in Best Foreign Album of the Year (North or Central America) in 2025",
-                0
-            ],
-            [
-                "Melt",
-                "5th place in Best Debut of the Year in 2025",
-                1
-            ]
-        ],
-        "best_pos": 103
     }
 }
