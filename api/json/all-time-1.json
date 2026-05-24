@@ -346,8 +346,35 @@
         "image": "https://e.snmc.io/i/600/w/e9d7ab23294883512df27984b2340a3d/9420650/lil-ugly-mane-volcanic-bird-enemy-and-the-voiced-concern-Cover-Art.jpg",
         "best_pos": 3
     },
+    "Faye Webster": {
+        "points": 26,
+        "awards": [
+            [
+                "I Know I'm Funny haha",
+                "4th place in year-end list in 2021",
+                12
+            ],
+            [
+                "I Know I'm Funny haha",
+                "2nd place in Best Alternative Album of the Year in 2021",
+                3
+            ],
+            [
+                "Underdressed at the Symphony",
+                "12nd place in year-end list in 2024",
+                8
+            ],
+            [
+                "Underdressed at the Symphony",
+                "2nd place in Best Folk Album of the Year in 2024",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/7e68a24c3375de83ddb31f1f174905c5/10107956/faye-webster-i-know-im-funny-haha-Cover-Art.jpg",
+        "best_pos": 4
+    },
     "King Gizzard and The Lizard Wizard": {
-        "points": 28,
+        "points": 26,
         "awards": [
             [
                 "L.W.",
@@ -381,8 +408,8 @@
             ],
             [
                 "Flight b741",
-                "25th place in year-end list in 2024",
-                7
+                "26th place in year-end list in 2024",
+                5
             ],
             [
                 "Flight b741",
@@ -407,33 +434,6 @@
         ],
         "best_pos": 20,
         "image": "https://e.snmc.io/i/600/w/4dee1aacbf8974afd10eac97068389e1/10242067/king-gizzard-and-the-lizard-wizard-ice-death-planets-lungs-mushrooms-and-lava-Cover-Art.jpg"
-    },
-    "Faye Webster": {
-        "points": 26,
-        "awards": [
-            [
-                "I Know I'm Funny haha",
-                "4th place in year-end list in 2021",
-                12
-            ],
-            [
-                "I Know I'm Funny haha",
-                "2nd place in Best Alternative Album of the Year in 2021",
-                3
-            ],
-            [
-                "Underdressed at the Symphony",
-                "12nd place in year-end list in 2024",
-                8
-            ],
-            [
-                "Underdressed at the Symphony",
-                "2nd place in Best Folk Album of the Year in 2024",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/7e68a24c3375de83ddb31f1f174905c5/10107956/faye-webster-i-know-im-funny-haha-Cover-Art.jpg",
-        "best_pos": 4
     },
     "Laufey": {
         "points": 26,
@@ -492,7 +492,7 @@
             ],
             [
                 "Keeper of the Shepherd",
-                "31st place in year-end list in 2024",
+                "32nd place in year-end list in 2024",
                 5
             ],
             [
@@ -615,7 +615,7 @@
             ],
             [
                 "Lampião Rei",
-                "20th place in year-end list in 2024",
+                "21st place in year-end list in 2024",
                 7
             ],
             [
@@ -630,7 +630,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/43d51b590d133ef424efc4be973a63ec/12580470/papangu-lampiao-rei-Cover-Art.jpg",
-        "best_pos": 20
+        "best_pos": 21
     },
     "No Buses": {
         "points": 22,
