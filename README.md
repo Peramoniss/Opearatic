@@ -147,7 +147,7 @@ This prevents unauthorized usage while keeping the frontend functional. For that
 - Render (Free Tier)
 - Auto-deploy on new commits
 - Hosted in Virginia (USA)
-- Start command is:
+- API start command is:
 ```
 cd api
 uvicorn src.app:app --host 127.0.0.1 --port 8000
@@ -155,29 +155,26 @@ uvicorn src.app:app --host 127.0.0.1 --port 8000
 
 The API may take around 50 seconds to wake up after inactivity.
 
-*You can run locally for testing using:
+## 🤝 Contribute or Fork
+To make your own version of the list, you must:
+- Fork the repository
+- [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the forked repository to your local machine 
+- Set the [remote](https://docs.github.com/en/get-started/git-basics/managing-remote-repositories) in your development environment
+- Program your changes (remember to configure your own API provider)
+- [Stage](https://www.w3schools.com/git/git_staging_environment.asp?remote=github) and [commit](https://www.w3schools.com/git/git_commit.asp?remote=github) them
+- [Push](https://www.w3schools.com/git/git_push_to_remote.asp?remote=github) the changes to the GitHub repository
+
+If this is your own version, you will already have it up and running after GitHub pages is deployed!
+
+If you want to contribute, GitHub will show you a button suggesting a Pull Request. Click it and I'll analyze the contribution!
+
+### Test the app
+While developing, you can run the API locally for testing using:
 ```
 cd api
 uvicorn src.app:app --reload
 ```
-And then changing every reference to `https://opearatic.onrender.com` on the `www/js/` files to `http://127.0.0.1:8000`, keeping the subdomains intact. Alternatively, you can switch to the dev branch using:
-```
-git checkout dev
-```
-Or:
-```
-git switch dev
-```
-After that, use "Run Live" extension or any other local webserver application to open a local server containing the html files in this project and test the project locally.
-
----
-
-## 📝 Notes
-
-- No database is used
-- No user-generated content
-- No runtime writes to disk
-- Everything is versioned and reproducible
+After that, use "Run Live" extension or any other local webserver application to open a local server containing the HTML files in this project and test the project locally.
 
 ---
 

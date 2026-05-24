@@ -1,5 +1,9 @@
 // Executar após o DOM carregar
 document.addEventListener('DOMContentLoaded', () => {
+	const BASE_URL =
+	(location.hostname === "localhost" || location.hostname === "127.0.0.1")
+		? "http://localhost:8000"
+		: "https://opearatic.onrender.com";
 	const score = document.getElementById('album-score');
 	const left = document.getElementById('left-meta');
 	const bottom = document.getElementById('bottom-meta');
@@ -57,16 +61,16 @@ document.addEventListener('DOMContentLoaded', () => {
 	});
 
 	async function fetchAvailableYears() {
-		const response = await fetch(`https://opearatic.onrender.com/years`); //Change to http://localhost:8000 for local tests
+		const response = await fetch(`${BASE_URL}/years`); //Change to http://localhost:8000 for local tests
 		return await response.json();
 	}
 
 	async function fetchAvailablePages(min_year, max_year, hasYearFilter) {
 		let response
 		if (hasYearFilter) {
-			response = await fetch(`https://opearatic.onrender.com/pages/?min_year=${min_year}&max_year=${max_year}`);
+			response = await fetch(`${BASE_URL}/pages/?min_year=${min_year}&max_year=${max_year}`);
 		}else{
-			response = await fetch(`https://opearatic.onrender.com/pages`);
+			response = await fetch(`${BASE_URL}/pages`);
 		}
 		return await response.json();
 	}
@@ -74,9 +78,9 @@ document.addEventListener('DOMContentLoaded', () => {
 	async function fetchAllTime(page, min_year, max_year, hasYearFilter) {
 		let response
 		if (hasYearFilter) {
-			response = await fetch(`https://opearatic.onrender.com/all-time/?page=${page}&min_year=${min_year}&max_year=${max_year}`);
+			response = await fetch(`${BASE_URL}/all-time/?page=${page}&min_year=${min_year}&max_year=${max_year}`);
 		}else {
-			response = await fetch(`https://opearatic.onrender.com/all-time/?page=${page}`);
+			response = await fetch(`${BASE_URL}/all-time/?page=${page}`);
 		}
 		
 		return await response.json();
@@ -233,6 +237,8 @@ document.addEventListener('DOMContentLoaded', () => {
 		fetchAllTime(page, min_year, max_year, hasYearFilter).then(async data => {
 			let i = 1 + 50 * (page - 1);
             container.textContent = ""
+			console.log(data)
+
 			// Precisa reordenar do lado do cliente porque JS é simplesmente BURRO e desordena o que a API trouxe. E tem quem defenda essa linguagem....
 			const artistsArray = Object.entries(data).sort((a, b) => {
 				return b[1].points - a[1].points; 

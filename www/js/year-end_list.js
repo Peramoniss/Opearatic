@@ -1,5 +1,10 @@
 // Executar após o DOM carregar
 document.addEventListener('DOMContentLoaded', () => {
+	const BASE_URL =
+	(location.hostname === "localhost" || location.hostname === "127.0.0.1")
+		? "http://localhost:8000"
+		: "https://opearatic.onrender.com";
+		
 	const score = document.getElementById('album-score');
 	const left = document.getElementById('left-meta');
 	const bottom = document.getElementById('bottom-meta');
@@ -26,12 +31,12 @@ document.addEventListener('DOMContentLoaded', () => {
 	mq.addEventListener ? mq.addEventListener('change', handle) : mq.addListener(handle);
 
 	async function fetchAvailableYears() {
-		const response = await fetch(`https://opearatic.onrender.com/years`); //Change to http://localhost:8000 for local tests
+		const response = await fetch(`${BASE_URL}/years`); //Change to http://localhost:8000 for local tests
 		return await response.json();
 	}
 
 	async function fetchYear(year) {
-		const response = await fetch(`https://opearatic.onrender.com/year/${year}`);
+		const response = await fetch(`${BASE_URL}/year/${year}`);
 		console.log(response);
 
 		if (!response.ok) {
