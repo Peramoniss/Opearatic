@@ -1,4 +1,20 @@
 {
+    "Snooper": {
+        "points": 4,
+        "awards": [
+            [
+                "Super Snõõper",
+                "2nd place in Best Heavy Album of the Year in 2023",
+                3
+            ],
+            [
+                "Super Snõõper",
+                "4th place in Best Debut of the Year in 2023",
+                1
+            ]
+        ],
+        "best_pos": 102
+    },
     "Not for Radio": {
         "points": 4,
         "awards": [
@@ -612,16 +628,5 @@
             ]
         ],
         "best_pos": 104
-    },
-    "Yola": {
-        "points": 1,
-        "awards": [
-            [
-                "Stand For Myself",
-                "5th place in Best R&B Album of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 105
     }
 }
