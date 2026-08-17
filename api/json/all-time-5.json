@@ -1,4 +1,26 @@
 {
+    "Arlo Parks": {
+        "points": 1,
+        "awards": [
+            [
+                "Collapsed In Sunbeams",
+                "4th place in Best Pop Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Remi Wolf": {
+        "points": 1,
+        "awards": [
+            [
+                "Juno",
+                "4th place in Best R&B Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
     "Yola": {
         "points": 1,
         "awards": [
@@ -10,16 +32,26 @@
         ],
         "best_pos": 105
     },
-    "Shame": {
+    "betcover!!": {
         "points": 1,
         "awards": [
             [
-                "Drunk Tank Pink",
-                "5th place in Best Rock Album of the Year in 2021",
+                "Jikan",
+                "4th place in Best Foreign Album of the Year (Asia) in 2021",
+                0
+            ],
+            [
+                "Tamago",
+                "4th place in Best Jazz Album of the Year in 2022",
                 1
+            ],
+            [
+                "Tamago",
+                "4th place in Best Foreign Album of the Year (Asia) in 2022",
+                0
             ]
         ],
-        "best_pos": 105
+        "best_pos": 104
     },
     "PinkPantheress": {
         "points": 1,
@@ -156,28 +188,17 @@
         "awards": [
             [
                 "Not Tight",
-                "4th place in Best Jazz Album of the Year in 2022",
+                "5th place in Best Jazz Album of the Year in 2022",
                 1
             ]
         ],
-        "best_pos": 104
+        "best_pos": 105
     },
     "JD Beck": {
         "points": 1,
         "awards": [
             [
                 "Not Tight",
-                "4th place in Best Jazz Album of the Year in 2022",
-                1
-            ]
-        ],
-        "best_pos": 104
-    },
-    "Binker and the Moses": {
-        "points": 1,
-        "awards": [
-            [
-                "Feeding the Machine",
                 "5th place in Best Jazz Album of the Year in 2022",
                 1
             ]
@@ -375,6 +396,17 @@
             ]
         ],
         "best_pos": 105
+    },
+    "The Messthetics and James Brandon Lewis": {
+        "points": 1,
+        "awards": [
+            [
+                "The Messthetics and James Brandon Lewis",
+                "4th place in Best Jazz Album of the Year in 2024",
+                1
+            ]
+        ],
+        "best_pos": 104
     },
     "Julia Holter": {
         "points": 1,
