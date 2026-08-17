@@ -66,7 +66,7 @@ This allows:
 - GET /year/{year}
 - GET /all-time?page={pageNumber}
 
-All endpoints return already-ordered data.
+All endpoints return already-ordered data. More detailed information on the api on https://opearatic.onrender.com/docs.
 
 ---
 

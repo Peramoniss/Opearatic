@@ -66,7 +66,7 @@
         "Solstice",
         "In Other Words, Living"
       ],
-      "honorable": 0
+      "honorable": 1
     },
     {
       
@@ -426,6 +426,21 @@
       "honorable": 0
     },
     {
+      "cover": "https://cdn.sonemic.net/i/600/w/c837ce492c483c4ad7bcd1e930f1f623/11511500/fabiano-do-nascimento-and-sam-gendel-the-room-Cover-Art.jpg",
+      "score": "8.2",
+      "artist": "Fabiano do Nascimento & Sam Gendel",
+      "album": "The Room",
+      "year": 2024,
+      "title": "An album to remember how much I love Brazil",
+      "review": "Fabiano is one of the few classical acoustic guitarists who still sound fresh and reinvigorating in the current music scene. The way he blends traditional Northeastern Brazilian rhythms with more contemporary folk styles was always very beautiful. In this album, he teams up with saxophonist Sam Gendel, who helps him fill the excessive space that his music leaves, creating a beautiful interplay that makes this his most memorable album. This new jazzier approach also works really well, reminding me a little of Hermeto Pascoal at times, who was always a big influence on him. It still is very calm, gentle, and delicate, but if you slow down from the routine and give it time to do its magic, the beauty of songs like \"Daiana\" is unavoidable.",
+      "highlights": [
+        "Foi boto",
+        "Kwere",
+        "Daiana"
+      ],
+      "honorable": 0
+    },
+    {
       
       "cover": "https://e.snmc.io/i/600/w/a6f3e0507b50f0954572394f334ad11a/12312967/clairo-charm-Cover-Art.jpg",
       "score": "8.2",
@@ -694,9 +709,9 @@
       "nominees": [
         "The New Sound - Geordie Greep",
         "Mid Spiral - BADBADNOTGOOD",
+        "The Room - Fabiano do Nascimento & Sam Gendel",
         "The Messthetics and James Brandon Lewis - The Messthetics and James Brandon Lewis",
-        "Fearless Movement - Kamasi Washington",
-        "Odyssey - Nubya Garcia"
+        "Fearless Movement - Kamasi Washington"
       ],
       "winner-sentence": "Santana-core jazz",
       "prize-picture": "https://musicainstantanea.com.br/wp-content/uploads/2024/08/Geordie-Greep.jpg"
@@ -776,14 +791,14 @@
     {
       "title": "Best Foreign Album of the Year (South America)",
       "nominees": [
+        "The Room - Fabiano do Nascimento & Sam Gendel",
         "La nube en el jardín - Ed Maverick [Mexico]",
         "Lampião Rei - Papangu [Brazil]",
         "Três - Hoovaranas [Brazil]",
-        "Selah - Jesus Molina [Colombia]",
-        "Queda Livre - Caxtrinho [Brazil]"
+        "Selah - Jesus Molina [Colombia]"
       ],
-      "winner-sentence": "Y otra vez",
-      "prize-picture": "https://mundoindie.mx/wp-content/uploads/2023/12/FEF072F9-ED61-4BAB-93BC-64202D81B4E1-1000x672.jpg"
+      "winner-sentence": "Fabiano finally using fuller instrumentation and reaching his potential",
+      "prize-picture": "https://media.wnyc.org/i/1280/720/l/80/2023/11/Nascimento_Gendel.jpg"
     },
     {
       "title": "Best Foreign Album of the Year (Oceania)",
@@ -834,5 +849,5 @@
       "prize-picture": "https://i.guim.co.uk/img/media/2438b65afab9f482ab96f19d2daa3acc4ab298b2/308_2285_3594_2156/master/3594.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1c73e345e11eaec4a679e0fe901a0f01"
     }
   ],
-  "last_modified":"January 20, 2026 at 14:53"
+  "last_modified":"August 17, 2026 at 00:39"
 }

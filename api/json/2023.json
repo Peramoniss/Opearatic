@@ -2,21 +2,6 @@
   "list": [
     {
       
-      "cover": "https://e.snmc.io/i/600/w/9a823fa7b310cfe80c81a41113756502/10581686/tee-vee-repairmann-whats-on-tv-Cover-Art.jpg",
-      "score": "7.6",
-      "artist": "Tee Vee Repairmann",
-      "album": "What's on TV",
-      "year": 2023,
-      "title": "Killing time or is time killing me?",
-      "review": "The production is rough, even for the lo-fi aesthetic it's going for. Still, I love Power Pop, and the mix of this and Garage Punk made such an interesting sound. Some great guitar work and cool lyrics in some very catchy songs. It's short and direct to the point, but pretty good at doing it.",
-      "highlights": [
-        "Time to Kill",
-        "I Can't Figure You Out"
-      ],
-      "honorable": 1
-    },
-    {
-      
       "cover": "https://e.snmc.io/i/600/w/7cd9494c6c4b9a21c24a7675c716b71f/11298712/the-rolling-stones-hackney-diamonds-Cover-Art.jpg",
       "score": "7.6",
       "artist": "The Rolling Stones",
@@ -87,7 +72,7 @@
       "highlights": [
         "Thunder in the Storm"
       ],
-      "honorable": 0
+      "honorable": 1
     },
     {
       
@@ -496,6 +481,24 @@
       ],
       "honorable": 0
     },
+        {
+      
+      "cover": "https://cdn.sonemic.net/i/600/w/cef932e243aa351a3d57c50eb58f73dd/11112327/gezebelle-gaburgably-gaburger-Cover-Art.jpg",
+      "score": "8.4",
+      "artist": "Gezebelle Gaburgably",
+      "album": "Gaburger",
+      "year": 2023,
+      "title": "I couldn't fix him honestly, 'cause I'm the fucking problem",
+      "review": "WOW. This sounds like an angry, edgy, grungy Helen Love, mixing Punk with Electronics in a very upbeat and melodic way. Gezebelle, however, also blends in Indie and Slacker Rock elements, as well as some heavier Alt Rock influences that remind me of the best of Hole in some songs. The lyrics are pretty good, self-deprecating but also very aggressive and hateful towards everything, including the weird incel movement that she previously was a part of. I really like her voice, and the performances on the album as a whole are extremely strong. The electronic elements complement the chaotic nature of her songwriting and don't suffocate the natural sound of the rest of the instrumentation, which is really good, and the way it blends in reminds me of the best Helen Love songs. The production also does a great job in that sense. The melodies are extremely catchy, bubbly, and anthemic, and as I said before, the arrangements give it body and make a fantastic contrast. This is the exact kind of music that I like - melodic, heavy, creative, unique, authentic, personal, shameless, and overflowing with emotion.",
+      "highlights": [
+        "Heads Up",
+        "Predictable Shame",
+        "Unfathomable Pain",
+        "Reaper Weekend",
+        "Rest"
+      ],
+      "honorable": 0
+    },
     {
       
       "cover": "https://e.snmc.io/i/600/w/3c6c12376a6a010726332bcb3ac95207/10875269/oracle-sisters-hydranism-Cover-Art.jpg",
@@ -535,7 +538,7 @@
     {
       
       "cover": "https://e.snmc.io/i/600/w/aee871644664e8291857b9760a5f57e1/11007527/foo-fighters-but-here-we-are-Cover-Art.jpg",
-      "score": "8.4",
+      "score": "8.5",
       "artist": "Foo Fighters",
       "album": "But Here We Are",
       "year": 2023,
@@ -573,10 +576,10 @@
       "title": "Best Alternative Album of the Year",
       "nominees": [
         "Cousin - Wilco",
+        "Gaburger - Gezebelle Gaburgably",
         "This Is Why - Paramore",
         "Bird Machine - Sparklehorse",
-        "Singles - Lil Ugly Mane",
-        "Wetdream - Willy Rodriguez"
+        "Singles - Lil Ugly Mane"
       ],
       "winner-sentence": "A return to form and a very personal one",
       "prize-picture": "https://i0.wp.com/fitabruta.com.br/wp-content/uploads/2011/09/wilco_2011.jpg?fit=1200%2C740&ssl=1"
@@ -775,11 +778,11 @@
         "But Here We Are - Foo Fighters",
         "Cousin - Wilco",
         "Hydranism - Oracle Sisters",
-        "3D Country - Geese"
+        "Gaburger - Gezebelle Gaburgably"
       ],
       "winner-sentence": "Back-to-back winner of the award. Now that's impressive",
       "prize-picture": "https://i0.wp.com/www.madsound.com.br/wp-content/uploads/2023/05/black-country-new-road.jpg?resize=1170%2C658&ssl=1"
     }
   ],
-  "last_modified":"January 25, 2026 at 21:28"
+  "last_modified":"August 17, 2026 at 00:39"
 }
