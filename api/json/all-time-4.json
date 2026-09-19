@@ -1,88 +1,4 @@
 {
-    "Ugly": {
-        "points": 5,
-        "awards": [
-            [
-                "Twice Around the Sun",
-                "1st place in Best EP of the Year in 2024",
-                5
-            ]
-        ],
-        "best_pos": 101,
-        "image": "https://pbs.twimg.com/profile_images/1730189398224855040/TvfEbgQz_400x400.jpg"
-    },
-    "Gelli Haha": {
-        "points": 5,
-        "awards": [
-            [
-                "Switcheroo",
-                "1st place in Best Electronic Album of the Year in 2025",
-                5
-            ]
-        ],
-        "best_pos": 101,
-        "image": "https://i.guim.co.uk/img/media/b8c6231d082ac423b2da3635fc515284a3074bd1/891_405_5101_4079/master/5101.jpg?width=465&dpr=1&s=none&crop=none"
-    },
-    "Trooper Salute": {
-        "points": 5,
-        "awards": [
-            [
-                "Trooper Salute 2",
-                "1st place in Best EP of the Year in 2025",
-                5
-            ]
-        ],
-        "best_pos": 101,
-        "image": "https://cdn.sonemic.net/i/600/w/9f4d7b611ce5f8d8baaf4aba1ebf89b9/13959294/trooper-salute-trooper-salute-2-Cover-Art.jpg"
-    },
-    "Helado Negro": {
-        "points": 4,
-        "awards": [
-            [
-                "Far In",
-                "2nd place in Best Electronic Album of the Year in 2021",
-                3
-            ],
-            [
-                "PHASOR",
-                "5th place in Best Electronic Album of the Year in 2024",
-                1
-            ]
-        ],
-        "best_pos": 102
-    },
-    "Billie Eilish": {
-        "points": 4,
-        "awards": [
-            [
-                "Happier Than Ever",
-                "5th place in Best Pop Album of the Year in 2021",
-                1
-            ],
-            [
-                "Guitar Songs",
-                "2nd place in Best EP of the Year in 2022",
-                3
-            ]
-        ],
-        "best_pos": 105
-    },
-    "Lupe Fiasco": {
-        "points": 4,
-        "awards": [
-            [
-                "Drill Music in Zion",
-                "4th place in Best Hip Hop Album of the Year in 2022",
-                1
-            ],
-            [
-                "Samurai",
-                "2nd place in Best Hip Hop Album of the Year in 2024",
-                3
-            ]
-        ],
-        "best_pos": 104
-    },
     "Snooper": {
         "points": 4,
         "awards": [
@@ -630,6 +546,17 @@
         "points": 1,
         "awards": [
             [
+                "Call Me If You Get Lost",
+                "4th place in Best Hip Hop Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Arlo Parks": {
+        "points": 1,
+        "awards": [
+            [
                 "Collapsed In Sunbeams",
                 "4th place in Best Pop Album of the Year in 2021",
                 1
@@ -647,5 +574,59 @@
             ]
         ],
         "best_pos": 104
+    },
+    "Yola": {
+        "points": 1,
+        "awards": [
+            [
+                "Stand For Myself",
+                "5th place in Best R&B Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "betcover!!": {
+        "points": 1,
+        "awards": [
+            [
+                "Jikan",
+                "4th place in Best Foreign Album of the Year (Asia) in 2021",
+                0
+            ],
+            [
+                "Tamago",
+                "4th place in Best Jazz Album of the Year in 2022",
+                1
+            ],
+            [
+                "Tamago",
+                "4th place in Best Foreign Album of the Year (Asia) in 2022",
+                0
+            ]
+        ],
+        "best_pos": 104
+    },
+    "PinkPantheress": {
+        "points": 1,
+        "awards": [
+            [
+                "To Hell With It",
+                "4th place in Best EP of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Beach Bunny": {
+        "points": 1,
+        "awards": [
+            [
+                "Blame Game",
+                "5th place in Best EP of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
     }
 }
