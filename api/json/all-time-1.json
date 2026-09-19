@@ -4,7 +4,7 @@
         "awards": [
             [
                 "For the First Time",
-                "18th place in year-end list in 2021",
+                "20th place in year-end list in 2021",
                 7
             ],
             [
@@ -98,7 +98,7 @@
             ],
             [
                 "Javelin",
-                "9th place in year-end list in 2023",
+                "10th place in year-end list in 2023",
                 10
             ],
             [
@@ -130,7 +130,7 @@
             ],
             [
                 "Cacophony",
-                "8th place in year-end list in 2024",
+                "6th place in year-end list in 2024",
                 10
             ],
             [
@@ -147,32 +147,37 @@
         "image": "https://e.snmc.io/i/600/w/cdd9e66218c0ad103b44e05a2afb3004/9937079/gumshoes-mister-antigravity-Cover-Art.png",
         "best_pos": 5
     },
-    "Geese": {
-        "points": 34,
+    "Gezebelle Gaburgably": {
+        "points": 35,
         "awards": [
             [
-                "3D Country",
+                "The Fridge",
+                "7th place in year-end list in 2021",
+                10
+            ],
+            [
+                "The Fridge",
+                "3rd place in Best Alternative Album of the Year in 2021",
+                3
+            ],
+            [
+                "Happy Smile",
+                "25th place in year-end list in 2022",
+                7
+            ],
+            [
+                "Gaburger",
                 "5th place in year-end list in 2023",
                 12
             ],
             [
-                "3D Country",
-                "3rd place in Best Rock Album of the Year in 2023",
-                3
-            ],
-            [
-                "Getting Killed",
-                "2nd place in year-end list in 2025",
-                16
-            ],
-            [
-                "Getting Killed",
-                "2nd place in Best Rock Album of the Year in 2025",
+                "Gaburger",
+                "2nd place in Best Alternative Album of the Year in 2023",
                 3
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/d265b3bcc976fa479c9559ef9cbaf0f9/13592904/geese-getting-killed-Cover-Art.jpg",
-        "best_pos": 2
+        "image": "https://cdn.sonemic.net/i/600/w/cef932e243aa351a3d57c50eb58f73dd/11112327/gezebelle-gaburgably-gaburger-Cover-Art.jpg",
+        "best_pos": 5
     },
     "Angelo De Augustine": {
         "points": 33,
@@ -189,7 +194,7 @@
             ],
             [
                 "Toil and Trouble",
-                "21st place in year-end list in 2023",
+                "22nd place in year-end list in 2023",
                 7
             ],
             [
@@ -206,7 +211,7 @@
         "awards": [
             [
                 "Ahora o nunca",
-                "19th place in year-end list in 2023",
+                "20th place in year-end list in 2023",
                 7
             ],
             [
@@ -233,47 +238,74 @@
         "image": "https://e.snmc.io/i/600/w/4c765cec4f95ef4b07542c6e4c3bc5ce/13882217/candelabro-deseo-carne-y-voluntad-Cover-Art.png",
         "best_pos": 1
     },
-    "BADBADNOTGOOD": {
-        "points": 31,
+    "Geese": {
+        "points": 32,
         "awards": [
             [
-                "Talk Memory",
-                "8th place in year-end list in 2021",
+                "3D Country",
+                "6th place in year-end list in 2023",
                 10
             ],
             [
-                "Talk Memory",
-                "1st place in Best Jazz Album of the Year in 2021",
+                "3D Country",
+                "3rd place in Best Rock Album of the Year in 2023",
+                3
+            ],
+            [
+                "Getting Killed",
+                "2nd place in year-end list in 2025",
+                16
+            ],
+            [
+                "Getting Killed",
+                "2nd place in Best Rock Album of the Year in 2025",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/d265b3bcc976fa479c9559ef9cbaf0f9/13592904/geese-getting-killed-Cover-Art.jpg",
+        "best_pos": 2
+    },
+    "Papangu": {
+        "points": 30,
+        "awards": [
+            [
+                "Holoceno",
+                "25th place in year-end list in 2021",
+                7
+            ],
+            [
+                "Holoceno",
+                "1st place in Best Heavy Album of the Year in 2021",
                 5
             ],
             [
-                "Talk Memory",
-                "1st place in Best Foreign Album of the Year (North or Central America) in 2021",
+                "Holoceno",
+                "1st place in Best Foreign Album of the Year (South America) in 2021",
                 0
             ],
             [
-                "New Heart Designs",
-                "2nd place in Best EP of the Year in 2023",
-                3
+                "Holoceno",
+                "5th place in Best Debut of the Year in 2021",
+                1
             ],
             [
-                "Mid Spiral",
-                "9th place in year-end list in 2024",
-                10
+                "Lampião Rei",
+                "4th place in year-end list in 2024",
+                12
             ],
             [
-                "Mid Spiral",
-                "2nd place in Best Jazz Album of the Year in 2024",
-                3
+                "Lampião Rei",
+                "1st place in Best Rock Album of the Year in 2024",
+                5
             ],
             [
-                "Mid Spiral",
-                "1st place in Best Foreign Album of the Year (North or Central America) in 2024",
+                "Lampião Rei",
+                "1st place in Best Foreign Album of the Year (South America) in 2024",
                 0
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/52597ebf14615e9babdea66bffff1855/9169804/badbadnotgood-talk-memory-Cover-Art.jpg",
-        "best_pos": 8
+        "image": "https://e.snmc.io/i/600/w/43d51b590d133ef424efc4be973a63ec/12580470/papangu-lampiao-rei-Cover-Art.jpg",
+        "best_pos": 4
     },
     "Geordie Greep": {
         "points": 30,
@@ -297,8 +329,50 @@
         "image": "https://e.snmc.io/i/600/w/de2943c71f952620d5e9504cf3c5a08e/12430773/geordie-greep-the-new-sound-Cover-Art.jpg",
         "best_pos": 1
     },
-    "MJ Lenderman": {
+    "BADBADNOTGOOD": {
         "points": 29,
+        "awards": [
+            [
+                "Talk Memory",
+                "10th place in year-end list in 2021",
+                10
+            ],
+            [
+                "Talk Memory",
+                "1st place in Best Jazz Album of the Year in 2021",
+                5
+            ],
+            [
+                "Talk Memory",
+                "1st place in Best Foreign Album of the Year (North or Central America) in 2021",
+                0
+            ],
+            [
+                "New Heart Designs",
+                "2nd place in Best EP of the Year in 2023",
+                3
+            ],
+            [
+                "Mid Spiral",
+                "11st place in year-end list in 2024",
+                8
+            ],
+            [
+                "Mid Spiral",
+                "2nd place in Best Jazz Album of the Year in 2024",
+                3
+            ],
+            [
+                "Mid Spiral",
+                "1st place in Best Foreign Album of the Year (North or Central America) in 2024",
+                0
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/52597ebf14615e9babdea66bffff1855/9169804/badbadnotgood-talk-memory-Cover-Art.jpg",
+        "best_pos": 10
+    },
+    "MJ Lenderman": {
+        "points": 28,
         "awards": [
             [
                 "Boat Songs",
@@ -312,15 +386,15 @@
             ],
             [
                 "Manning Fireworks",
-                "15th place in year-end list in 2024",
-                8
+                "17th place in year-end list in 2024",
+                7
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/2674eba635f88c76c7266b473166df44/10090968/mj-lenderman-boat-songs-Cover-Art.png",
         "best_pos": 2
     },
     "Lil Ugly Mane": {
-        "points": 28,
+        "points": 27,
         "awards": [
             [
                 "Volcanic Bird Enemy and the Voiced Concern",
@@ -334,12 +408,12 @@
             ],
             [
                 "Singles",
-                "15th place in year-end list in 2023",
-                8
+                "16th place in year-end list in 2023",
+                7
             ],
             [
                 "Singles",
-                "4th place in Best Alternative Album of the Year in 2023",
+                "5th place in Best Alternative Album of the Year in 2023",
                 1
             ]
         ],
@@ -361,7 +435,7 @@
             ],
             [
                 "Underdressed at the Symphony",
-                "12nd place in year-end list in 2024",
+                "15th place in year-end list in 2024",
                 8
             ],
             [
@@ -408,7 +482,7 @@
             ],
             [
                 "Flight b741",
-                "26th place in year-end list in 2024",
+                "27th place in year-end list in 2024",
                 5
             ],
             [
@@ -482,7 +556,7 @@
         "awards": [
             [
                 "Bedrock",
-                "26th place in year-end list in 2021",
+                "28th place in year-end list in 2021",
                 5
             ],
             [
@@ -492,7 +566,7 @@
             ],
             [
                 "Keeper of the Shepherd",
-                "32nd place in year-end list in 2024",
+                "33rd place in year-end list in 2024",
                 5
             ],
             [
@@ -514,7 +588,7 @@
         "awards": [
             [
                 "SOUR",
-                "20th place in year-end list in 2021",
+                "22nd place in year-end list in 2021",
                 7
             ],
             [
@@ -529,7 +603,7 @@
             ],
             [
                 "GUTS",
-                "18th place in year-end list in 2023",
+                "19th place in year-end list in 2023",
                 7
             ],
             [
@@ -544,7 +618,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/2b23f7e2ac6047bc8c740ece05fb08ea/11102515/olivia-rodrigo-guts-Cover-Art.jpg",
-        "best_pos": 18
+        "best_pos": 19
     },
     "Carly Cosgrove": {
         "points": 24,
@@ -589,85 +663,6 @@
         ],
         "image": "https://e.snmc.io/i/600/w/b9a9581d4476482edb8f38de2c6fe52f/12614579/lambrini-girls-who-let-the-dogs-out-Cover-Art.jpg",
         "best_pos": 3
-    },
-    "Papangu": {
-        "points": 23,
-        "awards": [
-            [
-                "Holoceno",
-                "23rd place in year-end list in 2021",
-                7
-            ],
-            [
-                "Holoceno",
-                "1st place in Best Heavy Album of the Year in 2021",
-                5
-            ],
-            [
-                "Holoceno",
-                "1st place in Best Foreign Album of the Year (South America) in 2021",
-                0
-            ],
-            [
-                "Holoceno",
-                "5th place in Best Debut of the Year in 2021",
-                1
-            ],
-            [
-                "Lampião Rei",
-                "21st place in year-end list in 2024",
-                7
-            ],
-            [
-                "Lampião Rei",
-                "2nd place in Best Rock Album of the Year in 2024",
-                3
-            ],
-            [
-                "Lampião Rei",
-                "2nd place in Best Foreign Album of the Year (South America) in 2024",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/43d51b590d133ef424efc4be973a63ec/12580470/papangu-lampiao-rei-Cover-Art.jpg",
-        "best_pos": 21
-    },
-    "No Buses": {
-        "points": 22,
-        "awards": [
-            [
-                "No Buses",
-                "6th place in year-end list in 2021",
-                10
-            ],
-            [
-                "No Buses",
-                "3rd place in Best Alternative Album of the Year in 2021",
-                3
-            ],
-            [
-                "No Buses",
-                "2nd place in Best Foreign Album of the Year (Asia) in 2021",
-                0
-            ],
-            [
-                "NB2",
-                "15th place in year-end list in 2025",
-                8
-            ],
-            [
-                "NB2",
-                "4th place in Best Alternative Album of the Year in 2025",
-                1
-            ],
-            [
-                "NB2",
-                "1st place in Best Foreign Album of the Year (Asia) in 2025",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/66bfb848fdfac85178e0bf5627bcad84/9033704/no-buses-no-buses-Cover-Art.jpg",
-        "best_pos": 6
     },
     "Destroyer": {
         "points": 22,
@@ -755,7 +750,7 @@
         "awards": [
             [
                 "God's Trashmen Sent to Right the Mess",
-                "17th place in year-end list in 2021",
+                "19th place in year-end list in 2021",
                 7
             ],
             [
@@ -765,7 +760,7 @@
             ],
             [
                 "God's Trashmen Sent to Right the Mess",
-                "2nd place in Best Foreign Album of the Year (Europe) in 2021",
+                "3rd place in Best Foreign Album of the Year (Europe) in 2021",
                 0
             ],
             [
@@ -795,7 +790,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/48c241c7b374f8e03665c07b7591e858/9203088/fievel-is-glauque-gods-trashmen-sent-to-right-the-mess-Cover-Art.jpg",
-        "best_pos": 17
+        "best_pos": 19
     },
     "Wallows": {
         "points": 21,
@@ -817,105 +812,56 @@
             ],
             [
                 "More",
-                "2nd place in Best EP of the Year in 2025",
+                "3rd place in Best EP of the Year in 2025",
                 3
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/b41cd2f527f69e937005114c7a615022/9714949/wallows-tell-me-that-it%E2%80%99s-over-Cover-Art.jpg",
         "best_pos": 7
     },
-    "The Alchemist": {
+    "No Buses": {
         "points": 20,
         "awards": [
             [
-                "Haram",
-                "24th place in year-end list in 2021",
-                7
-            ],
-            [
-                "Haram",
-                "2nd place in Best Hip Hop Album of the Year in 2021",
-                3
-            ],
-            [
-                "Voir Dire",
-                "25th place in year-end list in 2023",
-                7
-            ],
-            [
-                "Voir Dire",
-                "2nd place in Best Hip Hop Album of the Year in 2023",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/a9b791a9bc1f662f72bd176f66dacbd7/8888669/armand-hammer-and-the-alchemist-haram-Cover-Art.jpg",
-        "best_pos": 24
-    },
-    "Genesis Owusu": {
-        "points": 20,
-        "awards": [
-            [
-                "Smiling With No Teeth",
-                "9th place in year-end list in 2021",
+                "No Buses",
+                "8th place in year-end list in 2021",
                 10
             ],
             [
-                "Smiling WIth No Teeth",
-                "1st place in Best R&B Album of the Year in 2021",
-                5
+                "No Buses",
+                "4th place in Best Alternative Album of the Year in 2021",
+                1
             ],
             [
-                "Smiling With No Teeth",
-                "1st place in Best Foreign Album of the Year (Africa) in 2021",
+                "No Buses",
+                "2nd place in Best Foreign Album of the Year (Asia) in 2021",
                 0
             ],
             [
-                "Smiling With No Teeth",
-                "1st place in Best Debut of the Year in 2021",
-                5
+                "NB2",
+                "15th place in year-end list in 2025",
+                8
             ],
             [
-                "Struggler",
-                "3rd place in Best Foreign Album of the Year (Africa) in 2023",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/344da5c8dbf61de78b5a64d7c2e86292/8596014/genesis-owusu-smiling-with-no-teeth-Cover-Art.jpg",
-        "best_pos": 9
-    },
-    "Meaningful Stone": {
-        "points": 20,
-        "awards": [
-            [
-                "Cobalt",
-                "1st place in Best EP of the Year in 2021",
-                5
+                "NB2",
+                "4th place in Best Alternative Album of the Year in 2025",
+                1
             ],
             [
-                "Angel Interview",
-                "5th place in year-end list in 2024",
-                12
-            ],
-            [
-                "Angel Interview",
-                "3rd place in Best Alternative Album of the Year in 2024",
-                3
-            ],
-            [
-                "Angel Interview",
-                "1st place in Best Foreign Album of the Year (Asia) in 2024",
+                "NB2",
+                "1st place in Best Foreign Album of the Year (Asia) in 2025",
                 0
             ]
         ],
-        "best_pos": 5,
-        "image": "https://e.snmc.io/i/600/w/63ad7ca33aeb34e56ceb8ee63c547e3f/12764796/%EA%B9%80%EB%9C%BB%EB%8F%8C-meaningful-stone-%EC%B2%9C%EC%82%AC-%EC%9D%B8%ED%84%B0%EB%B7%B0-Cover-Art.jpg"
+        "image": "https://e.snmc.io/i/600/w/66bfb848fdfac85178e0bf5627bcad84/9033704/no-buses-no-buses-Cover-Art.jpg",
+        "best_pos": 8
     },
     "Frog": {
         "points": 20,
         "awards": [
             [
                 "Grog",
-                "20th place in year-end list in 2023",
+                "21st place in year-end list in 2023",
                 7
             ],
             [
@@ -932,39 +878,12 @@
         "image": "https://e.snmc.io/i/600/w/75b2cf39da593af78fb788f0a8af9c62/12966954/frog-1000-variations-on-the-same-song-Cover-Art.png",
         "best_pos": 6
     },
-    "Haley Heynderickx": {
-        "points": 20,
-        "awards": [
-            [
-                "Seed of a Seed",
-                "13rd place in year-end list in 2024",
-                8
-            ],
-            [
-                "Seed of a Seed",
-                "3rd place in Best Folk Album of the Year in 2024",
-                3
-            ],
-            [
-                "What of Our Nature",
-                "14th place in year-end list in 2025",
-                8
-            ],
-            [
-                "What of Our Nature",
-                "4th place in Best Folk Album of the Year in 2025",
-                1
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/b7e3c0f09df47b96430a8cc32c580deb/12522337/haley-heynderickx-seed-of-a-seed-Cover-Art.jpg",
-        "best_pos": 13
-    },
     "Tapir!": {
         "points": 20,
         "awards": [
             [
                 "The Pilgrim, Their God and the King of My Decrepit Mountain",
-                "4th place in year-end list in 2024",
+                "5th place in year-end list in 2024",
                 12
             ],
             [
@@ -979,7 +898,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/fb45451d46949083b24f29d6a490fac7/11440905/tapir-the-pilgrim-their-god-and-the-king-of-my-decrepit-mountain-Cover-Art.jpg",
-        "best_pos": 4
+        "best_pos": 5
     },
     "Foo Fighters": {
         "points": 19,
@@ -998,17 +917,44 @@
         "image": "https://e.snmc.io/i/600/w/aee871644664e8291857b9760a5f57e1/11007527/foo-fighters-but-here-we-are-Cover-Art.jpg",
         "best_pos": 2
     },
+    "Haley Heynderickx": {
+        "points": 19,
+        "awards": [
+            [
+                "Seed of a Seed",
+                "16th place in year-end list in 2024",
+                7
+            ],
+            [
+                "Seed of a Seed",
+                "3rd place in Best Folk Album of the Year in 2024",
+                3
+            ],
+            [
+                "What of Our Nature",
+                "14th place in year-end list in 2025",
+                8
+            ],
+            [
+                "What of Our Nature",
+                "4th place in Best Folk Album of the Year in 2025",
+                1
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/2b7040d4505356091f1f4ab74cf4c407/13852910/haley-heynderickx-and-max-garcia-conover-what-of-our-nature-Cover-Art.jpg",
+        "best_pos": 14
+    },
     "Psychedelic Porn Crumpets": {
         "points": 18,
         "awards": [
             [
                 "Shyga! the Sunlight Mound",
-                "21st place in year-end list in 2021",
+                "23rd place in year-end list in 2021",
                 7
             ],
             [
                 "Shyga! the Sunlight Mound",
-                "4th place in Best Rock Album of the Year in 2021",
+                "5th place in Best Rock Album of the Year in 2021",
                 1
             ],
             [
@@ -1038,7 +984,66 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/d322bd9cd3da91b74388090ea293c29d/8510379/psychedelic-porn-crumpets-shyga-the-sunlight-mound-Cover-Art.jpg",
-        "best_pos": 21
+        "best_pos": 23
+    },
+    "Genesis Owusu": {
+        "points": 18,
+        "awards": [
+            [
+                "Smiling With No Teeth",
+                "11st place in year-end list in 2021",
+                8
+            ],
+            [
+                "Smiling WIth No Teeth",
+                "1st place in Best R&B Album of the Year in 2021",
+                5
+            ],
+            [
+                "Smiling With No Teeth",
+                "1st place in Best Foreign Album of the Year (Africa) in 2021",
+                0
+            ],
+            [
+                "Smiling With No Teeth",
+                "1st place in Best Debut of the Year in 2021",
+                5
+            ],
+            [
+                "Struggler",
+                "3rd place in Best Foreign Album of the Year (Africa) in 2023",
+                0
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/344da5c8dbf61de78b5a64d7c2e86292/8596014/genesis-owusu-smiling-with-no-teeth-Cover-Art.jpg",
+        "best_pos": 11
+    },
+    "Meaningful Stone": {
+        "points": 18,
+        "awards": [
+            [
+                "Cobalt",
+                "1st place in Best EP of the Year in 2021",
+                5
+            ],
+            [
+                "Angel Interview",
+                "7th place in year-end list in 2024",
+                10
+            ],
+            [
+                "Angel Interview",
+                "3rd place in Best Alternative Album of the Year in 2024",
+                3
+            ],
+            [
+                "Angel Interview",
+                "1st place in Best Foreign Album of the Year (Asia) in 2024",
+                0
+            ]
+        ],
+        "best_pos": 7,
+        "image": "https://e.snmc.io/i/600/w/63ad7ca33aeb34e56ceb8ee63c547e3f/12764796/%EA%B9%80%EB%9C%BB%EB%8F%8C-meaningful-stone-%EC%B2%9C%EC%82%AC-%EC%9D%B8%ED%84%B0%EB%B7%B0-Cover-Art.jpg"
     },
     "Marco Castello": {
         "points": 18,
@@ -1072,26 +1077,26 @@
         "best_pos": 9,
         "image": "https://e.snmc.io/i/600/w/60c1fb2b2f6a01252676d64bb5aac6bd/14044430/marco-castello-quaglia-sovversiva-Cover-Art.png"
     },
-    "tricot": {
+    "Iceage": {
         "points": 17,
         "awards": [
             [
-                "Jodeki",
+                "Seek Shelter",
                 "5th place in year-end list in 2021",
                 12
             ],
             [
-                "Jodeki",
+                "Seek Shelter",
                 "1st place in Best Rock Album of the Year in 2021",
                 5
             ],
             [
-                "Jodeki",
-                "1st place in Best Foreign Album of the Year (Asia) in 2021",
+                "Seek Shelter",
+                "1st place in Best Foreign Album of the Year (Europe) in 2021",
                 0
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/ac654ec4dbdc0e89852256fbcd4c977f/9413617/tricot-%E4%B8%8A%E5%87%BA%E6%9D%A5-Cover-Art.jpg",
+        "image": "https://cdn.sonemic.net/i/600/w/0449fcb9e61393e5f16c933e034f7e32/8797804/iceage-seek-shelter-Cover-Art.jpg",
         "best_pos": 5
     },
     "Sobs": {
@@ -1155,27 +1160,32 @@
         "image": "https://e.snmc.io/i/600/w/be3c6b5806a55dab73a7f8ca78624cc3/14052848/mac-demarco-guitar-Cover-Art.jpg",
         "best_pos": 4
     },
-    "Little Simz": {
+    "The Alchemist": {
         "points": 16,
         "awards": [
             [
-                "Sometimes I Might Be Introvert",
-                "14th place in year-end list in 2021",
-                8
-            ],
-            [
-                "Sometimes I Might Be Introvert",
-                "1st place in Best Hip Hop Album of the Year in 2021",
+                "Haram",
+                "26th place in year-end list in 2021",
                 5
             ],
             [
-                "Lotus",
-                "3rd place in Best Hip Hop Album of the Year in 2025",
+                "Haram",
+                "2nd place in Best Hip Hop Album of the Year in 2021",
+                3
+            ],
+            [
+                "Voir Dire",
+                "26th place in year-end list in 2023",
+                5
+            ],
+            [
+                "Voir Dire",
+                "2nd place in Best Hip Hop Album of the Year in 2023",
                 3
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/d4fa47a7ef10f6a92166dec080ce908a/9491076/little-simz-sometimes-i-might-be-introvert-Cover-Art.jpg",
-        "best_pos": 14
+        "image": "https://e.snmc.io/i/600/w/a9b791a9bc1f662f72bd176f66dacbd7/8888669/armand-hammer-and-the-alchemist-haram-Cover-Art.jpg",
+        "best_pos": 26
     },
     "John Michel": {
         "points": 16,
@@ -1221,6 +1231,28 @@
         "image": "https://e.snmc.io/i/600/w/b41048044b4aadeed6fb13ffad050754/13735406/john-michel-and-anthony-james-egotrip-Cover-Art.png",
         "best_pos": 12
     },
+    "Little Simz": {
+        "points": 15,
+        "awards": [
+            [
+                "Sometimes I Might Be Introvert",
+                "16th place in year-end list in 2021",
+                7
+            ],
+            [
+                "Sometimes I Might Be Introvert",
+                "1st place in Best Hip Hop Album of the Year in 2021",
+                5
+            ],
+            [
+                "Lotus",
+                "3rd place in Best Hip Hop Album of the Year in 2025",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/d4fa47a7ef10f6a92166dec080ce908a/9491076/little-simz-sometimes-i-might-be-introvert-Cover-Art.jpg",
+        "best_pos": 16
+    },
     "MIKE": {
         "points": 15,
         "awards": [
@@ -1231,7 +1263,7 @@
             ],
             [
                 "Beware of the Monkey",
-                "26th place in year-end list in 2022",
+                "27th place in year-end list in 2022",
                 5
             ],
             [
@@ -1246,11 +1278,11 @@
             ],
             [
                 "Showbiz!",
-                "4th place in Best Hip Hop Album of the Year in 2025",
+                "5th place in Best Hip Hop Album of the Year in 2025",
                 1
             ]
         ],
-        "best_pos": 26,
+        "best_pos": 27,
         "image": "https://e.snmc.io/i/600/w/dcdca8d70ddc47aba9a506710c0ce956/10468331/mike-beware-of-the-monkey-Cover-Art.jpg"
     },
     "black midi": {
@@ -1292,61 +1324,39 @@
         "image": "https://e.snmc.io/i/600/w/4f648a996a16992718dbfdad45c91b5d/10128558/alvvays-blue-rev-Cover-Art.jpg",
         "best_pos": 4
     },
-    "Jack White": {
+    "Hail the Sun": {
         "points": 15,
         "awards": [
             [
-                "No Name",
-                "6th place in year-end list in 2024",
+                "Divine Inner Tension",
+                "8th place in year-end list in 2023",
                 10
             ],
             [
-                "No Name",
-                "1st place in Best Rock Album of the Year in 2024",
+                "Divine Inner Tension",
+                "1st place in Best Heavy Album of the Year in 2023",
                 5
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/f1baab366544662edc57a5146d6a9ede/13024704/jack-white-no-name-Cover-Art.jpg",
-        "best_pos": 6
+        "image": "https://e.snmc.io/i/600/w/69b56c7dd752157030ee746a50388c22/10988195/hail-the-sun-divine-inner-tension-Cover-Art.jpg",
+        "best_pos": 8
     },
     "Wednesday": {
         "points": 14,
         "awards": [
             [
                 "Twin Plagues",
-                "19th place in year-end list in 2021",
+                "21st place in year-end list in 2021",
                 7
             ],
             [
                 "Rat Saw God",
-                "16th place in year-end list in 2023",
+                "17th place in year-end list in 2023",
                 7
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/b4894e92e2977aaeef7c3b142eef2c80/12341560/wednesday-rat-saw-god-Cover-Art.jpg",
-        "best_pos": 16
-    },
-    "Dry Cleaning": {
-        "points": 14,
-        "awards": [
-            [
-                "New Long Leg",
-                "13rd place in year-end list in 2021",
-                8
-            ],
-            [
-                "New Long Leg",
-                "3rd place in Best Rock Album of the Year in 2021",
-                3
-            ],
-            [
-                "New Long Leg",
-                "2nd place in Best Debut of the Year in 2021",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/85eb459ebabbfecc8d031aa42bf0f859/10107886/dry-cleaning-new-long-leg-Cover-Art.jpg",
-        "best_pos": 13
+        "best_pos": 17
     },
     "Sweet Pill": {
         "points": 14,
@@ -1375,7 +1385,7 @@
         "awards": [
             [
                 "Talisman",
-                "14th place in year-end list in 2023",
+                "15th place in year-end list in 2023",
                 8
             ],
             [
@@ -1395,28 +1405,28 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/563865e68fbe8d69746382c169b8ab2b/10985651/slowspin-talisman-Cover-Art.jpg",
-        "best_pos": 14
+        "best_pos": 15
     },
-    "McKinley Dixon": {
+    "Racing Mount Pleasant": {
         "points": 14,
         "awards": [
             [
-                "Beloved! Paradise! Jazz!?",
-                "11st place in year-end list in 2023",
+                "Racing Mount Pleasant",
+                "11st place in year-end list in 2025",
                 8
             ],
             [
-                "Beloved! Paradise! Jazz!?",
-                "1st place in Best Hip Hop Album of the Year in 2023",
-                5
+                "Racing Mount Pleasant",
+                "3rd place in Best Folk Album of the Year in 2025",
+                3
             ],
             [
-                "Magic, Alive!",
-                "5th place in Best Hip Hop Album of the Year in 2025",
-                1
+                "Racing Mount Pleasant",
+                "2nd place in Best Debut of the Year in 2025",
+                3
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/cf26c55cd69879fd87f9668d72230227/10775791/mckinley-dixon-beloved-paradise-jazz-Cover-Art.jpg",
+        "image": "https://e.snmc.io/i/600/w/4c98a64aa235c18effbf0cc2423e0177/13672127/racing-mount-pleasant-racing-mount-pleasant-Cover-Art.jpg",
         "best_pos": 11
     }
 }

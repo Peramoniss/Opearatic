@@ -1,32 +1,100 @@
 {
+    "Ana Frango Elétrico": {
+        "points": 8,
+        "awards": [
+            [
+                "Me chama de gato que eu sou sua",
+                "29th place in year-end list in 2023",
+                5
+            ],
+            [
+                "Me chama de gato que eu sou sua",
+                "2nd place in Best R&B Album of the Year in 2023",
+                3
+            ],
+            [
+                "Me chama de gato que eu sou sua",
+                "3rd place in Best Foreign Album of the Year (South America) in 2023",
+                0
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/0f99d888c28f31a1f85e25d9390548a4/11229865/ana-frango-eletrico-me-chama-de-gato-que-eu-sou-sua-Cover-Art.jpg",
+        "best_pos": 29
+    },
+    "Jessie Ware": {
+        "points": 8,
+        "awards": [
+            [
+                "That! Feels Good!",
+                "28th place in year-end list in 2023",
+                5
+            ],
+            [
+                "That! Feels Good!",
+                "3rd place in Best Pop Album of the Year in 2023",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/b0f0e7c0dc7c37b6c2c4b9f6732801b4/10694043/jessie-ware-that-feels-good-Cover-Art.jpg",
+        "best_pos": 28
+    },
+    "Earl Sweatshirt": {
+        "points": 8,
+        "awards": [
+            [
+                "Voir Dire",
+                "26th place in year-end list in 2023",
+                5
+            ],
+            [
+                "Voir Dire",
+                "2nd place in Best Hip Hop Album of the Year in 2023",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/8797ed127919218b89059c72ed0364c6/11461157/earl-sweatshirt-and-the-alchemist-voir-dire-Cover-Art.jpg",
+        "best_pos": 26
+    },
+    "Fruit Bats": {
+        "points": 8,
+        "awards": [
+            [
+                "A River Running to Your Heart",
+                "25th place in year-end list in 2023",
+                7
+            ],
+            [
+                "Baby Man",
+                "5th place in Best Folk Album of the Year in 2025",
+                1
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/97704b14c1c0299bab8f797908989db1/10894599/fruit-bats-a-river-running-to-your-heart-Cover-Art.jpg",
+        "best_pos": 25
+    },
     "Caxtrinho": {
         "points": 8,
         "awards": [
             [
                 "Queda livre",
-                "34th place in year-end list in 2024",
+                "35th place in year-end list in 2024",
                 5
             ],
             [
                 "Queda Livre",
                 "2nd place in Best Experimental Album of the Year in 2024",
                 3
-            ],
-            [
-                "Queda Livre",
-                "5th place in Best Foreign Album of the Year (South America) in 2024",
-                0
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/0cec16b246f0f237de23d490bc9040c4/12436037/caxtrinho-queda-livre-Cover-Art.png",
-        "best_pos": 34
+        "best_pos": 35
     },
     "Kelly Moran": {
         "points": 8,
         "awards": [
             [
                 "Moves in the Field",
-                "31st place in year-end list in 2024",
+                "32nd place in year-end list in 2024",
                 5
             ],
             [
@@ -36,14 +104,14 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/2a247271ab40b06852a6a9f2e34494d2/13820443/kelly-moran-moves-in-the-field-Cover-Art.png",
-        "best_pos": 31
+        "best_pos": 32
     },
     "Castle Rat": {
         "points": 8,
         "awards": [
             [
                 "Into the Realm",
-                "27th place in year-end list in 2024",
+                "28th place in year-end list in 2024",
                 5
             ],
             [
@@ -53,70 +121,19 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/adb91ca07e2e89e5e4c4caff9075fcb6/11710634/castle-rat-into-the-realm-Cover-Art.jpg",
-        "best_pos": 27
-    },
-    "Friko": {
-        "points": 8,
-        "awards": [
-            [
-                "Where We've Been, Where We Go From Here",
-                "25th place in year-end list in 2024",
-                7
-            ],
-            [
-                "Where We've Been, Where We Go From Here",
-                "5th place in Best Debut of the Year in 2024",
-                1
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/d118b42997e4a4a0844ea267ef249d0e/11502016/friko-where-weve-been-where-we-go-from-here-Cover-Art.jpg",
-        "best_pos": 25
-    },
-    "Faerybabyy": {
-        "points": 8,
-        "awards": [
-            [
-                "Lucky Star EP",
-                "2nd place in Best EP of the Year in 2024",
-                3
-            ],
-            [
-                "jabbermouth",
-                "1st place in Best EP of the Year in 2025",
-                5
-            ]
-        ],
-        "best_pos": 101,
-        "image": "https://belongmedia.net/wp-content/uploads/2025/02/IMG_6796-1018x1024.jpg"
-    },
-    "Nanasai": {
-        "points": 7,
-        "awards": [
-            [
-                "Desculpa mãe, eu sou indie",
-                "25th place in year-end list in 2021",
-                7
-            ],
-            [
-                "Desculpa Mãe, Eu Sou Indie",
-                "2nd place in Best Foreign Album of the Year (South America) in 2021",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/7939649e03d94e600e389f1f31d7f1b3/8811758/nanasai-desculpa-mae-eu-sou-indie-Cover-Art.jpg",
-        "best_pos": 25
+        "best_pos": 28
     },
     "shame": {
         "points": 7,
         "awards": [
             [
                 "Drunk Tank Pink",
-                "22nd place in year-end list in 2021",
+                "24th place in year-end list in 2021",
                 7
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/06ebcc1fa91ee453e6f4ed6fc7304bf3/8988459/shame-drunk-tank-pink-Cover-Art.jpg",
-        "best_pos": 22
+        "best_pos": 24
     },
     "Quadeca": {
         "points": 7,
@@ -149,7 +166,7 @@
             ],
             [
                 "Música do esquecimento",
-                "17th place in year-end list in 2023",
+                "18th place in year-end list in 2023",
                 7
             ],
             [
@@ -158,7 +175,7 @@
                 0
             ]
         ],
-        "best_pos": 17,
+        "best_pos": 18,
         "image": "https://e.snmc.io/i/600/w/e656f7fec6794604262fbb0a530a8fac/11297500/sophia-chablau-e-uma-enorme-perda-de-tempo-musica-do-esquecimento-Cover-Art.jpg"
     },
     "Niños del Cerro": {
@@ -200,7 +217,7 @@
         "awards": [
             [
                 "Hurricanes",
-                "30th place in year-end list in 2023",
+                "31st place in year-end list in 2023",
                 5
             ],
             [
@@ -220,26 +237,26 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/ccb77e4f7da2712ae451c60cb0317921/11625671/hurricanes-hurricanes-Cover-Art.jpg",
-        "best_pos": 30
+        "best_pos": 31
     },
     "Adrianne Lenker": {
         "points": 7,
         "awards": [
             [
                 "Bright Future",
-                "24th place in year-end list in 2024",
+                "25th place in year-end list in 2024",
                 7
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/b8c64b1206092d14f202e04d6edd4044/11709561/adrianne-lenker-bright-future-Cover-Art.jpg",
-        "best_pos": 24
+        "best_pos": 25
     },
     "Cindy Lee": {
         "points": 7,
         "awards": [
             [
                 "Diamond Jubilee",
-                "22nd place in year-end list in 2024",
+                "23rd place in year-end list in 2024",
                 7
             ],
             [
@@ -249,48 +266,48 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/87732579b73484413cd660583f585f30/11951069/cindy-lee-diamond-jubilee-Cover-Art.png",
-        "best_pos": 22
+        "best_pos": 23
     },
     "The Messthetics": {
         "points": 7,
         "awards": [
             [
                 "The Messthetics and James Brandon Lewis",
-                "20th place in year-end list in 2024",
+                "22nd place in year-end list in 2024",
                 7
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/3a158528e4102d787978cc4fc14a4b9a/11737870/the-messthetics-and-james-brandon-lewis-the-messthetics-and-james-brandon-lewis-Cover-Art.jpg",
-        "best_pos": 20
+        "best_pos": 22
     },
     "James Brandon Lewis": {
         "points": 7,
         "awards": [
             [
                 "The Messthetics and James Brandon Lewis",
-                "20th place in year-end list in 2024",
+                "22nd place in year-end list in 2024",
                 7
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/3a158528e4102d787978cc4fc14a4b9a/11737870/the-messthetics-and-james-brandon-lewis-the-messthetics-and-james-brandon-lewis-Cover-Art.jpg",
-        "best_pos": 20
+        "best_pos": 22
     },
     "Ed Maverick": {
         "points": 7,
         "awards": [
             [
                 "La nube en el jardín",
-                "19th place in year-end list in 2024",
+                "21st place in year-end list in 2024",
                 7
             ],
             [
                 "La nube en el jardín",
-                "1st place in Best Foreign Album of the Year (South America) in 2024",
+                "3rd place in Best Foreign Album of the Year (South America) in 2024",
                 0
             ]
         ],
         "image": "https://cdn.sonemic.net/i/600/w/cb1e334b5562fc6634c2e31c3ac10998/12696305/ed-maverick-la-nube-en-el-jardin-Cover-Art.jpg",
-        "best_pos": 19
+        "best_pos": 21
     },
     "cootie catcher": {
         "points": 7,
@@ -314,7 +331,7 @@
         "awards": [
             [
                 "Honey",
-                "29th place in year-end list in 2023",
+                "30th place in year-end list in 2023",
                 5
             ],
             [
@@ -324,65 +341,31 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/b2a53b7248c21c21235d29f859d5d315/10294843/samia-honey-Cover-Art.jpg",
-        "best_pos": 29
-    },
-    "Squee": {
-        "points": 6,
-        "awards": [
-            [
-                "Squee",
-                "37th place in year-end list in 2024",
-                5
-            ],
-            [
-                "Squee",
-                "4th place in Best Heavy Album of the Year in 2024",
-                1
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/5cc6c665577593fed4eaceec0061abec/12669807/squee-squee-Cover-Art.png",
-        "best_pos": 37
-    },
-    "Nubya Garcia": {
-        "points": 6,
-        "awards": [
-            [
-                "Odyssey",
-                "35th place in year-end list in 2024",
-                5
-            ],
-            [
-                "Odyssey",
-                "5th place in Best Jazz Album of the Year in 2024",
-                1
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/6134ca33cc142f6efbc09b2bfc34545d/12533242/nubya-garcia-odyssey-Cover-Art.jpg",
-        "best_pos": 35
+        "best_pos": 30
     },
     "Kamasi Washington": {
         "points": 6,
         "awards": [
             [
                 "Fearless Movement",
-                "30th place in year-end list in 2024",
+                "31st place in year-end list in 2024",
                 5
             ],
             [
                 "Fearless Movement",
-                "4th place in Best Jazz Album of the Year in 2024",
+                "5th place in Best Jazz Album of the Year in 2024",
                 1
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/150e3bdaa803c8bd0c775d084065e633/12078889/kamasi-washington-fearless-movement-Cover-Art.jpg",
-        "best_pos": 30
+        "best_pos": 31
     },
     "Magdalena Bay": {
         "points": 6,
         "awards": [
             [
                 "Imaginal Disk",
-                "29th place in year-end list in 2024",
+                "30th place in year-end list in 2024",
                 5
             ],
             [
@@ -392,7 +375,57 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/ab9a537d52c29e69bba3e339bab69632/12301754/magdalena-bay-imaginal-disk-Cover-Art.jpg",
-        "best_pos": 29
+        "best_pos": 30
+    },
+    "Friko": {
+        "points": 6,
+        "awards": [
+            [
+                "Where We've Been, Where We Go From Here",
+                "26th place in year-end list in 2024",
+                5
+            ],
+            [
+                "Where We've Been, Where We Go From Here",
+                "5th place in Best Debut of the Year in 2024",
+                1
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/d118b42997e4a4a0844ea267ef249d0e/11502016/friko-where-weve-been-where-we-go-from-here-Cover-Art.jpg",
+        "best_pos": 26
+    },
+    "Faerybabyy": {
+        "points": 6,
+        "awards": [
+            [
+                "Lucky Star EP",
+                "2nd place in Best EP of the Year in 2024",
+                3
+            ],
+            [
+                "jabbermouth",
+                "2nd place in Best EP of the Year in 2025",
+                3
+            ]
+        ],
+        "best_pos": 102
+    },
+    "Nanasai": {
+        "points": 5,
+        "awards": [
+            [
+                "Desculpa mãe, eu sou indie",
+                "27th place in year-end list in 2021",
+                5
+            ],
+            [
+                "Desculpa Mãe, Eu Sou Indie",
+                "2nd place in Best Foreign Album of the Year (South America) in 2021",
+                0
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/7939649e03d94e600e389f1f31d7f1b3/8811758/nanasai-desculpa-mae-eu-sou-indie-Cover-Art.jpg",
+        "best_pos": 27
     },
     "Sweet Trip": {
         "points": 5,
@@ -406,29 +439,39 @@
         "best_pos": 101,
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sweet_Trip_Roby_Valy.jpg"
     },
-    "Asunojokei": {
+    "Asian Glow": {
         "points": 5,
         "awards": [
             [
-                "Island",
-                "29th place in year-end list in 2022",
+                "Cull Ficle",
+                "3rd place in Best Foreign Album of the Year (Asia) in 2021",
+                0
+            ],
+            [
+                "Weatherglow",
+                "1st place in Best EP of the Year in 2022",
                 5
+            ],
+            [
+                "Dreamglow",
+                "5th place in Best Foreign Album of the Year (Asia) in 2023",
+                0
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/14a87bf41fd814735ff8b775d1492695/10138620/%E6%98%8E%E6%97%A5%E3%81%AE%E5%8F%99%E6%99%AF-asunojokei-%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89-Cover-Art.jpg",
-        "best_pos": 29
+        "best_pos": 101,
+        "image": "https://f4.bcbits.com/img/a0465346081_16.jpg"
     },
     "Robyn Hitchcock": {
         "points": 5,
         "awards": [
             [
                 "Shufflemania!",
-                "27th place in year-end list in 2022",
+                "28th place in year-end list in 2022",
                 5
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/82f024c0db1632b17a7c8aed23ff214c/10114057/robyn-hitchcock-shufflemania-Cover-Art.jpg",
-        "best_pos": 27
+        "best_pos": 28
     },
     "Bladee": {
         "points": 5,
@@ -464,17 +507,27 @@
         "best_pos": 101,
         "image": "https://i1.sndcdn.com/artworks-000464973009-d53j5z-t500x500.jpg"
     },
-    "明日の叙景 [Asunojokei]": {
+    "Carly Rae Jepsen": {
         "points": 5,
         "awards": [
             [
-                "アイランド [Island]",
-                "1st place in Best Heavy Album of the Year in 2022",
+                "The Loneliest Time",
+                "1st place in Best Pop Album of the Year in 2022",
                 5
+            ],
+            [
+                "The Loneliest Time",
+                "3rd place in Best Foreign Album of the Year (North or Central America) in 2022",
+                0
+            ],
+            [
+                "The Loveliest Time",
+                "2nd place in Best Foreign Album of the Year (North or Central America) in 2023",
+                0
             ]
         ],
         "best_pos": 101,
-        "image": "https://musicainstantanea.com.br/wp-content/uploads/2024/08/Asunojokei.jpeg"
+        "image": "https://i.scdn.co/image/ab676161000051748272bf414106646e0e4a89f3"
     },
     "Weatherday": {
         "points": 5,
@@ -488,53 +541,36 @@
         "best_pos": 101,
         "image": "https://f4.bcbits.com/img/a0465346081_16.jpg"
     },
-    "Tee Vee Repairmann": {
-        "points": 5,
-        "awards": [
-            [
-                "What's on TV",
-                "35th place in year-end list in 2023",
-                5
-            ],
-            [
-                "What's on TV",
-                "1st place in Best Foreign Album of the Year (Oceania) in 2023",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/9a823fa7b310cfe80c81a41113756502/10581686/tee-vee-repairmann-whats-on-tv-Cover-Art.jpg",
-        "best_pos": 35
-    },
     "The Rolling Stones": {
         "points": 5,
         "awards": [
             [
                 "Hackney Diamonds",
-                "34th place in year-end list in 2023",
+                "35th place in year-end list in 2023",
                 5
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/7cd9494c6c4b9a21c24a7675c716b71f/11298712/the-rolling-stones-hackney-diamonds-Cover-Art.jpg",
-        "best_pos": 34
+        "best_pos": 35
     },
     "Dirty Honey": {
         "points": 5,
         "awards": [
             [
                 "Can't Find the Brakes",
-                "32nd place in year-end list in 2023",
+                "33rd place in year-end list in 2023",
                 5
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/266e8f169760e4c6a07ca37811101000/11242170/dirty-honey-cant-find-the-brakes-Cover-Art.jpg",
-        "best_pos": 32
+        "best_pos": 33
     },
     "Roberto Niederauer": {
         "points": 5,
         "awards": [
             [
                 "Vol. 01 1976-1977",
-                "31st place in year-end list in 2023",
+                "32nd place in year-end list in 2023",
                 5
             ],
             [
@@ -544,19 +580,19 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/92f02d75b9f9a2849e9777e6702c11f2/10804688/roberto-niederauer-vol-01-1976-1977-Cover-Art.jpg",
-        "best_pos": 31
+        "best_pos": 32
     },
     "Snõõper": {
         "points": 5,
         "awards": [
             [
                 "Super Snõõper",
-                "26th place in year-end list in 2023",
+                "27th place in year-end list in 2023",
                 5
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/d014c2ec73941424ccb46d83eb45c8ce/10877711/snooper-super-snooper-Cover-Art.jpg",
-        "best_pos": 26
+        "best_pos": 27
     },
     "George Clanton": {
         "points": 5,
@@ -582,18 +618,6 @@
         "best_pos": 101,
         "image": "https://npr.brightspotcdn.com/dims4/default/c9eef5d/2147483647/strip/true/crop/700x700+0+0/resize/880x880!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3b%2F9f%2Fc3eb957c44dca7c1a948e0c6776f%2Flonnie-003-1620924420.jpeg"
     },
-    "Hail The Sun": {
-        "points": 5,
-        "awards": [
-            [
-                "Divine Inner Tension",
-                "1st place in Best Heavy Album of the Year in 2023",
-                5
-            ]
-        ],
-        "best_pos": 101,
-        "image": "https://f4.bcbits.com/img/0013968358_25.jpg"
-    },
     "KNOWER": {
         "points": 5,
         "awards": [
@@ -606,36 +630,12 @@
         "best_pos": 101,
         "image": "https://f4.bcbits.com/img/0032231318_25.jpg"
     },
-    "twikipedia": {
-        "points": 5,
-        "awards": [
-            [
-                "For the Rest of Your Life",
-                "38th place in year-end list in 2024",
-                5
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/cb72c8a1da839cfa72618259c365eebc/12101108/twikipedia-for-the-rest-of-your-life-Cover-Art.jpg",
-        "best_pos": 38
-    },
-    "Jesús Molina": {
-        "points": 5,
-        "awards": [
-            [
-                "Selah",
-                "36th place in year-end list in 2024",
-                5
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/1d0805dd015c8bcc792e5388817d88c2/12176936/jesus-molina-selah-Cover-Art.jpg",
-        "best_pos": 36
-    },
     "This Is the Glasshouse": {
         "points": 5,
         "awards": [
             [
                 "867",
-                "33rd place in year-end list in 2024",
+                "34th place in year-end list in 2024",
                 5
             ],
             [
@@ -645,24 +645,24 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/1c7d550e03de4e1b992407ff15ad301d/12700997/this-is-the-glasshouse-867-Cover-Art.jpg",
-        "best_pos": 33
+        "best_pos": 34
     },
     "Hoovaranas": {
         "points": 5,
         "awards": [
             [
                 "Três",
-                "28th place in year-end list in 2024",
+                "29th place in year-end list in 2024",
                 5
             ],
             [
                 "Três",
-                "3rd place in Best Foreign Album of the Year (South America) in 2024",
+                "4th place in Best Foreign Album of the Year (South America) in 2024",
                 0
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/f2bdd56c043171daacc4c83d29325a12/12307628/hoovaranas-tres-Cover-Art.jpg",
-        "best_pos": 28
+        "best_pos": 29
     },
     "Hakushi Hasegawa": {
         "points": 5,
@@ -693,6 +693,18 @@
         "best_pos": 101,
         "image": "https://www.viapais.com.ar/resizer/v2/DE475ZE6QNBTNL3R5X332A7FA4.jpg?quality=75&smart=true&auth=cd144658d111425a737cebf8299c2d68004f2f539756e7f0b8e6b1484a4ce23a&width=980&height=640"
     },
+    "Brittany Howard": {
+        "points": 5,
+        "awards": [
+            [
+                "What Now",
+                "1st place in Best R&B Album of the Year in 2024",
+                5
+            ]
+        ],
+        "best_pos": 101,
+        "image": "https://yt3.googleusercontent.com/QgcgYnr60UIRmGRnbaaXhnlxe9Y9Z4r50W9arX0z3ahUDWvSQMy9FXj1KY6iFsA3fpodLjtH3dg=s900-c-k-c0x00ffffff-no-rj"
+    },
     "Ugly": {
         "points": 5,
         "awards": [
@@ -717,6 +729,18 @@
         "best_pos": 101,
         "image": "https://i.guim.co.uk/img/media/b8c6231d082ac423b2da3635fc515284a3074bd1/891_405_5101_4079/master/5101.jpg?width=465&dpr=1&s=none&crop=none"
     },
+    "Trooper Salute": {
+        "points": 5,
+        "awards": [
+            [
+                "Trooper Salute 2",
+                "1st place in Best EP of the Year in 2025",
+                5
+            ]
+        ],
+        "best_pos": 101,
+        "image": "https://cdn.sonemic.net/i/600/w/9f4d7b611ce5f8d8baaf4aba1ebf89b9/13959294/trooper-salute-trooper-salute-2-Cover-Art.jpg"
+    },
     "Helado Negro": {
         "points": 4,
         "awards": [
@@ -738,7 +762,7 @@
         "awards": [
             [
                 "Happier Than Ever",
-                "4th place in Best Pop Album of the Year in 2021",
+                "5th place in Best Pop Album of the Year in 2021",
                 1
             ],
             [
@@ -747,7 +771,7 @@
                 3
             ]
         ],
-        "best_pos": 104
+        "best_pos": 105
     },
     "Lupe Fiasco": {
         "points": 4,

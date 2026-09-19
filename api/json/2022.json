@@ -2,18 +2,6 @@
     "list": [ 
         {
         
-        "cover": "https://e.snmc.io/i/600/w/bd16531425d24f1d3a5bd242141a92c9/10321717/carly-rae-jepsen-the-loneliest-time-Cover-Art.jpg",
-        "score": "7.7",
-        "artist": "Carly Rae Jepsen",
-        "album": "The Loneliest Time",
-        "year": 2022,
-        "title": "I get all my confidence from you",
-        "review": "Another Dance-Pop record by Canadian singer Carly Rae Jepsen. Yes, it's more of the same, Carly doesn't change her style at all here. Still, and I don't know exactly why, the songs here are really catchy and fun to listen to. I could compare it to Happier Than Ever because of the weird similarities in these albums' covers, but I don't think that she matured her sound or anything like Billie did, she was just really inspired here. I somehow feel like someone who is enjoying an early 2010s party while listening to the music here, and I dislike either parties, early 2010s, and Dance-Pop. I can't explain why I like this album, but I think Carly made a very consistent and fun album. The more calm and sad pieces also diversify in a very good way here. I recommend Sideways, Beach House, and The Loneliest Time.",
-        "highlights": ["Sideways", "Beach House", "The Loneliest Time"],
-        "honorable": 1
-        },
-        {
-        
         "cover": "https://e.snmc.io/i/600/w/14a87bf41fd814735ff8b775d1492695/10138620/%E6%98%8E%E6%97%A5%E3%81%AE%E5%8F%99%E6%99%AF-asunojokei-%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89-Cover-Art.jpg",
         "score": "7.7",
         "artist": "Asunojokei",
@@ -71,6 +59,17 @@
         "title": "I think it's time I stop running from myself",
         "review": "In his debut, Obongjayar brings a gorgeous multi-layered Art Pop record with touches of R&B and Soul music. His sound is very unique, as he adds some Ambient influences to the combination and makes this a very atmospheric record. The pianos here are very touchy and the lyrics very creative and self-reflecting. The album lacks a bit of highlights and the vocal performances lack a bit of emotion, but this is a really exciting, innovative, and promising debut. The title track and New Man are the best songs here.",
         "highlights": ["Some Nights I Dream of Doors", "New Man"],
+        "honorable": 1
+        },
+        {
+        "cover": "https://cdn.sonemic.net/i/600/w/f458f6c66f104f182e3cfba2d7c39c87/9787530/gezebelle-gaburgably-happy-smile-Cover-Art.jpg",
+        "score": "7.7",
+        "artist": "Gezebelle Gaburgably",
+        "album": "Happy Smile",
+        "year": 2022,
+        "title": "My heart's an open house",
+        "review": "After the punch in the gut that was The Fridge, Happy Smile sees Gezebelle displaying herself on the cover and approaching a sound that recalls the lo-fi style and electronics of her early phase, while also trying to be more pop and melodic than ever. While the more rock-oriented songs are truly some of her strongest, the remaining bunch contains some very weak pop and electronic tracks. So yeah, kind of a mixed bag, but the highlights are really strong.",
+        "highlights": ["I Can Fix Him", "Open", "Spinal Fluid World"],
         "honorable": 0
         },
         {
@@ -297,7 +296,7 @@
         {
         
         "cover": "https://e.snmc.io/i/600/w/cdd9e66218c0ad103b44e05a2afb3004/9937079/gumshoes-mister-antigravity-Cover-Art.png",
-        "score": "8.4",
+        "score": "8.5",
         "artist": "Gumshoes",
         "album": "Mister Antigravity",
         "year": 2022,
@@ -309,7 +308,7 @@
         {
         
         "cover": "https://e.snmc.io/i/600/w/4f648a996a16992718dbfdad45c91b5d/10128558/alvvays-blue-rev-Cover-Art.jpg",
-        "score": "8.4",
+        "score": "8.5",
         "artist": "Alvvays",
         "album": "Blue Rev",
         "year": 2022,
@@ -415,7 +414,7 @@
         {
             "title": "Best Heavy Album of the Year",
             "nominees": [
-                "アイランド [Island] - 明日の叙景 [Asunojokei]",
+                "Island - Asunojokei",
                 "Hiss - Wormrot",
                 "Baby - Petrol Girls",
                 "Close - Messa",
@@ -590,5 +589,5 @@
             "prize-picture": "https://static01.nyt.com/images/2022/02/08/arts/07blackcountry-review1/merlin_201346224_3203bed0-0a63-43f4-aafc-d1a5d9ec0df9-superJumbo.jpg"
         }
     ],
-  "last_modified":"August 17, 2026 at 00:39"
+  "last_modified":"September 19, 2026 at 17:26"
 }

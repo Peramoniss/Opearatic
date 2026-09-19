@@ -1,76 +1,10 @@
 {
-    "cuni": {
-        "points": 14,
-        "awards": [
-            [
-                "Prescribed Burn",
-                "10th place in year-end list in 2024",
-                10
-            ],
-            [
-                "Prescribed Burn",
-                "5th place in Best Alternative Album of the Year in 2024",
-                1
-            ],
-            [
-                "Prescribed Burn",
-                "3rd place in Best Debut of the Year in 2024",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/0e165e6f84677bead72f7cab0ed7642b/12580846/cuni-prescribed-burn-Cover-Art.jpg",
-        "best_pos": 10
-    },
-    "Racing Mount Pleasant": {
-        "points": 14,
-        "awards": [
-            [
-                "Racing Mount Pleasant",
-                "11st place in year-end list in 2025",
-                8
-            ],
-            [
-                "Racing Mount Pleasant",
-                "3rd place in Best Folk Album of the Year in 2025",
-                3
-            ],
-            [
-                "Racing Mount Pleasant",
-                "2nd place in Best Debut of the Year in 2025",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/4c98a64aa235c18effbf0cc2423e0177/13672127/racing-mount-pleasant-racing-mount-pleasant-Cover-Art.jpg",
-        "best_pos": 11
-    },
-    "Bruno Pernadas": {
-        "points": 13,
-        "awards": [
-            [
-                "Private Reasons",
-                "15th place in year-end list in 2021",
-                8
-            ],
-            [
-                "Private Reasons",
-                "1st place in Best Pop Album of the Year in 2021",
-                5
-            ],
-            [
-                "Private Reasons",
-                "1st place in Best Foreign Album of the Year (Europe) in 2021",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/ddac8e30f0f5ec5d1c960e5f8b578509/9174517/bruno-pernadas-private-reasons-Cover-Art.jpg",
-        "best_pos": 15
-    },
     "Cassandra Jenkins": {
         "points": 13,
         "awards": [
             [
                 "An Overview on Phenomenal Nature",
-                "7th place in year-end list in 2021",
+                "9th place in year-end list in 2021",
                 10
             ],
             [
@@ -80,14 +14,36 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/b827469b50046d7b91cfdb353421b005/10107884/cassandra-jenkins-an-overview-on-phenomenal-nature-Cover-Art.jpg",
-        "best_pos": 7
+        "best_pos": 9
+    },
+    "tricot": {
+        "points": 13,
+        "awards": [
+            [
+                "Jodeki",
+                "6th place in year-end list in 2021",
+                10
+            ],
+            [
+                "Jodeki",
+                "2nd place in Best Rock Album of the Year in 2021",
+                3
+            ],
+            [
+                "Jodeki",
+                "1st place in Best Foreign Album of the Year (Asia) in 2021",
+                0
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/ac654ec4dbdc0e89852256fbcd4c977f/9413617/tricot-%E4%B8%8A%E5%87%BA%E6%9D%A5-Cover-Art.jpg",
+        "best_pos": 6
     },
     "Horsegirl": {
         "points": 13,
         "awards": [
             [
                 "Versions of Modern Performance",
-                "28th place in year-end list in 2022",
+                "29th place in year-end list in 2022",
                 5
             ],
             [
@@ -160,22 +116,56 @@
         "image": "https://e.snmc.io/i/600/w/f4b1cfbc98c10522bbf04051fb7b6e93/9446922/spiritualized-everything-was-beautiful%E2%84%A2-Cover-Art.jpg",
         "best_pos": 8
     },
-    "Sparklehorse": {
+    "McKinley Dixon": {
         "points": 13,
         "awards": [
             [
-                "Bird Machine",
-                "10th place in year-end list in 2023",
+                "Beloved! Paradise! Jazz!?",
+                "12nd place in year-end list in 2023",
+                8
+            ],
+            [
+                "Beloved! Paradise! Jazz!?",
+                "1st place in Best Hip Hop Album of the Year in 2023",
+                5
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/cf26c55cd69879fd87f9668d72230227/10775791/mckinley-dixon-beloved-paradise-jazz-Cover-Art.jpg",
+        "best_pos": 12
+    },
+    "Jack White": {
+        "points": 13,
+        "awards": [
+            [
+                "No Name",
+                "9th place in year-end list in 2024",
                 10
             ],
             [
-                "Bird Machine",
-                "3rd place in Best Alternative Album of the Year in 2023",
+                "No Name",
+                "2nd place in Best Rock Album of the Year in 2024",
                 3
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/957b1e49932d0173ea02102bdfec94d4/11054580/sparklehorse-bird-machine-Cover-Art.jpg",
-        "best_pos": 10
+        "image": "https://e.snmc.io/i/600/w/f1baab366544662edc57a5146d6a9ede/13024704/jack-white-no-name-Cover-Art.jpg",
+        "best_pos": 9
+    },
+    "The Lemon Twigs": {
+        "points": 13,
+        "awards": [
+            [
+                "A Dream Is All We Know",
+                "8th place in year-end list in 2024",
+                10
+            ],
+            [
+                "A Dream Is All We Know",
+                "2nd place in Best Pop Album of the Year in 2024",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/7ea6c01c53d35c35d7d4270b5c0c8437/11780602/the-lemon-twigs-a-dream-is-all-we-know-Cover-Art.jpg",
+        "best_pos": 8
     },
     "Hesse Kassel": {
         "points": 13,
@@ -221,39 +211,56 @@
         "image": "https://e.snmc.io/i/600/w/1ea57826218f8c7df96d0805961e9ba6/12977744/deafheaven-lonely-people-with-power-Cover-Art.jpg",
         "best_pos": 10
     },
-    "The Marías": {
+    "Bruno Pernadas": {
         "points": 12,
         "awards": [
             [
-                "CINEMA",
-                "16th place in year-end list in 2021",
+                "Private Reasons",
+                "17th place in year-end list in 2021",
                 7
             ],
             [
-                "CINEMA",
-                "5th place in Best Alternative Album of the Year in 2021",
-                1
+                "Private Reasons",
+                "1st place in Best Pop Album of the Year in 2021",
+                5
             ],
             [
-                "CINEMA",
-                "3rd place in Best Debut of the Year in 2021",
-                3
-            ],
-            [
-                "Submarine",
-                "5th place in Best R&B Album of the Year in 2024",
-                1
+                "Private Reasons",
+                "2nd place in Best Foreign Album of the Year (Europe) in 2021",
+                0
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/5091a1ff7746a775908f4b638e56528c/8971408/the-marias-cinema-Cover-Art.jpg",
-        "best_pos": 16
+        "image": "https://e.snmc.io/i/600/w/ddac8e30f0f5ec5d1c960e5f8b578509/9174517/bruno-pernadas-private-reasons-Cover-Art.jpg",
+        "best_pos": 17
+    },
+    "Dry Cleaning": {
+        "points": 12,
+        "awards": [
+            [
+                "New Long Leg",
+                "15th place in year-end list in 2021",
+                8
+            ],
+            [
+                "New Long Leg",
+                "4th place in Best Rock Album of the Year in 2021",
+                1
+            ],
+            [
+                "New Long Leg",
+                "2nd place in Best Debut of the Year in 2021",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/85eb459ebabbfecc8d031aa42bf0f859/10107886/dry-cleaning-new-long-leg-Cover-Art.jpg",
+        "best_pos": 15
     },
     "Hiatus Kaiyote": {
         "points": 12,
         "awards": [
             [
                 "Mood Valiant",
-                "12nd place in year-end list in 2021",
+                "14th place in year-end list in 2021",
                 8
             ],
             [
@@ -278,39 +285,39 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/236e4dc1890ea56e5ad5a616d4afed4e/10107990/hiatus-kaiyote-mood-valiant-Cover-Art.jpg",
-        "best_pos": 12
+        "best_pos": 14
     },
-    "Obongjayar": {
+    "Fabiano do Nascimento": {
         "points": 12,
         "awards": [
             [
-                "Some Nights I Dream of Doors",
-                "25th place in year-end list in 2022",
-                7
+                "Ykytu",
+                "5th place in Best Folk Album of the Year in 2021",
+                1
             ],
             [
-                "Some Nights I Dream of Doors",
-                "3rd place in Best R&B Album of the Year in 2022",
-                3
-            ],
-            [
-                "Some Nights I Dream of Doors",
-                "1st place in Best Foreign Album of the Year (Africa) in 2022",
+                "Ykytu",
+                "5th place in Best Foreign Album of the Year (South America) in 2021",
                 0
             ],
             [
-                "Some Nights I Dream of Doors",
-                "5th place in Best Debut of the Year in 2022",
-                1
+                "The Room",
+                "14th place in year-end list in 2024",
+                8
             ],
             [
-                "Paradise Now",
-                "4th place in Best R&B Album of the Year in 2025",
-                1
+                "The Room",
+                "3rd place in Best Jazz Album of the Year in 2024",
+                3
+            ],
+            [
+                "The Room",
+                "2nd place in Best Foreign Album of the Year (South America) in 2024",
+                0
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/a3778187b74e6127c01b3ab66cc268bd/9831153/obongjayar-some-nights-i-dream-of-doors-Cover-Art.jpg",
-        "best_pos": 25
+        "best_pos": 14,
+        "image": "https://cdn.sonemic.net/i/600/w/c837ce492c483c4ad7bcd1e930f1f623/11511500/fabiano-do-nascimento-and-sam-gendel-the-room-Cover-Art.jpg"
     },
     "Steve Lacy": {
         "points": 12,
@@ -334,7 +341,7 @@
         "awards": [
             [
                 "Lahai",
-                "22nd place in year-end list in 2023",
+                "23rd place in year-end list in 2023",
                 7
             ],
             [
@@ -344,14 +351,14 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/3ba958a2a126ebfbe06e672a0d512c57/11299233/sampha-lahai-Cover-Art.jpg",
-        "best_pos": 22
+        "best_pos": 23
     },
     "The Murder Capital": {
         "points": 12,
         "awards": [
             [
                 "Gigi's Recovery",
-                "6th place in year-end list in 2023",
+                "7th place in year-end list in 2023",
                 10
             ],
             [
@@ -376,14 +383,14 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/22e53facdd0f0bfe9711f7349e60a801/10281948/the-murder-capital-gigis-recovery-Cover-Art.jpg",
-        "best_pos": 6
+        "best_pos": 7
     },
     "Ulcerate": {
         "points": 12,
         "awards": [
             [
                 "Cutting the Throat of God",
-                "17th place in year-end list in 2024",
+                "19th place in year-end list in 2024",
                 7
             ],
             [
@@ -398,14 +405,14 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/5b0c2df32172e2784afbb4e21c160435/12546934/ulcerate-cutting-the-throat-of-god-Cover-Art.jpg",
-        "best_pos": 17
+        "best_pos": 19
     },
     "3776": {
         "points": 12,
         "awards": [
             [
                 "The Birth and Death of the Universe Through Mount Fuji",
-                "16th place in year-end list in 2024",
+                "18th place in year-end list in 2024",
                 7
             ],
             [
@@ -420,7 +427,29 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/f682e422c556370e308a9a3e5935450c/12790452/3776-the-birth-and-death-of-the-universe-through-mount-fuji-Cover-Art.jpg",
-        "best_pos": 16
+        "best_pos": 18
+    },
+    "cuni": {
+        "points": 12,
+        "awards": [
+            [
+                "Prescribed Burn",
+                "12nd place in year-end list in 2024",
+                8
+            ],
+            [
+                "Prescribed Burn",
+                "5th place in Best Alternative Album of the Year in 2024",
+                1
+            ],
+            [
+                "Prescribed Burn",
+                "3rd place in Best Debut of the Year in 2024",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/0e165e6f84677bead72f7cab0ed7642b/12580846/cuni-prescribed-burn-Cover-Art.jpg",
+        "best_pos": 12
     },
     "CMAT": {
         "points": 12,
@@ -461,17 +490,39 @@
         "image": "https://e.snmc.io/i/600/w/7a379b39bc3ce28ecbc2da2934a11832/13324520/nourished-by-time-the-passionate-ones-Cover-Art.jpg",
         "best_pos": 16
     },
+    "The Marías": {
+        "points": 11,
+        "awards": [
+            [
+                "CINEMA",
+                "18th place in year-end list in 2021",
+                7
+            ],
+            [
+                "CINEMA",
+                "3rd place in Best Debut of the Year in 2021",
+                3
+            ],
+            [
+                "Submarine",
+                "5th place in Best R&B Album of the Year in 2024",
+                1
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/5091a1ff7746a775908f4b638e56528c/8971408/the-marias-cinema-Cover-Art.jpg",
+        "best_pos": 18
+    },
     "Amyl and The Sniffers": {
         "points": 11,
         "awards": [
             [
                 "Comfort to Me",
-                "11st place in year-end list in 2021",
+                "13rd place in year-end list in 2021",
                 8
             ],
             [
                 "Comfort To Me",
-                "2nd place in Best Rock Album of the Year in 2021",
+                "3rd place in Best Rock Album of the Year in 2021",
                 3
             ],
             [
@@ -481,29 +532,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/224dcc3cec0d0956b13f9aa7f6fe5cbf/9148408/amyl-and-the-sniffers-comfort-to-me-Cover-Art.jpg",
-        "best_pos": 11
-    },
-    "Courtney Barnett": {
-        "points": 11,
-        "awards": [
-            [
-                "Things Take Time, Take Time",
-                "10th place in year-end list in 2021",
-                10
-            ],
-            [
-                "Things Take Time, Take Time",
-                "4th place in Best Alternative Album of the Year in 2021",
-                1
-            ],
-            [
-                "Things Take Time, Take Time",
-                "2nd place in Best Foreign Album of the Year (Oceania) in 2021",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/459f6c34cf9511ecf42967d6c3d0cf07/9448562/courtney-barnett-things-take-time-take-time-Cover-Art.jpg",
-        "best_pos": 10
+        "best_pos": 13
     },
     "Fontaines D.C.": {
         "points": 11,
@@ -537,7 +566,7 @@
         "awards": [
             [
                 "Why Does the Earth Give Us People to Love?",
-                "23rd place in year-end list in 2023",
+                "24th place in year-end list in 2023",
                 7
             ],
             [
@@ -552,14 +581,14 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/6782065a97336404cfb383fb3a8611d3/10738221/kara-jackson-why-does-the-earth-give-us-people-to-love-Cover-Art.jpg",
-        "best_pos": 23
+        "best_pos": 24
     },
     "Reverend Kristin Michael Hayter": {
         "points": 11,
         "awards": [
             [
                 "SAVED!",
-                "13rd place in year-end list in 2023",
+                "14th place in year-end list in 2023",
                 8
             ],
             [
@@ -569,57 +598,45 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/12d51dc1ccd0e246770f73e3189420f5/11429205/reverend-kristin-michael-hayter-saved-Cover-Art.jpg",
-        "best_pos": 13
+        "best_pos": 14
     },
     "Paramore": {
         "points": 11,
         "awards": [
             [
                 "This Is Why",
-                "12nd place in year-end list in 2023",
+                "13rd place in year-end list in 2023",
                 8
             ],
             [
                 "This Is Why",
-                "2nd place in Best Alternative Album of the Year in 2023",
+                "3rd place in Best Alternative Album of the Year in 2023",
                 3
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/233637a9abccd4f98315d5c0399f81d7/10297048/paramore-this-is-why-Cover-Art.jpg",
-        "best_pos": 12
+        "best_pos": 13
     },
-    "Willy Rodriguez": {
+    "Sam Gendel": {
         "points": 11,
         "awards": [
             [
-                "Wetdream",
-                "8th place in year-end list in 2023",
-                10
-            ],
-            [
-                "Wetdream",
-                "5th place in Best Alternative Album of the Year in 2023",
-                1
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/b115611b40f094ca27713495c90b1d00/11646854/willy-rodriguez-wetdream-Cover-Art.jpg",
-        "best_pos": 8
-    },
-    "The Lemon Twigs": {
-        "points": 11,
-        "awards": [
-            [
-                "A Dream Is All We Know",
+                "The Room",
                 "14th place in year-end list in 2024",
                 8
             ],
             [
-                "A Dream Is All We Know",
-                "3rd place in Best Pop Album of the Year in 2024",
+                "The Room",
+                "3rd place in Best Jazz Album of the Year in 2024",
                 3
+            ],
+            [
+                "The Room",
+                "2nd place in Best Foreign Album of the Year (South America) in 2024",
+                0
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/7ea6c01c53d35c35d7d4270b5c0c8437/11780602/the-lemon-twigs-a-dream-is-all-we-know-Cover-Art.jpg",
+        "image": "https://cdn.sonemic.net/i/600/w/c837ce492c483c4ad7bcd1e930f1f623/11511500/fabiano-do-nascimento-and-sam-gendel-the-room-Cover-Art.jpg",
         "best_pos": 14
     },
     "Clairo": {
@@ -627,24 +644,24 @@
         "awards": [
             [
                 "Charm",
-                "11st place in year-end list in 2024",
+                "13rd place in year-end list in 2024",
                 8
             ],
             [
                 "Charm",
-                "2nd place in Best Pop Album of the Year in 2024",
+                "3rd place in Best Pop Album of the Year in 2024",
                 3
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/a6f3e0507b50f0954572394f334ad11a/12312967/clairo-charm-Cover-Art.jpg",
-        "best_pos": 11
+        "best_pos": 13
     },
     "The Cure": {
         "points": 11,
         "awards": [
             [
                 "Songs of a Lost World",
-                "7th place in year-end list in 2024",
+                "10th place in year-end list in 2024",
                 10
             ],
             [
@@ -654,7 +671,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/61e97739f030f4cd23e53d9514e8a99e/12550970/the-cure-songs-of-a-lost-world-Cover-Art.jpg",
-        "best_pos": 7
+        "best_pos": 10
     },
     "Mac Miller": {
         "points": 11,
@@ -673,76 +690,54 @@
         "image": "https://e.snmc.io/i/600/w/ef5e22a5e7c78115920395fec65a0ecf/12740749/mac-miller-balloonerism-Cover-Art.jpg",
         "best_pos": 13
     },
-    "Asian Glow": {
+    "Asunojokei": {
         "points": 10,
         "awards": [
             [
-                "Cull Ficle",
-                "28th place in year-end list in 2021",
-                5
-            ],
-            [
-                "Cull Ficle",
-                "3rd place in Best Foreign Album of the Year (Asia) in 2021",
-                0
-            ],
-            [
-                "Weatherglow",
-                "1st place in Best EP of the Year in 2022",
-                5
-            ],
-            [
-                "Dreamglow",
-                "5th place in Best Foreign Album of the Year (Asia) in 2023",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/78a1b15bb9b22f1d8511f6ac6cb8b108/9418065/asian-glow-cull-ficle-Cover-Art.png",
-        "best_pos": 28
-    },
-    "Armand Hammer": {
-        "points": 10,
-        "awards": [
-            [
-                "Haram",
-                "24th place in year-end list in 2021",
-                7
-            ],
-            [
-                "Haram",
-                "2nd place in Best Hip Hop Album of the Year in 2021",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/a9b791a9bc1f662f72bd176f66dacbd7/8888669/armand-hammer-and-the-alchemist-haram-Cover-Art.jpg",
-        "best_pos": 24
-    },
-    "Carly Rae Jepsen": {
-        "points": 10,
-        "awards": [
-            [
-                "The Loneliest Time",
+                "Island",
                 "30th place in year-end list in 2022",
                 5
             ],
             [
-                "The Loneliest Time",
-                "1st place in Best Pop Album of the Year in 2022",
+                "Island",
+                "1st place in Best Heavy Album of the Year in 2022",
+                5
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/14a87bf41fd814735ff8b775d1492695/10138620/%E6%98%8E%E6%97%A5%E3%81%AE%E5%8F%99%E6%99%AF-asunojokei-%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89-Cover-Art.jpg",
+        "best_pos": 30
+    },
+    "Obongjayar": {
+        "points": 10,
+        "awards": [
+            [
+                "Some Nights I Dream of Doors",
+                "26th place in year-end list in 2022",
                 5
             ],
             [
-                "The Loneliest Time",
-                "3rd place in Best Foreign Album of the Year (North or Central America) in 2022",
+                "Some Nights I Dream of Doors",
+                "3rd place in Best R&B Album of the Year in 2022",
+                3
+            ],
+            [
+                "Some Nights I Dream of Doors",
+                "1st place in Best Foreign Album of the Year (Africa) in 2022",
                 0
             ],
             [
-                "The Loveliest Time",
-                "2nd place in Best Foreign Album of the Year (North or Central America) in 2023",
-                0
+                "Some Nights I Dream of Doors",
+                "5th place in Best Debut of the Year in 2022",
+                1
+            ],
+            [
+                "Paradise Now",
+                "4th place in Best R&B Album of the Year in 2025",
+                1
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/bd16531425d24f1d3a5bd242141a92c9/10321717/carly-rae-jepsen-the-loneliest-time-Cover-Art.jpg",
-        "best_pos": 30
+        "image": "https://e.snmc.io/i/600/w/a3778187b74e6127c01b3ab66cc268bd/9831153/obongjayar-some-nights-i-dream-of-doors-Cover-Art.jpg",
+        "best_pos": 26
     },
     "Tulipa Ruiz": {
         "points": 10,
@@ -793,58 +788,24 @@
         "image": "https://e.snmc.io/i/600/w/915ffa4998ca1c4fd18cdfa2da808f03/9516273/wet-leg-wet-leg-Cover-Art.jpg",
         "best_pos": 18
     },
-    "Earl Sweatshirt": {
+    "Willy Rodriguez": {
         "points": 10,
         "awards": [
             [
-                "Voir Dire",
-                "25th place in year-end list in 2023",
-                7
-            ],
-            [
-                "Voir Dire",
-                "2nd place in Best Hip Hop Album of the Year in 2023",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/8797ed127919218b89059c72ed0364c6/11461157/earl-sweatshirt-and-the-alchemist-voir-dire-Cover-Art.jpg",
-        "best_pos": 25
-    },
-    "Hail the Sun": {
-        "points": 10,
-        "awards": [
-            [
-                "Divine Inner Tension",
-                "7th place in year-end list in 2023",
+                "Wetdream",
+                "9th place in year-end list in 2023",
                 10
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/69b56c7dd752157030ee746a50388c22/10988195/hail-the-sun-divine-inner-tension-Cover-Art.jpg",
-        "best_pos": 7
-    },
-    "Brittany Howard": {
-        "points": 10,
-        "awards": [
-            [
-                "What Now",
-                "39th place in year-end list in 2024",
-                5
-            ],
-            [
-                "What Now",
-                "1st place in Best R&B Album of the Year in 2024",
-                5
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/e0913955db2084ad7a6e0b56e3ddab7f/11511397/brittany-howard-what-now-Cover-Art.jpg",
-        "best_pos": 39
+        "image": "https://e.snmc.io/i/600/w/b115611b40f094ca27713495c90b1d00/11646854/willy-rodriguez-wetdream-Cover-Art.jpg",
+        "best_pos": 9
     },
     "Judas Priest": {
         "points": 10,
         "awards": [
             [
                 "Invincible Shield",
-                "23rd place in year-end list in 2024",
+                "24th place in year-end list in 2024",
                 7
             ],
             [
@@ -854,7 +815,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/2103f5a4d28c1ea0ddddbc2695a133df/11390766/judas-priest-invincible-shield-Cover-Art.jpg",
-        "best_pos": 23
+        "best_pos": 24
     },
     "Honningbarna": {
         "points": 10,
@@ -878,12 +839,51 @@
         "image": "https://e.snmc.io/i/600/w/bca8022abd0a73d71f4a94276506ebcf/13101077/honningbarna-soft-spot-Cover-Art.png",
         "best_pos": 17
     },
+    "Courtney Barnett": {
+        "points": 9,
+        "awards": [
+            [
+                "Things Take Time, Take Time",
+                "12nd place in year-end list in 2021",
+                8
+            ],
+            [
+                "Things Take Time, Take Time",
+                "5th place in Best Alternative Album of the Year in 2021",
+                1
+            ],
+            [
+                "Things Take Time, Take Time",
+                "2nd place in Best Foreign Album of the Year (Oceania) in 2021",
+                0
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/459f6c34cf9511ecf42967d6c3d0cf07/9448562/courtney-barnett-things-take-time-take-time-Cover-Art.jpg",
+        "best_pos": 12
+    },
+    "Sparklehorse": {
+        "points": 9,
+        "awards": [
+            [
+                "Bird Machine",
+                "11st place in year-end list in 2023",
+                8
+            ],
+            [
+                "Bird Machine",
+                "4th place in Best Alternative Album of the Year in 2023",
+                1
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/957b1e49932d0173ea02102bdfec94d4/11054580/sparklehorse-bird-machine-Cover-Art.jpg",
+        "best_pos": 11
+    },
     "Cameron Winter": {
         "points": 9,
         "awards": [
             [
                 "Heavy Metal",
-                "18th place in year-end list in 2024",
+                "20th place in year-end list in 2024",
                 7
             ],
             [
@@ -898,7 +898,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/3590c11e9b5d1056229a2f8f7a41055c/13814960/cameron-winter-heavy-metal-Cover-Art.jpg",
-        "best_pos": 18
+        "best_pos": 20
     },
     "Max García Conover": {
         "points": 9,
@@ -922,7 +922,7 @@
         "awards": [
             [
                 "In These Silent Days",
-                "27th place in year-end list in 2021",
+                "30th place in year-end list in 2021",
                 5
             ],
             [
@@ -932,7 +932,68 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/49bcb5cbba1e8aca49ac64eb064c97ee/9180879/brandi-carlile-in-these-silent-days-Cover-Art.jpg",
-        "best_pos": 27
+        "best_pos": 30
+    },
+    "Pedro Zani": {
+        "points": 8,
+        "awards": [
+            [
+                "Pedro Zani & As Ervas Doces",
+                "29th place in year-end list in 2021",
+                5
+            ],
+            [
+                "Pedro Zani & As Ervas Doces",
+                "3rd place in Best Pop Album of the Year in 2021",
+                3
+            ],
+            [
+                "Pedro Zani & As Ervas Doces",
+                "4th place in Best Foreign Album of the Year (South America) in 2021",
+                0
+            ]
+        ],
+        "image": "https://cdn.sonemic.net/i/600/w/27ac86adf278463859beaaa173bc7222/14769908/pedro-zani-and-as-ervas-doces-pedro-zani-and-as-ervas-doces-Cover-Art.jpg",
+        "best_pos": 29
+    },
+    "As Ervas Doces": {
+        "points": 8,
+        "awards": [
+            [
+                "Pedro Zani & As Ervas Doces",
+                "29th place in year-end list in 2021",
+                5
+            ],
+            [
+                "Pedro Zani & As Ervas Doces",
+                "3rd place in Best Pop Album of the Year in 2021",
+                3
+            ],
+            [
+                "Pedro Zani & As Ervas Doces",
+                "4th place in Best Foreign Album of the Year (South America) in 2021",
+                0
+            ]
+        ],
+        "image": "https://cdn.sonemic.net/i/600/w/27ac86adf278463859beaaa173bc7222/14769908/pedro-zani-and-as-ervas-doces-pedro-zani-and-as-ervas-doces-Cover-Art.jpg",
+        "best_pos": 29
+    },
+    "Armand Hammer": {
+        "points": 8,
+        "awards": [
+            [
+                "Haram",
+                "26th place in year-end list in 2021",
+                5
+            ],
+            [
+                "Haram",
+                "2nd place in Best Hip Hop Album of the Year in 2021",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/a9b791a9bc1f662f72bd176f66dacbd7/8888669/armand-hammer-and-the-alchemist-haram-Cover-Art.jpg",
+        "best_pos": 26
     },
     "Julia Jacklin": {
         "points": 8,
@@ -956,7 +1017,7 @@
         "awards": [
             [
                 "Ontological Mysterium",
-                "33rd place in year-end list in 2023",
+                "34th place in year-end list in 2023",
                 5
             ],
             [
@@ -966,62 +1027,6 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/447f475e69192d7cd8fc9aef7dc35430/11000901/horrendous-ontological-mysterium-Cover-Art.jpg",
-        "best_pos": 33
-    },
-    "Ana Frango Elétrico": {
-        "points": 8,
-        "awards": [
-            [
-                "Me chama de gato que eu sou sua",
-                "28th place in year-end list in 2023",
-                5
-            ],
-            [
-                "Me chama de gato que eu sou sua",
-                "2nd place in Best R&B Album of the Year in 2023",
-                3
-            ],
-            [
-                "Me chama de gato que eu sou sua",
-                "3rd place in Best Foreign Album of the Year (South America) in 2023",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/0f99d888c28f31a1f85e25d9390548a4/11229865/ana-frango-eletrico-me-chama-de-gato-que-eu-sou-sua-Cover-Art.jpg",
-        "best_pos": 28
-    },
-    "Jessie Ware": {
-        "points": 8,
-        "awards": [
-            [
-                "That! Feels Good!",
-                "27th place in year-end list in 2023",
-                5
-            ],
-            [
-                "That! Feels Good!",
-                "3rd place in Best Pop Album of the Year in 2023",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/b0f0e7c0dc7c37b6c2c4b9f6732801b4/10694043/jessie-ware-that-feels-good-Cover-Art.jpg",
-        "best_pos": 27
-    },
-    "Fruit Bats": {
-        "points": 8,
-        "awards": [
-            [
-                "A River Running to Your Heart",
-                "24th place in year-end list in 2023",
-                7
-            ],
-            [
-                "Baby Man",
-                "5th place in Best Folk Album of the Year in 2025",
-                1
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/97704b14c1c0299bab8f797908989db1/10894599/fruit-bats-a-river-running-to-your-heart-Cover-Art.jpg",
-        "best_pos": 24
+        "best_pos": 34
     }
 }

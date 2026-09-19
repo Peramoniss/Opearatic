@@ -102,17 +102,6 @@
         ],
         "best_pos": 103
     },
-    "Arlo Parks": {
-        "points": 3,
-        "awards": [
-            [
-                "Collapsed In Sunbeams",
-                "3rd place in Best Pop Album of the Year in 2021",
-                3
-            ]
-        ],
-        "best_pos": 103
-    },
     "Silk Sonic": {
         "points": 3,
         "awards": [
@@ -129,7 +118,7 @@
         "awards": [
             [
                 "Space 1.8",
-                "4th place in Best Foreign Album of the Year (Europe) in 2021",
+                "5th place in Best Foreign Album of the Year (Europe) in 2021",
                 0
             ],
             [
@@ -143,7 +132,7 @@
                 0
             ]
         ],
-        "best_pos": 104
+        "best_pos": 105
     },
     "Courting": {
         "points": 3,
@@ -391,17 +380,6 @@
         ],
         "best_pos": 103
     },
-    "The Messthetics and James Brandon Lewis": {
-        "points": 3,
-        "awards": [
-            [
-                "The Messthetics and James Brandon Lewis",
-                "3rd place in Best Jazz Album of the Year in 2024",
-                3
-            ]
-        ],
-        "best_pos": 103
-    },
     "Grande Mahogany": {
         "points": 3,
         "awards": [
@@ -516,17 +494,6 @@
         ],
         "best_pos": 103
     },
-    "Touchdown Jesus": {
-        "points": 3,
-        "awards": [
-            [
-                "It's All Feast or Famine",
-                "3rd place in Best EP of the Year in 2025",
-                3
-            ]
-        ],
-        "best_pos": 103
-    },
     "Vauruvã": {
         "points": 2,
         "awards": [
@@ -560,11 +527,6 @@
                 "Menneskekollektivet",
                 "4th place in Best Electronic Album of the Year in 2021",
                 1
-            ],
-            [
-                "Menneskekollektivet",
-                "5th place in Best Foreign Album of the Year (Europe) in 2021",
-                0
             ]
         ],
         "best_pos": 104
@@ -575,17 +537,6 @@
             [
                 "Fishmonger",
                 "5th place in Best Electronic Album of the Year in 2021",
-                1
-            ]
-        ],
-        "best_pos": 105
-    },
-    "Lana Del Rey": {
-        "points": 1,
-        "awards": [
-            [
-                "Chemtrails Over The Country Club",
-                "5th place in Best Folk Album of the Year in 2021",
                 1
             ]
         ],
@@ -602,21 +553,16 @@
         ],
         "best_pos": 104
     },
-    "Japanese Breakfast": {
+    "Arlo Parks": {
         "points": 1,
         "awards": [
             [
-                "Jubilee",
-                "5th place in Best Pop Album of the Year in 2021",
+                "Collapsed In Sunbeams",
+                "4th place in Best Pop Album of the Year in 2021",
                 1
-            ],
-            [
-                "Jubilee",
-                "5th place in Best Foreign Album of the Year (Asia) in 2021",
-                0
             ]
         ],
-        "best_pos": 105
+        "best_pos": 104
     },
     "Remi Wolf": {
         "points": 1,
@@ -628,5 +574,59 @@
             ]
         ],
         "best_pos": 104
+    },
+    "Yola": {
+        "points": 1,
+        "awards": [
+            [
+                "Stand For Myself",
+                "5th place in Best R&B Album of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
+    },
+    "betcover!!": {
+        "points": 1,
+        "awards": [
+            [
+                "Jikan",
+                "4th place in Best Foreign Album of the Year (Asia) in 2021",
+                0
+            ],
+            [
+                "Tamago",
+                "4th place in Best Jazz Album of the Year in 2022",
+                1
+            ],
+            [
+                "Tamago",
+                "4th place in Best Foreign Album of the Year (Asia) in 2022",
+                0
+            ]
+        ],
+        "best_pos": 104
+    },
+    "PinkPantheress": {
+        "points": 1,
+        "awards": [
+            [
+                "To Hell With It",
+                "4th place in Best EP of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 104
+    },
+    "Beach Bunny": {
+        "points": 1,
+        "awards": [
+            [
+                "Blame Game",
+                "5th place in Best EP of the Year in 2021",
+                1
+            ]
+        ],
+        "best_pos": 105
     }
 }

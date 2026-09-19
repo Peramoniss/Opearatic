@@ -2,21 +2,6 @@
   "list": [
     {
       
-      "cover": "https://e.snmc.io/i/600/w/78a1b15bb9b22f1d8511f6ac6cb8b108/9418065/asian-glow-cull-ficle-Cover-Art.png",
-      "score": "7.7",
-      "artist": "Asian Glow",
-      "album": "Cull Ficle",
-      "year": 2021,
-      "title": "All the signs say I'm not good enough for everything",
-      "review": "Asian Glow's most recognized release this year was his collab album with Parannoul and sonhos tomam conta. Even if I liked his contributions to the split record, In believe this album is much better (probably because I don't have to hear Parannoul). This has some of the most gorgeous melodies I've heard in a long time, showcasing great, catchy songwriting, good instrumentation, and hearty vocal delivery. The calm before the tempest formula of emo music is mastered here. Even so, I must say the production is weak. I know this is a lo-fi record, but the mixing is very poor, even for the aesthetic. The vocals are too low in the mix, and the instruments make a hazy, over-processed sound that makes them unrecognizable sometimes (to the point I can't even say if the drums are electronic or just remarkably processed in the mixing). Even when you can hear them all, it seems like the song would get much better if it had a cleaner production. Also, the album has some noisy tracks that fall hard on the ears. Still, songs like Yes It Is and Piglet make this a great record that puts Asian Glow in my sight, even if I tend to find most of the emo sweeties in RYM very overrated.",
-      "highlights": [
-        "Yes It Is",
-        "Piglet"
-      ],
-      "honorable": 1
-    },
-    {
-      
       "cover": "https://e.snmc.io/i/600/w/49bcb5cbba1e8aca49ac64eb064c97ee/9180879/brandi-carlile-in-these-silent-days-Cover-Art.jpg",
       "score": "7.7",
       "artist": "Brandi Carlile",
@@ -90,7 +75,7 @@
         "Falling Out the Sky", 
         "Stonefruit"
       ],
-      "honorable": 0
+      "honorable": 1
     },
     {
       
@@ -371,6 +356,22 @@
       "honorable": 0
     },
     {
+      "cover": "https://cdn.sonemic.net/i/600/w/a0cb95c92dea741e876b0dadeeb61885/14739449/gezebelle-gaburgably-the-fridge-Cover-Art.jpg",
+      "score": "8.2",
+      "artist": "Gezebelle Gaburgably",
+      "album": "The Fridge",
+      "year": 2021,
+      "title": "I hate my life, so I make it right. I hate my life, so I fuckin' lie",
+      "review": "Ok, so the story behind this album is insane. I don't want to go too deep in this rabbit hole, but to sum up, Gezebelle started making music at 16 and was bundled up in a scene called incel-core (yes, it exists). This record comes out alongside a gender reveal (yes, it exists, pt. II), and her fanbase discovered that the revered incel man was actually a cisgender woman. There are several sociological implications and debates that this story brings up, but it's beside the point and the space I'll allow myself to put in here.<br><br>Trust me, this context is needed to understand how profound and mature most of the lyrics in this record are. Because a great deal of the songs are about lying, cheating, masks, and facades, and while they can be easily interpreted as something personal or about a relationship, every song is essentially about her realizing that this fake incel male persona she created was not who she was, and this lie was consuming her. Every song takes a whole different perspective when you hear them with this background in mind. And, at least to me, they really get much more profound, personal, and unmistakably hers.<br><br>But her evolution is not only in terms of lyrical content or stopping to pretend to be misogynistic. The sound also became cleaner, moving away from the excessively lo-fi sound of the early albums, and the arrangements got much more creative as well, distancing a little from the Slacker sound and going more into the ample Indie territory. There are fewer electronic influences as well, which to me is a blessing because the electronic songs here are the worst to me, including Phlegm, a contender for her worst song ever. Her vocals were still a bit raw and amateurish at this phase, and she would improve a lot in just a few years, but they are also pretty good. There seems to be a whole thing going on about her changing from her masculine persona's voice to her feminine voice, but to me there's no difference; it's just a deeper voice when a song is more intense and more delicate in ballads, which is completely normal and has nothing to do with femininity, but considering she fooled thousands of people, I suppose it was a thing. And the songwriting is really strong and consistent, with these bittersweet, melodic, fast-paced tracks that worked really well. The first half is considerably stronger to me, but it's entirely good (again, except for Phlegm). Even if this sound does not appeal to you, the simple story behind this album makes it one of the most unique and curious musical statements to exist, and it is certainly worth your time.",
+      "highlights": [
+        "Nothing Ever Feels Right", 
+        "Sour Patch Kid",
+        "Spider Vinegar",
+        "Smelly Jelly"
+      ],
+      "honorable": 0
+    },
+    {
       "cover": "https://e.snmc.io/i/600/w/ac654ec4dbdc0e89852256fbcd4c977f/9413617/tricot-%E4%B8%8A%E5%87%BA%E6%9D%A5-Cover-Art.jpg",
       "score": "8.3",
       "artist": "tricot",
@@ -484,9 +485,9 @@
       "nominees": [
         "Gami Gang - Origami Angel",
         "I Know I'm Funny haha - Faye Webster",
+        "The Fridge - Gezebelle Gaburgably",
         "No Buses - No Buses",
-        "Things Take Time, Take Time - Courtney Barnett",
-        "CINEMA - The Marías"
+        "Things Take Time, Take Time - Courtney Barnett"
       ],
       "winner-sentence": "gg",
       "prize-picture": "https://creativeloafing.com/dl60168?display&x=990&y=990"
@@ -691,11 +692,11 @@
         "Gami Gang - Origami Angel",
         "Volcanic Bird Enemy and the Voiced Concern - Lil Ugly Mane",
         "I Know I'm Funny haha - Faye Webster",
-        "Jodeki - tricot"
+        "Seek Shelter - Iceage"
       ],
       "winner-sentence": "Gem.",
       "prize-picture": "https://dailynexus.s3.us-west-1.amazonaws.com/dailynexus/wp-content/uploads/2021/10/03164357/sufjan-stevens.jpg"
     }
   ],
-  "last_modified":"August 17, 2026 at 00:39"
+  "last_modified":"September 19, 2026 at 17:26"
 }
