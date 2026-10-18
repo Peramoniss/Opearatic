@@ -1,5 +1,16 @@
 {
-    "list": [ 
+    "list": [
+        {
+        "cover": "https://e.snmc.io/i/600/w/bd16531425d24f1d3a5bd242141a92c9/10321717/carly-rae-jepsen-the-loneliest-time-Cover-Art.jpg",
+        "score": "7.7",
+        "artist": "Carly Rae Jepsen",
+        "album": "The Loneliest Time",
+        "year": 2022,
+        "title": "I get all my confidence from you",
+        "review": "Another Dance-Pop record by Canadian singer Carly Rae Jepsen. Yes, it's more of the same, Carly doesn't change her style at all here. Still, and I don't know exactly why, the songs here are really catchy and fun to listen to. I could compare it to Happier Than Ever because of the weird similarities in these albums' covers, but I don't think that she matured her sound or anything like Billie did, she was just really inspired here. I somehow feel like someone who is enjoying an early 2010s party while listening to the music here, and I dislike either parties, early 2010s, and Dance-Pop. I can't explain why I like this album, but I think Carly made a very consistent and fun album. The more calm and sad pieces also diversify in a very good way here. I recommend Sideways, Beach House, and The Loneliest Time.",
+        "highlights": ["Sideways", "Beach House", "The Loneliest Time"],
+        "honorable": 1
+        },
         {
         
         "cover": "https://e.snmc.io/i/600/w/14a87bf41fd814735ff8b775d1492695/10138620/%E6%98%8E%E6%97%A5%E3%81%AE%E5%8F%99%E6%99%AF-asunojokei-%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89-Cover-Art.jpg",
@@ -13,6 +24,17 @@
         "honorable": 1
         },
         {
+        "cover": "https://cdn.sonemic.net/i/600/w/4cb4a4c9acc69f56e9852789b18f2cd4/9503983/big-thief-dragon-new-warm-mountain-i-believe-in-you-Cover-Art.jpg",
+        "score": "7.7",
+        "artist": "Big Thief",
+        "album": "Dragon New Warm Mountain I Believe in You",
+        "year": 2022,
+        "title": "The only place that matters is by your side",
+        "review": "Big Thief makes folk-ish, beautiful melodies like few others do. Their albums are stunning, and the songs create astounding landscapes in our minds. Adrianne Lenker's vocals are lovely, and the guitars have a very specific tone that works really well. Well, that's the description of their good songs. And that's where the problem of this record lies. It is far too long (20 songs and 80 minutes), and of course, it's not great in its entirety. The great songs are fantastic, but those are just a few in the middle of a bunch of fillers. I think the album is pretty strong, but appreciation is disturbed by the several weak tracks that tire you before the end. I think the argument of \"if it only was a single album\" is weak because, if it was a single album, there's a good chance they wouldn't feature the track I liked, but I can't pretend I don't think I would appreciate it better if it was more concise. So overall, it is a mixed bag with amazing highlights, including The Only Place, which is one of the best songs of the year and the best Big Thief song.",
+        "highlights": ["Dried Roses", "Simulation Swarm", "The Only Place"],
+        "honorable": 1
+        },
+        {
         
         "cover": "https://e.snmc.io/i/600/w/001849b144c7522aa0c3a2419def3eff/9777497/horsegirl-versions-of-modern-performance-Cover-Art.jpg",
         "score": "7.7",
@@ -22,7 +44,7 @@
         "title": "Sometimes I'm thinking that I lust you but I know it's only love",
         "review": "In their debut, Horesegirl makes a Slacker Rock album with beautiful melodies and nice melodies. The lo-fi production is kind of mediocre, and the songwriting is rather amateur, but this is also part of the charm that the girls' sound has. The songs are a bit too short and the album feels like it is doing too little, but it still is a good debut that shows a lot of space to grow. Beautiful Song and World of Pots and Pans are the standouts here.",
         "highlights": ["Beautiful Song", "World of Pots and Pans"],
-        "honorable": 1
+        "honorable": 0
         },
         {
         
@@ -34,7 +56,7 @@
         "title": "And one day the human race will not be run by bullies",
         "review": "Robyn has been in the best streak of albums in his life in his 60s, and this is something that has to be pointed. His ability to write catchy, yet inventive and emotional Pop Rock tunes only get better. His lyrics are as great as always, and with age, he learned to write lyrics that are just as clever and touchy, but more direct and easily understandable. Here, he has a psychedelic touch that makes those quite simple tracks something else. His voice is as great as ever, and though there is less consistency than in his previous two records, we still have some very inspired tracks, like the opener The Shuffle Man, Noirer Than Noir and One Day (It's Being Scheduled). Another great late record by an artist that is having his best works that late in his career.",
         "highlights": ["The Shuffle Man", "Noirer Than Noir", "One Day (It's Being Scheduled)"],
-        "honorable": 1
+        "honorable": 0
         },
 
         {
@@ -47,7 +69,7 @@
         "title": "But perhaps if I sing you the tune, maybe you know the song I am talking about?",
         "review": "MIKE has been one of the most prominent and best rappers in the current scene. Drinking a lot from Earl's Abstract Jazz Rap style, he makes a name for himself by a very unique and charming usage of samples. I'm not the biggest fan of his voice, lyrics, nor flow, but his production is always very interesting, and I think this album is the one that better aligns with my taste, focusing on the jazzy and moody elements and less on rapping itself. Just exactly the kind of Hip Hop I enjoy and recommend. Nuthin I can do is Wrng and What do I do? are the best songs here.",
         "highlights": ["Nuthin I can do is Wrng", "What do I do?"],
-        "honorable": 1
+        "honorable": 0
         },
         {
         
@@ -59,7 +81,18 @@
         "title": "I think it's time I stop running from myself",
         "review": "In his debut, Obongjayar brings a gorgeous multi-layered Art Pop record with touches of R&B and Soul music. His sound is very unique, as he adds some Ambient influences to the combination and makes this a very atmospheric record. The pianos here are very touchy and the lyrics very creative and self-reflecting. The album lacks a bit of highlights and the vocal performances lack a bit of emotion, but this is a really exciting, innovative, and promising debut. The title track and New Man are the best songs here.",
         "highlights": ["Some Nights I Dream of Doors", "New Man"],
-        "honorable": 1
+        "honorable": 0
+        },
+        {
+        "cover": "https://e.snmc.io/i/600/w/dfa81865079d8419ec259c7011adbd4d/10282019/tulipa-ruiz-habilidades-extraordinarias-Cover-Art.jpg",
+        "score": "7.7",
+        "artist": "Tulipa Ruiz",
+        "album": "Habilidades extraordinárias",
+        "year": 2022,
+        "title": "Não aguento mais essa gente se achando gente diferente da gente",
+        "review": "The grooviest album I've heard in a long time. It's really hard to listen to Soul and Funk music nowadays that doesn't sound too outdated or too modern, but this is just in the right measure. Her vocals are pretty good, and the instrumentation is really tight ad jammy. I love the bass especially, good pitch and extremely well recorded. I admit that when she focuses on the MPB side of the record, it is very bland, not to say annoying. It weighs down the album, but the good moments, like Estardalhaço, Pluma Black, and Novelos are all great tracks.",
+        "highlights": ["Estardalhaço", "Pluma Black", "Novelos"],
+        "honorable": 0
         },
         {
         "cover": "https://cdn.sonemic.net/i/600/w/f458f6c66f104f182e3cfba2d7c39c87/9787530/gezebelle-gaburgably-happy-smile-Cover-Art.jpg",
@@ -109,14 +142,15 @@
         "honorable": 0
         },
         {
-        "cover": "https://e.snmc.io/i/600/w/dfa81865079d8419ec259c7011adbd4d/10282019/tulipa-ruiz-habilidades-extraordinarias-Cover-Art.jpg",
+        
+        "cover": "https://cdn.sonemic.net/i/600/w/2ed536c44b7a4ab1484209021394e45d/9737935/cola-deep-in-view-Cover-Art.jpg",
         "score": "7.8",
-        "artist": "Tulipa Ruiz",
-        "album": "Habilidades extraordinárias",
+        "artist": "Cola",
+        "album": "Deep in View",
         "year": 2022,
-        "title": "Não aguento mais essa gente se achando gente diferente da gente",
-        "review": "The grooviest album I've heard in a long time. It's really hard to listen to Soul and Funk music nowadays that doesn't sound too outdated or too modern, but this is just in the right measure. Her vocals are pretty good, and the instrumentation is really tight ad jammy. I love the bass especially, good pitch and extremely well recorded. I admit that when she focuses on the MPB side of the record, it is very bland, not to say annoying. It weighs down the album, but the good moments, like Estardalhaço, Pluma Black, and Novelos are all great tracks.",
-        "highlights": ["Estardalhaço", "Pluma Black", "Novelos"],
+        "title": "I think I am doing alright, don't need additional lives",
+        "review": "The guys from Ought move away from their punk roots and approach a sloppy warm night Indie Rock in their new project Cola. Ought's best songs were the most melodically rich ones, and here they seem to follow this path for the entire record. The songs are quite simple, focusing in keeping these introspective night vibes with the bubbly basslines and repetitive melodic guitars. While there's nothing very new and the songs are quite simple, the basslines are really good and extremely well-recorded, and the melodies are pretty good. The atmosphere works really well, but the lack of variation may be an issue depending on the perspective. Overall, I'd say it's nothing really new, but it's really well made music with its own little charm.",
+        "highlights": ["Water Table"],
         "honorable": 0
         },
         {
@@ -589,5 +623,5 @@
             "prize-picture": "https://static01.nyt.com/images/2022/02/08/arts/07blackcountry-review1/merlin_201346224_3203bed0-0a63-43f4-aafc-d1a5d9ec0df9-superJumbo.jpg"
         }
     ],
-  "last_modified":"September 19, 2026 at 17:26"
+  "last_modified":"October 17, 2026 at 22:29"
 }
