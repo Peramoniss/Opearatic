@@ -1,4 +1,38 @@
 {
+    "Julia Jacklin": {
+        "points": 8,
+        "awards": [
+            [
+                "PRE PLEASURE",
+                "13rd place in year-end list in 2022",
+                8
+            ],
+            [
+                "PRE PLEASURE",
+                "1st place in Best Foreign Album of the Year (Oceania) in 2022",
+                0
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/5cc7889396cf7bbf99b619a9d060282e/9934659/julia-jacklin-pre-pleasure-Cover-Art.jpg",
+        "best_pos": 13
+    },
+    "Horrendous": {
+        "points": 8,
+        "awards": [
+            [
+                "Ontological Mysterium",
+                "34th place in year-end list in 2023",
+                5
+            ],
+            [
+                "Ontological Mysterium",
+                "3rd place in Best Heavy Album of the Year in 2023",
+                3
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/447f475e69192d7cd8fc9aef7dc35430/11000901/horrendous-ontological-mysterium-Cover-Art.jpg",
+        "best_pos": 34
+    },
     "Ana Frango Elétrico": {
         "points": 8,
         "awards": [
@@ -194,6 +228,18 @@
         ],
         "image": "https://e.snmc.io/i/600/w/be21b311f20dbcf7585e9d1a190f7e4c/10357271/ninos-del-cerro-suave-pendiente-Cover-Art.jpg",
         "best_pos": 22
+    },
+    "Cola": {
+        "points": 7,
+        "awards": [
+            [
+                "Deep in View",
+                "21st place in year-end list in 2022",
+                7
+            ]
+        ],
+        "image": "https://cdn.sonemic.net/i/600/w/2ed536c44b7a4ab1484209021394e45d/9737935/cola-deep-in-view-Cover-Art.jpg",
+        "best_pos": 21
     },
     "Forests": {
         "points": 7,
@@ -466,12 +512,12 @@
         "awards": [
             [
                 "Shufflemania!",
-                "28th place in year-end list in 2022",
+                "29th place in year-end list in 2022",
                 5
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/82f024c0db1632b17a7c8aed23ff214c/10114057/robyn-hitchcock-shufflemania-Cover-Art.jpg",
-        "best_pos": 28
+        "best_pos": 29
     },
     "Bladee": {
         "points": 5,
@@ -506,28 +552,6 @@
         ],
         "best_pos": 101,
         "image": "https://i1.sndcdn.com/artworks-000464973009-d53j5z-t500x500.jpg"
-    },
-    "Carly Rae Jepsen": {
-        "points": 5,
-        "awards": [
-            [
-                "The Loneliest Time",
-                "1st place in Best Pop Album of the Year in 2022",
-                5
-            ],
-            [
-                "The Loneliest Time",
-                "3rd place in Best Foreign Album of the Year (North or Central America) in 2022",
-                0
-            ],
-            [
-                "The Loveliest Time",
-                "2nd place in Best Foreign Album of the Year (North or Central America) in 2023",
-                0
-            ]
-        ],
-        "best_pos": 101,
-        "image": "https://i.scdn.co/image/ab676161000051748272bf414106646e0e4a89f3"
     },
     "Weatherday": {
         "points": 5,
@@ -756,37 +780,5 @@
             ]
         ],
         "best_pos": 102
-    },
-    "Billie Eilish": {
-        "points": 4,
-        "awards": [
-            [
-                "Happier Than Ever",
-                "5th place in Best Pop Album of the Year in 2021",
-                1
-            ],
-            [
-                "Guitar Songs",
-                "2nd place in Best EP of the Year in 2022",
-                3
-            ]
-        ],
-        "best_pos": 105
-    },
-    "Lupe Fiasco": {
-        "points": 4,
-        "awards": [
-            [
-                "Drill Music in Zion",
-                "4th place in Best Hip Hop Album of the Year in 2022",
-                1
-            ],
-            [
-                "Samurai",
-                "2nd place in Best Hip Hop Album of the Year in 2024",
-                3
-            ]
-        ],
-        "best_pos": 104
     }
 }

@@ -43,7 +43,7 @@
         "awards": [
             [
                 "Versions of Modern Performance",
-                "29th place in year-end list in 2022",
+                "30th place in year-end list in 2022",
                 5
             ],
             [
@@ -690,12 +690,39 @@
         "image": "https://e.snmc.io/i/600/w/ef5e22a5e7c78115920395fec65a0ecf/12740749/mac-miller-balloonerism-Cover-Art.jpg",
         "best_pos": 13
     },
+    "Carly Rae Jepsen": {
+        "points": 10,
+        "awards": [
+            [
+                "The Loneliest Time",
+                "33rd place in year-end list in 2022",
+                5
+            ],
+            [
+                "The Loneliest Time",
+                "1st place in Best Pop Album of the Year in 2022",
+                5
+            ],
+            [
+                "The Loneliest Time",
+                "3rd place in Best Foreign Album of the Year (North or Central America) in 2022",
+                0
+            ],
+            [
+                "The Loveliest Time",
+                "2nd place in Best Foreign Album of the Year (North or Central America) in 2023",
+                0
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/bd16531425d24f1d3a5bd242141a92c9/10321717/carly-rae-jepsen-the-loneliest-time-Cover-Art.jpg",
+        "best_pos": 33
+    },
     "Asunojokei": {
         "points": 10,
         "awards": [
             [
                 "Island",
-                "30th place in year-end list in 2022",
+                "32nd place in year-end list in 2022",
                 5
             ],
             [
@@ -705,14 +732,14 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/14a87bf41fd814735ff8b775d1492695/10138620/%E6%98%8E%E6%97%A5%E3%81%AE%E5%8F%99%E6%99%AF-asunojokei-%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89-Cover-Art.jpg",
-        "best_pos": 30
+        "best_pos": 32
     },
     "Obongjayar": {
         "points": 10,
         "awards": [
             [
                 "Some Nights I Dream of Doors",
-                "26th place in year-end list in 2022",
+                "27th place in year-end list in 2022",
                 5
             ],
             [
@@ -737,29 +764,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/a3778187b74e6127c01b3ab66cc268bd/9831153/obongjayar-some-nights-i-dream-of-doors-Cover-Art.jpg",
-        "best_pos": 26
-    },
-    "Tulipa Ruiz": {
-        "points": 10,
-        "awards": [
-            [
-                "Habilidades extraordinárias",
-                "21st place in year-end list in 2022",
-                7
-            ],
-            [
-                "Habilidades extraordinárias",
-                "2nd place in Best R&B Album of the Year in 2022",
-                3
-            ],
-            [
-                "Habilidades extraordinárias",
-                "2nd place in Best Foreign Album of the Year (South America) in 2022",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/dfa81865079d8419ec259c7011adbd4d/10282019/tulipa-ruiz-habilidades-extraordinarias-Cover-Art.jpg",
-        "best_pos": 21
+        "best_pos": 27
     },
     "Wet Leg": {
         "points": 10,
@@ -995,38 +1000,43 @@
         "image": "https://e.snmc.io/i/600/w/a9b791a9bc1f662f72bd176f66dacbd7/8888669/armand-hammer-and-the-alchemist-haram-Cover-Art.jpg",
         "best_pos": 26
     },
-    "Julia Jacklin": {
+    "Big Thief": {
         "points": 8,
         "awards": [
             [
-                "PRE PLEASURE",
-                "13rd place in year-end list in 2022",
-                8
-            ],
-            [
-                "PRE PLEASURE",
-                "1st place in Best Foreign Album of the Year (Oceania) in 2022",
-                0
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/5cc7889396cf7bbf99b619a9d060282e/9934659/julia-jacklin-pre-pleasure-Cover-Art.jpg",
-        "best_pos": 13
-    },
-    "Horrendous": {
-        "points": 8,
-        "awards": [
-            [
-                "Ontological Mysterium",
-                "34th place in year-end list in 2023",
+                "Dragon New Warm Mountain I Believe in You",
+                "31st place in year-end list in 2022",
                 5
             ],
             [
-                "Ontological Mysterium",
-                "3rd place in Best Heavy Album of the Year in 2023",
+                "Dragon New Warm Mountain I Believe in You",
+                "3rd place in Best Folk Album of the Year in 2022",
                 3
             ]
         ],
-        "image": "https://e.snmc.io/i/600/w/447f475e69192d7cd8fc9aef7dc35430/11000901/horrendous-ontological-mysterium-Cover-Art.jpg",
-        "best_pos": 34
+        "image": "https://cdn.sonemic.net/i/600/w/4cb4a4c9acc69f56e9852789b18f2cd4/9503983/big-thief-dragon-new-warm-mountain-i-believe-in-you-Cover-Art.jpg",
+        "best_pos": 31
+    },
+    "Tulipa Ruiz": {
+        "points": 8,
+        "awards": [
+            [
+                "Habilidades extraordinárias",
+                "26th place in year-end list in 2022",
+                5
+            ],
+            [
+                "Habilidades extraordinárias",
+                "2nd place in Best R&B Album of the Year in 2022",
+                3
+            ],
+            [
+                "Habilidades extraordinárias",
+                "2nd place in Best Foreign Album of the Year (South America) in 2022",
+                0
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/dfa81865079d8419ec259c7011adbd4d/10282019/tulipa-ruiz-habilidades-extraordinarias-Cover-Art.jpg",
+        "best_pos": 26
     }
 }
