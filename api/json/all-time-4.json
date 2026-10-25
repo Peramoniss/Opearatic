@@ -515,6 +515,17 @@
         ],
         "best_pos": 103
     },
+    "Westside Cowboy": {
+        "points": 3,
+        "awards": [
+            [
+                "This Better Be Something Great",
+                "3rd place in Best EP of the Year in 2025",
+                3
+            ]
+        ],
+        "best_pos": 103
+    },
     "Vauruvã": {
         "points": 2,
         "awards": [
@@ -624,17 +635,6 @@
                 "Tamago",
                 "4th place in Best Foreign Album of the Year (Asia) in 2022",
                 0
-            ]
-        ],
-        "best_pos": 104
-    },
-    "PinkPantheress": {
-        "points": 1,
-        "awards": [
-            [
-                "To Hell With It",
-                "4th place in Best EP of the Year in 2021",
-                1
             ]
         ],
         "best_pos": 104

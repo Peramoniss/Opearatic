@@ -148,7 +148,7 @@
         "best_pos": 5
     },
     "Gezebelle Gaburgably": {
-        "points": 35,
+        "points": 33,
         "awards": [
             [
                 "The Fridge",
@@ -167,8 +167,8 @@
             ],
             [
                 "Gaburger",
-                "5th place in year-end list in 2023",
-                12
+                "6th place in year-end list in 2023",
+                10
             ],
             [
                 "Gaburger",
@@ -177,7 +177,7 @@
             ]
         ],
         "image": "https://cdn.sonemic.net/i/600/w/cef932e243aa351a3d57c50eb58f73dd/11112327/gezebelle-gaburgably-gaburger-Cover-Art.jpg",
-        "best_pos": 5
+        "best_pos": 6
     },
     "Angelo De Augustine": {
         "points": 33,
@@ -243,7 +243,7 @@
         "awards": [
             [
                 "3D Country",
-                "6th place in year-end list in 2023",
+                "7th place in year-end list in 2023",
                 10
             ],
             [
@@ -701,7 +701,7 @@
         "awards": [
             [
                 "Hydranism",
-                "4th place in year-end list in 2023",
+                "5th place in year-end list in 2023",
                 12
             ],
             [
@@ -721,7 +721,7 @@
             ]
         ],
         "image": "https://e.snmc.io/i/600/w/3c6c12376a6a010726332bcb3ac95207/10875269/oracle-sisters-hydranism-Cover-Art.jpg",
-        "best_pos": 4
+        "best_pos": 5
     },
     "Wilco": {
         "points": 22,
@@ -791,33 +791,6 @@
         ],
         "image": "https://e.snmc.io/i/600/w/48c241c7b374f8e03665c07b7591e858/9203088/fievel-is-glauque-gods-trashmen-sent-to-right-the-mess-Cover-Art.jpg",
         "best_pos": 19
-    },
-    "Wallows": {
-        "points": 21,
-        "awards": [
-            [
-                "Singles Collection 2017-2020",
-                "17th place in year-end list in 2022",
-                7
-            ],
-            [
-                "Tell Me That It's Over",
-                "7th place in year-end list in 2022",
-                10
-            ],
-            [
-                "Tell Me That It's Over",
-                "4th place in Best Alternative Album of the Year in 2022",
-                1
-            ],
-            [
-                "More",
-                "3rd place in Best EP of the Year in 2025",
-                3
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/b41cd2f527f69e937005114c7a615022/9714949/wallows-tell-me-that-it%E2%80%99s-over-Cover-Art.jpg",
-        "best_pos": 7
     },
     "No Buses": {
         "points": 20,
@@ -1045,6 +1018,28 @@
         "best_pos": 7,
         "image": "https://e.snmc.io/i/600/w/63ad7ca33aeb34e56ceb8ee63c547e3f/12764796/%EA%B9%80%EB%9C%BB%EB%8F%8C-meaningful-stone-%EC%B2%9C%EC%82%AC-%EC%9D%B8%ED%84%B0%EB%B7%B0-Cover-Art.jpg"
     },
+    "Wallows": {
+        "points": 18,
+        "awards": [
+            [
+                "Singles Collection 2017-2020",
+                "17th place in year-end list in 2022",
+                7
+            ],
+            [
+                "Tell Me That It's Over",
+                "7th place in year-end list in 2022",
+                10
+            ],
+            [
+                "Tell Me That It's Over",
+                "4th place in Best Alternative Album of the Year in 2022",
+                1
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/b41cd2f527f69e937005114c7a615022/9714949/wallows-tell-me-that-it%E2%80%99s-over-Cover-Art.jpg",
+        "best_pos": 7
+    },
     "Marco Castello": {
         "points": 18,
         "awards": [
@@ -1120,6 +1115,23 @@
         ],
         "image": "https://e.snmc.io/i/600/w/05d09bfad018301751bc0b2502df3b56/10442177/sobs-air-guitar-Cover-Art.jpg",
         "best_pos": 3
+    },
+    "Hail the Sun": {
+        "points": 17,
+        "awards": [
+            [
+                "Divine Inner Tension",
+                "4th place in year-end list in 2023",
+                12
+            ],
+            [
+                "Divine Inner Tension",
+                "1st place in Best Heavy Album of the Year in 2023",
+                5
+            ]
+        ],
+        "image": "https://e.snmc.io/i/600/w/69b56c7dd752157030ee746a50388c22/10988195/hail-the-sun-divine-inner-tension-Cover-Art.jpg",
+        "best_pos": 4
     },
     "Jeff Tweedy": {
         "points": 17,
@@ -1323,23 +1335,6 @@
         ],
         "image": "https://e.snmc.io/i/600/w/4f648a996a16992718dbfdad45c91b5d/10128558/alvvays-blue-rev-Cover-Art.jpg",
         "best_pos": 4
-    },
-    "Hail the Sun": {
-        "points": 15,
-        "awards": [
-            [
-                "Divine Inner Tension",
-                "8th place in year-end list in 2023",
-                10
-            ],
-            [
-                "Divine Inner Tension",
-                "1st place in Best Heavy Album of the Year in 2023",
-                5
-            ]
-        ],
-        "image": "https://e.snmc.io/i/600/w/69b56c7dd752157030ee746a50388c22/10988195/hail-the-sun-divine-inner-tension-Cover-Art.jpg",
-        "best_pos": 8
     },
     "Wednesday": {
         "points": 14,
